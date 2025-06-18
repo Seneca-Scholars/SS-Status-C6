@@ -1,2 +1,4 @@
 
-6/18/25: today we reviewed as a cohort how we felt about the lesson from yesterday, did HR paperwork, and set up git, github, and sandbox
+6/18/25: 
+This is what we did 
+reviewed as a cohort how we felt about the lesson from yesterday, did HR paperwork, and set up git, github, and sandbox
