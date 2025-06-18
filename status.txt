@@ -1,0 +1,2 @@
+* 18-2025
+got setup on vscode
