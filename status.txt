@@ -4,4 +4,3 @@ Got set up with VScode
 * 6/20/25
 Set up SSH Key in GitHub
 Re-entered and updated status.txt
-
