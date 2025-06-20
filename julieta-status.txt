@@ -1,2 +1,2 @@
-06/18/2025
-Today, I got set up on VS Code and worked on the onboarding process with Nell on Paylocity. There are still some portions of the Paylocity tasks waiting to be completed, but Nell informed us we may wrap them up on Friday. 
+06/20/2025
+Today, I completed all the Paylocity tasks and Onboarding tasks. I also created an SSH key and learned about that authentication component. 
