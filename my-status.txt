@@ -1,1 +1,5 @@
 6/18/25: I downloaded homebrew and installed git`
+
+6/20/25: I reviwed how to edit my status file.
+
+6/23/25:: I learned more aboutt accessing directories in vscode and making changes in files within the terminal.
