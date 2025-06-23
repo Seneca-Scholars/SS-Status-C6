@@ -6,4 +6,10 @@ Today we reviewed as a cohort how we felt about the lesson from yesterday, did H
 6/20/25:
 
 Today we talked abbout the questions we as a cohort had, and finished up all the HR paperwork, Im excited for week 1 and all there is to come! But, 
-in the meantime, I'm going to spend time understanding terminal and practicing concepts Ive been exposed to. 
+in the  meantime, I'm going to spend time understanding terminal and practicing concepts Ive been exposed to.
+
+6/23/25
+
+Today we spent some time in a lesson learning how to use commands to operate, update, and navigate the terminal...
+
+ 
