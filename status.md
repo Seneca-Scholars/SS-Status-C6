@@ -1,0 +1,11 @@
+* 6/23/2025
+Renamed file to status.md
+Registered for classes at Georgia Tech
+
+* 6/20/25
+Set up SSH Key in GitHub
+Re-entered and updated status.md
+
+* 6/18/2025
+Got set up with VScode
+
