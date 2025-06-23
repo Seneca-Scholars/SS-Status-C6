@@ -7,4 +7,5 @@ i 06/18/25 I had to get on the bus and was early today
 =======
 
 6/18/25: today we reviewed as a cohort how we felt about the lesson from yesterday, did HR paperwork, and set up git, github, and sandbox
->>>>>>> 9e2f1ba (frist commit)
+
+6/20/25 I just ate lunch and I am tired
