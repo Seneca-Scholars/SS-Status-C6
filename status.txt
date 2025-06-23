@@ -1,2 +1,3 @@
 I installed brew today
 6/20 I made an ssh key and did onboarding 
+6/23 I am practicing sending changes to github right now. 
