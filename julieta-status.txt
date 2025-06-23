@@ -1,2 +1,3 @@
-06/20/2025
-Today, I completed all the Paylocity tasks and Onboarding tasks. I also created an SSH key and learned about that authentication component. 
+06/23/2025
+Today I want to investigate more into the basic command modifiers that we can use in the terminal that start with a dash, such as -b. I also want to prepare for tomorrow's lesson on pull requests and what they are, how they work. Then the third investigation I want to commence is on html basics because I have never learned that language before in school or in any other classes and I would like to be at the same level as my cohort peers for when we start working with html. I also learned I should save the previous status updates instead of replacing them with the current day's update.  
+
