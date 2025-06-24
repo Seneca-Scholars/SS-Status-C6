@@ -3,11 +3,12 @@
 -created specified folders for seneca projects and personal projects in develop branch\
 -made a pull to merge with main\
 -DID NOT MERGE WITH MAIN
+-downloaded python for a personal project which needed a python api to scrape data from an nba website
 
 *06-23-25\
 -learned about the use of terminals and the PATH variable\
 -hoping to gain a better understanding of the terminal(1) and how it functions alongside git commands(2)\
--want to learn more about 
+-want to learn more about html
 -created a new repository on github to open a practice html project\
 -wrote html code to push up a very simple website
 
