@@ -1,3 +1,7 @@
 I installed brew today
 6/20 I made an ssh key and did onboarding 
 6/23 I am practicing sending changes to github right now. 
+Three things I want to learn are 
+- How to merge code
+- How people in a team assign roles for coding a project
+- How to code with a variety of languages 
