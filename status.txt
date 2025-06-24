@@ -3,3 +3,6 @@ I learned a lot of terminal commands and noted them down in my notebook.
 
 06-23-2025
 I finally got pushing to work by changing the url to an ssh instead of https(don't know how that one got mixed up in the first place...) We learned about general terminal commands and knowledge about paths.
+
+06-24-2025
+We learned more about pushing and pull requests and I noted the git circle of pushing, asking for a pull request, and pulling.
