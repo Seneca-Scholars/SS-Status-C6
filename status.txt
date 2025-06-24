@@ -5,3 +5,4 @@ Three things I want to learn are
 - How to merge code
 - How people in a team assign roles for coding a project
 - How to code with a variety of languages 
+Today I made my own repository. I also made a pull request. Finally, I invited other people to review my changes. 
