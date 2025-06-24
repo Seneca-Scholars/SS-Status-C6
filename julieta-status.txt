@@ -1,3 +1,4 @@
 06/23/2025
 Today I want to investigate more into the basic command modifiers that we can use in the terminal that start with a dash, such as -b. I also want to prepare for tomorrow's lesson on pull requests and what they are, how they work. Then the third investigation I want to commence is on html basics because I have never learned that language before in school or in any other classes and I would like to be at the same level as my cohort peers for when we start working with html. I also learned I should save the previous status updates instead of replacing them with the current day's update.  
-
+06/24/2025
+Today I practiced creating my own repo in github, creating a remote for it in the terminal, pushing subfolders and files to the main, and making pull requests. I also learned that sometimes it will cause an issue to commit an empty subfolder or folder in general so its best to create a file within them. Also, I learned some basic commands with git such as git log to check commits, and git status to check the status. 
