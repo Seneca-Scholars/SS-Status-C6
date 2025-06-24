@@ -1,7 +1,7 @@
 *06-24-25\
--created a personal repo locally and pushed it up to a personal github repo in SS
--created specified folders for seneca projects and personal projects in develop branch
--made a pull to merge with main
+-created a personal repo locally and pushed it up to a personal github repo in SS\
+-created specified folders for seneca projects and personal projects in develop branch\
+-made a pull to merge with main\
 -DID NOT MERGE WITH MAIN
 
 *06-23-25\
