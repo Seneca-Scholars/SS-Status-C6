@@ -6,10 +6,11 @@ Today, I downloaded and installed the apps needed for this program. I also get t
 
 I somehow deleted my VS code so Milo helped me redownload and set it up. Yesterday was Juneteenth, so I spent some time with family and friends. Excited to get started next week.
 
-6/23/25
+06/23/25
 
 Getting more confortable with terminal and will review commands on my own. 
 
+06/24/25
 
-
+Day by day I am getting my comfortable with terminal. Everything is easier to grasp conceptually but harder to execute, but I'm learning. Grabbed lunch with my best friend as she is interning a few blocks away, always nice to see friends out and about. Three things I want to learn are: essential commands, the different scenarios we will encounter working in terminal, and the dangers of committing and pushing into the wrong place.
 
