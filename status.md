@@ -6,7 +6,8 @@
 
 *06-23-25\
 -learned about the use of terminals and the PATH variable\
--hoping to gain a better understanding of the terminal and how it functions alongside git commands\
+-hoping to gain a better understanding of the terminal(1) and how it functions alongside git commands(2)\
+-want to learn more about 
 -created a new repository on github to open a practice html project\
 -wrote html code to push up a very simple website
 
