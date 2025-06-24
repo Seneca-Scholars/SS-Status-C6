@@ -2,4 +2,6 @@
 
 6/20/25 Set up SSH key
 
-6/23/25 Three Things I want to learn to work on and learn about: nodejs, indexedDB / databases in general, package managers (homebrew, npm, pnpm) 
+6/23/25 Three Things I want to learn to work on and learn about: nodejs, indexedDB / databases in general, package managers (homebrew, npm, pnpm)
+
+6/24/25 Practiced setting up a new repository, creating folders, files, new branches and making pull requests 
