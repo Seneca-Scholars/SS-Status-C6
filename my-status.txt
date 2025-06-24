@@ -3,3 +3,8 @@
 6/20/25: I reviwed how to edit my status file.
 
 6/23/25:: I learned more aboutt accessing directories in vscode and making changes in files within the terminal.
+
+6/25/25: I forgot to list 3 things I want to explore within the next few weeks in yesterday's status update so I'm going to include it in today's submission. I'd like to explore the following:
+- Java coding language
+- Bettering File Management/Editing & Viewing
+-Small game projects for game programming practice
