@@ -5,4 +5,10 @@ i 06/18/25 I had to get on the bus and was early today. We reviewed
 
 6/23/25 I want to learn more about javescript, end up working on backend and frontend, while being able to effectively communicate better
 
+
 6/24/25 I am learning how you do a pull request and learned more git commands. Hopefully I can figure out why my status.txt isn't showing on VH Code
+Potential project Idea: auto review app that summarizes businesses
+
+6/25/25 This might be the earliest I have arrived today and I wonder what Chen has in store but also I wonder when we will learn more programming languages or 
+at least javascript
+
