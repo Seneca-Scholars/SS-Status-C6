@@ -24,7 +24,7 @@ Today, Nell led a discussion on the experience, including our fears and the netw
 again with Rena. Planning for a birthday cruise this weekend. As for this job, I am confident in updating my status, however when I access 
 this file from finder, my old one appears, so let's hope this doesn't continue with future projects.
 
-06/26/25
+!!!06/26/25
 
 Today, we worked more with git. We practiced creating branches in our collaborative training repository. With those branches of the repo, 
 we made changes on a site, added, committed, pushed, and made a PR. These are fundamental skills that I will continue to utilize.
