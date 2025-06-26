@@ -4,3 +4,5 @@ Today I want to investigate more into the basic command modifiers that we can us
 Today I practiced creating my own repo in github, creating a remote for it in the terminal, pushing subfolders and files to the main, and making pull requests. I also learned that sometimes it will cause an issue to commit an empty subfolder or folder in general so its best to create a file within them. Also, I learned some basic commands with git such as git log to check commits, and git status to check the status.
 6/25/2025
 On wednesday, I created my very basic linkedin profile that I will continue to improve with Nell in the days to come so that I can market my skills and accomplishments so far. I also disected what I want to add to my linkedin to get it to my ideal profile vision. I also engaged in discussion with my Cohort 6 peers on thoughts on the college journey.  
+6/26/2025
+This thursday, I practiced opening an application with yarn and node installations. Then, I made changes to the page.tsx file in the nextjs-practice branch and committed those changes and made a pull request. 
