@@ -1,6 +1,6 @@
 *06-25-25\
--worked with Nell to analyze our LinkedIn profiles
--took leadership and learning assessments early and sent results to Nell
+-worked with Nell to analyze our LinkedIn profiles\
+-took leadership and learning assessments early and sent results to Nell\
 -had a cohort discussion about challenges and feelings towards living alone in college
 
 *06-24-25\
