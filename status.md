@@ -1,3 +1,8 @@
+*06-25-25\
+-worked with Nell to analyze our LinkedIn profiles
+-took leadership and learning assessments early and sent results to Nell
+-had a cohort discussion about challenges and feelings towards living alone in college
+
 *06-24-25\
 -created a personal repo locally and pushed it up to a personal github repo in SS\
 -created specified folders for seneca projects and personal projects in develop branch\
