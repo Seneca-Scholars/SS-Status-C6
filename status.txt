@@ -11,3 +11,5 @@ Three things I want to learn are
 6/24 Today I made my own repository. I also made a pull request. Finally, I invited other people to review my changes. 
 
 6/25 Today we had a good conversation about college and our feelings surronding this significant change in all of our lives. Nell highlighted the fact that we have several people in our corner that will be there for us. 
+
+6/26 Today I edited my project using jsx. I made a header, a list, and changed the color of the background and the text font. 
