@@ -10,3 +10,5 @@
 -Small game projects for game programming practice
 
 6/25/25: Today's workday consisted in post secondary readiness and linkedin profile checks and upddates. I enjoyed today's session and I feel like I am caught up with everything. I have uploaded everything from the past days' assignments and now am working towards tteaching myself technical concepts.
+
+6/26/25: Today after the interactive session, I worked on my typescript file by editing inside the main tag. I included a wave transparent image with the header 'Hello guys'. Underneath that, I made a table listing everyone in my cohort's names.
