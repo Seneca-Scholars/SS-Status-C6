@@ -1,3 +1,9 @@
+*06-26-25\
+-installed yarn and node\
+-used JSx to create a mini nba trade tracker on my branch of the training repository\
+-pushed my branch up and created a pull request to merge it
+-
+
 *06-25-25\
 -worked with Nell to analyze our LinkedIn profiles\
 -took leadership and learning assessments early and sent results to Nell\
@@ -12,7 +18,7 @@
 
 *06-23-25\
 -learned about the use of terminals and the PATH variable\
--hoping to gain a better understanding of the terminal(1) and how it functions alongside git commands(2)\
+-hoping to gain a better understanding of the terminal and how to use it with vscode(1) and how it functions alongside git commands(2)\
 -want to learn more about html
 -created a new repository on github to open a practice html project\
 -wrote html code to push up a very simple website
