@@ -3,7 +3,8 @@ i 06/18/25 I had to get on the bus and was early today. We reviewed
 
 6/20/25 I just ate lunch and I am tired
 
-6/23/25 I want to learn more about javescript, end up working on backend and frontend, while being able to effectively communicate better
+6/23/25 I want to learn more about javescript, end up working on backend and frontend, while being able to effectively communicate better. I am enjoying working
+with the terminal and I find it very useful. I can't imagine what we would use if git wasn't avaviable? what did Wa-jiw use for his projects back in the day.
 
 
 6/24/25 I am learning how you do a pull request and learned more git commands. Hopefully I can figure out why my status.txt isn't showing on VH Code
@@ -13,3 +14,7 @@ Potential project Idea: auto review app that summarizes businesses
 at least javascript
 
 6/26/25 I want to learn more about backend things but this was fun and I enjoyed practicing my html skills
+
+6/27/25 I am going to start working on my personal project and the html practice site so I can improve both at the same time. I really think that a program
+that would be able to summarizes and give strengths and weaknesses of. businesses would be so useful. 
+
