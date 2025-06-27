@@ -15,10 +15,16 @@ Today we spent time in a lesson learning about pull requests and such. I also ma
 
 6/25/25:
 Today we spent time with Nell talking about subjects around professional and personal development
-,we updated our LinkedIn, and had a real, and meaingful conversation about the transition to college and our thoughts and concerns
+we updated our LinkedIn, and had a real, and meaingful conversation about the transition to college and our thoughts and concerns
 
  6/26/25:
  Today we spent the day learning in an interactive lesson how to edit live apps, and install yarn and node. Ngl it was a bit stubborn to 
  get my installation to work right BUT in labs I was able to get it to work with the help of Jaime. 
 
- In my free time, I played around in the page.tsx HTML file, seeing how things instantly change with my edits, which is pretty cool
+ In my free time, I played around in the page.tsx HTML file, seeing how things instantly change with my edits, which is pretty cool.
+
+ 6/27/25:
+Today was a very chill Friday. We did some quizzes on our personal learning and leadership styles. My results turned out to be 
+my leadership style is democratic while my learning style is multimodal.. which is accurate!
+
+After lunch, Sinit, Laren F., Julieta, and I, did some brainstorming for our C6 project, and we came up with a few good ideas!
