@@ -1,8 +1,14 @@
 * 6/26/2025
+
+Worked with Milo to create a server with express that had a get request to create a deck of cards.
+
 3 Things I want to pursue:
 1. I want to understand data structures like key value pairs more deeply.
 2. I want to feel comfortable coding in JavaScript, HTML, and CSS.
 3. I want to create shortcuts and macros to develop more efficiently.
+
+Installed yarn and node
+Created website with JSX and created a pull request
 
 * 6/25/2025
 Took notes on Wa-jiw’s slides in Slack. Trying to figure out remote, clone, upstream, and origin. I think this is a good explanation though. Most of this I learned through Chat GPT.
