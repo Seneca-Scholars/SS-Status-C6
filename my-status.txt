@@ -12,3 +12,5 @@
 6/25/25: Today's workday consisted in post secondary readiness and linkedin profile checks and upddates. I enjoyed today's session and I feel like I am caught up with everything. I have uploaded everything from the past days' assignments and now am working towards tteaching myself technical concepts.
 
 6/26/25: Today after the interactive session, I worked on my typescript file by editing inside the main tag. I included a wave transparent image with the header 'Hello guys'. Underneath that, I made a table listing everyone in my cohort's names.
+
+6/30/25: Today we covered our intro session of HTML, CSS, and JavaScript wih Wajiw. During labs, Jaime walked us through having conflicts with pull requests and rebasing. I have also joined paths. I felt like I gained a base level understanding. The visuals were very helpful and I like the idea of a timeline. I would like to execute this soon by making and fixing conflicts with my peers. When I get home, I'll try to watch a video about rebasing for a deeper understanding.
