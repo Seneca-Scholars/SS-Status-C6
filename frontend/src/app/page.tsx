@@ -44,7 +44,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our docs and then again so they can stick
+            Dont read our docs, chatgpt them and then ask for a summary
           </a>
         </div>
       </main>
@@ -62,7 +62,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Learn
+          DONT LEARN, JUST CHEAT CUZ ITS FUN
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
