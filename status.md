@@ -1,3 +1,7 @@
+*6/27/2025
+Met with Nell to talk about my financial aid package. Started to read through the Mozilla page Wa-jiw sent us about the basics of HTML.
+
+
 * 6/26/2025
 
 Worked with Milo to create a server with express that had a get request to create a deck of cards.
