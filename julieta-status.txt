@@ -5,4 +5,6 @@ Today I practiced creating my own repo in github, creating a remote for it in th
 6/25/2025
 On wednesday, I created my very basic linkedin profile that I will continue to improve with Nell in the days to come so that I can market my skills and accomplishments so far. I also disected what I want to add to my linkedin to get it to my ideal profile vision. I also engaged in discussion with my Cohort 6 peers on thoughts on the college journey.  
 6/26/2025
-This thursday, I practiced opening an application with yarn and node installations. Then, I made changes to the page.tsx file in the nextjs-practice branch and committed those changes and made a pull request. 
+This thursday, I practiced opening an application with yarn and node installations. Then, I made changes to the page.tsx file in the nextjs-practice branch and committed those changes and made a pull request.
+6/27/2025
+Today we worked on discovering our leadership annd learnng styles through in depth quizzes and results analysis. We also worked individually with Nell to understand our financial aid packages from our respective universities.  
