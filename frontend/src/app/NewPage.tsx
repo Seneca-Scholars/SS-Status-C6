@@ -1,7 +1,7 @@
 export const NewPage = () => {
     return(
         <>
-            This is my new page
+            Actually this is MY page {">:D"}
         </>
     )
 }
