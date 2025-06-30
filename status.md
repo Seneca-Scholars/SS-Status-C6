@@ -1,3 +1,10 @@
+*6/30/2025
+Continued to work through Mozilla Webpage on HTML basics
+Signed into paths.senecafoundation.org
+Intro to HTML, CSS, and DOM with Wa-Jiw
+Learned how to rebase and resolve conflicts with Jaime
+Used rebase to get dom-training in my josh-training branch
+
 *6/27/2025
 Met with Nell to talk about my financial aid package. Started to read through the Mozilla page Wa-jiw sent us about the basics of HTML.
 
