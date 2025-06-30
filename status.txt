@@ -7,5 +7,10 @@ I finally got pushing to work by changing the url to an ssh instead of https(don
 06-24-2025
 We learned more about pushing and pull requests and I noted the git circle of pushing, asking for a pull request, and pulling. A few things I'm interested in learning about is both Javascript and HTML as I wanna be at least decent with the languages we're going to use, as well as project manager skills and how to prepare for that.
 
-06-24-2025
-Today was our first Nell day! We started looking at our Linkedins as well and talking about soft skills. We also had a good convo about how we're feeling headed into college and being on our own for the first time.
+06-25-2025
+Today was our first Nell day! We started looking at our Linkedins as well and talking about soft skills. We also had a good convo about how we're feeling headed into college and being on our own for the first time
+
+06-30-2025
+We learned a little about the inner workings of html with Wajiw, and then we went through a rebase tutorial with Jaime.
+
+.
