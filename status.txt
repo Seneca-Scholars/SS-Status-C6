@@ -1,7 +1,0 @@
-we opened out own file i suppose (06/18/25)
-we made an ssh key and did this status thing again (-6/20/25)
-its lowkey making sense (test)
-e (test)
-We worked on a lot of school based subjects and had group discussions as well that were helpful to inprove personal perspective (6/25/25)
-i would like to learn more about the core of git so it starts to make more sense but it still feels confusing at its base. I would also like to learn more/practice more push, pull, pull request, merge, ect in practice. Lastly, I would like to learn more about the managment of git when there are a bunch of extra branches that one person is working on and how that effects the remote (06/26/25, but assignment for (06/23/25)
-I added an H1 and H2 as well as some list items on my training branch (06/26/25)
