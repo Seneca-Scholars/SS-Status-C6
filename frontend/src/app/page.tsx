@@ -14,10 +14,10 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2 tracking-[-.01em]">
-            What if i dont start editing huh?!
-          </li>
+            Sure i want to start editing!
+          </li> 
           <li className="tracking-[-.01em]">
-            I dont want to save my changes instantly
+            I want to see what my changes look like!
           </li>
         </ol>
 
