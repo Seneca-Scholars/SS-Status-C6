@@ -9,3 +9,6 @@ app.get("bruh")
 app.listen(PORT, () => {
   console.log(`Server listening on ${PORT}`);
 });
+
+
+// im evil and im also editing!
