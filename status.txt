@@ -37,3 +37,9 @@ working on project with our teams.
 In the afternoon, we on our own rebased the dom training project, I ran into a few 
 issues when trying to constantly commit my changes when it was not working, which
 created an overload.. but Jaime was able to help me thankfully!
+
+7/1/25:
+HAPPY JULYY!!
+Today we discussed CS concepts like variables, data types like-primitive and refrence 
+We also spent time looking at how JavaScript syntax is diffent (especially to me since
+I'm so used to Java), for me I'm gonna have to get to get used to and practice. 
