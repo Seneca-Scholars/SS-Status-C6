@@ -13,4 +13,5 @@ Today was our first Nell day! We started looking at our Linkedins as well and ta
 06-30-2025
 We learned a little about the inner workings of html with Wajiw, and then we went through a rebase tutorial with Jaime.
 
-.
+07-01-2025
+We learned about a lot aspects about javascript like variables, datatypes, and conditionals. I debased the script.js file wajiw put in main and I was also able to work on my style.css file for my website to get more comfortable with that.
