@@ -8,3 +8,5 @@ On wednesday, I created my very basic linkedin profile that I will continue to i
 This thursday, I practiced opening an application with yarn and node installations. Then, I made changes to the page.tsx file in the nextjs-practice branch and committed those changes and made a pull request.
 6/27/2025
 Today we worked on discovering our leadership annd learnng styles through in depth quizzes and results analysis. We also worked individually with Nell to understand our financial aid packages from our respective universities.  
+6/30/2025
+Today, we had two lessons on html and rebasing. I learned the steps to rebase and why we use it: to solve merge conflicts and to pull information from main to our branch. Also, I worked on writing some basic notes on html from the url on its syntax Wa-jiw sent on Slack. I learned also the different purposes in website building for html, css, dom, and javascript where some are meant as a stable program and others allow the website to be interactive. 
