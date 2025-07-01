@@ -1,7 +1,11 @@
+*07-01-25\
+-learned about javascript basics and watched wajiw demonstrate static and dynamic js code
+-pulled down wajiw's changes from main\
+-
+
 *06-30-25\
 -learned about the dom and the basics of html, css, and js\
--worked with jaime in labs to pull the updated main branch and how to rebase my personal branch\
--
+-worked with jaime in labs to pull the updated main branch and how to rebase my personal branch
 
 *06-26-25\
 -installed yarn and node\
