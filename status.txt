@@ -28,3 +28,12 @@ Today was a very chill Friday. We did some quizzes on our personal learning and 
 my leadership style is democratic while my learning style is multimodal.. which is accurate!
 
 After lunch, Sinit, Laren F., Julieta, and I, did some brainstorming for our C6 project, and we came up with a few good ideas!
+
+6/30/25:
+Today we spent time in a lesson talking about how browsers create websites, which is very intreseting
+and important for us to learn! After that we touched on rebasing, and how to properly do so when 
+working on project with our teams. 
+
+In the afternoon, we on our own rebased the dom training project, I ran into a few 
+issues when trying to constantly commit my changes when it was not working, which
+created an overload.. but Jaime was able to help me thankfully!
