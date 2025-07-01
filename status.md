@@ -11,3 +11,5 @@
 6/26/25 Worked on nextJS practice project cloned the repository, made a branch, made changes to the nextJS website, pushed and committed changes and made a    pull request
 
 6/27/25 Not in the office but started to work on the things I wanted to learn more about
+
+6/30/25 Rebased my branch and created a new pull request
