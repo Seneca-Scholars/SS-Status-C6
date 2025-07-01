@@ -1,3 +1,8 @@
+*7/1/2025
+Learned JavaScript basics with Wa-Jiw including conditonals, data types, keywords, ternary operators, and switch statements.
+Jaime helped to reinforce these topics, especially the ternary operators and switch statements.
+I also worked with Milo to continue creating our project that uses JavaScript functions and get requests to play black jack. So far we have created a shuffled deck that deals cards to a player and the dealer and allows the player to recieve another card if they would like to hit.
+
 *6/30/2025
 Continued to work through Mozilla Webpage on HTML basics
 Signed into paths.senecafoundation.org
