@@ -13,3 +13,5 @@
 6/27/25 Not in the office but started to work on the things I wanted to learn more about
 
 6/30/25 Rebased my branch and created a new pull request
+
+6/31/25 Learned how objects work in javascript
