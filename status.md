@@ -1,8 +1,13 @@
+*06-30-25\
+-learned about the dom and the basics of html, css, and js\
+-worked with jaime in labs to pull the updated main branch and how to rebase my personal branch\
+-
+
 *06-26-25\
 -installed yarn and node\
 -used JSx to create a mini nba trade tracker on my branch of the training repository\
 -pushed my branch up and created a pull request to merge it
--
+
 
 *06-25-25\
 -worked with Nell to analyze our LinkedIn profiles\
@@ -13,13 +18,13 @@
 -created a personal repo locally and pushed it up to a personal github repo in SS\
 -created specified folders for seneca projects and personal projects in develop branch\
 -made a pull to merge with main\
--DID NOT MERGE WITH MAIN
+-DID NOT MERGE WITH MAIN\
 -downloaded python for a personal project which needed a python api to scrape data from an nba website
 
 *06-23-25\
 -learned about the use of terminals and the PATH variable\
 -hoping to gain a better understanding of the terminal and how to use it with vscode(1) and how it functions alongside git commands(2)\
--want to learn more about html
+-want to learn more about html(3)\
 -created a new repository on github to open a practice html project\
 -wrote html code to push up a very simple website
 
