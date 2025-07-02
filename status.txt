@@ -43,3 +43,10 @@ HAPPY JULYY!!
 Today we discussed CS concepts like variables, data types like-primitive and refrence 
 We also spent time looking at how JavaScript syntax is diffent (especially to me since
 I'm so used to Java), for me I'm gonna have to get to get used to and practice. 
+
+7/2/25:
+Today Wajiw and Nell were very missed, but we had fun with the other cohort. Daniel did a lesson, developing our skills
+more in JavaScript, and a concept that stood out to me was termany statements, they will def make my life 
+easier, but I will need more pratice. 
+
+Over the long weekend, I'm def gonna pratice more in JavaScript and watch relavent videos. 
