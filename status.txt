@@ -15,3 +15,6 @@ We learned a little about the inner workings of html with Wajiw, and then we wen
 
 07-01-2025
 We learned about a lot aspects about javascript like variables, datatypes, and conditionals. I debased the script.js file wajiw put in main and I was also able to work on my style.css file for my website to get more comfortable with that.
+
+07-02-2025
+Daniel taught us about functions a little more, as well as arrow functions. I was able to experiment a little with them, as well as switch statements which he added on.
