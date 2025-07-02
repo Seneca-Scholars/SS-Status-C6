@@ -1,3 +1,6 @@
+*7/2/2025
+Continued working through Mozilla modules on JavaScript and HTML, started building a learning plan to make up hours which will consist mostly of more Mozilla lessons and videos about coding concepts. I may also continue to work on my black jack project with Milo which is helping me understand JavaScript and get requests more deeply. Daniel also went over functions in JavaScript such as .splice(), and creating a function ourselves. Specifically, arrow functions and ternaries.
+
 *7/1/2025
 Learned JavaScript basics with Wa-Jiw including conditonals, data types, keywords, ternary operators, and switch statements.
 Jaime helped to reinforce these topics, especially the ternary operators and switch statements.
