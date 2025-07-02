@@ -17,3 +17,5 @@ Three things I want to learn are
 6/27 This friday we took leadership and learning style quizzes. I learned that my learning style is multimodal which I agree with. After lunch I spent some time with other people in my cohort brainstorming some ideas for our cohort project. 
 
 6/30 Today we had two good lessons from Wajiw and Jaime. With Wajiw I learned what a DOM was which was something I was completely unfamiliar with until today. We also talked about how classes can define how something will appear on the website and how the orientation of the code matter when working with javascript. After lunch Jaime taught us how to rebase and why rebasing is important. 
+
+7/1 Today we learned more about java script. One thing I learned was a for loop and how they operate. I also learned about the differnent data types in javascript. 
