@@ -7,3 +7,4 @@ i would like to learn more about the core of git so it starts to make more sense
 I added an H1 and H2 as well as some list items on my training branch (06/26/25)
 Did the assignement and such with pushing and pulling on SS-training, and we did and intro to CSS, HTML, and dom as well i guess (6/29/25)
 We learned more about javascipt and particular dunctions, operators, how things work, ect. (7/01/25) 
+worked with daniel and he was very helpful, great lessons today so cool (7/2/25)
