@@ -12,3 +12,5 @@ Today we worked on discovering our leadership annd learnng styles through in dep
 Today, we had two lessons on html and rebasing. I learned the steps to rebase and why we use it: to solve merge conflicts and to pull information from main to our branch. Also, I worked on writing some basic notes on html from the url on its syntax Wa-jiw sent on Slack. I learned also the different purposes in website building for html, css, dom, and javascript where some are meant as a stable program and others allow the website to be interactive. 
 07/1/2025
 Tuesday we went over javascript fundamentals and I practiced rebasing more with main and my separate branch. I also learned the purpose of case structures and how to define classes and create classes. 
+07/2/2025
+Wednesday we went over with Daniel arrow function and ternary functions and how it replaces essentially the if else. We also went over ways to make our code cleaner and less clunky by reducing the amount of lines in our code and doing inline operations and argumennts or code. Then, we went on our way to the escape room!
