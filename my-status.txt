@@ -17,3 +17,4 @@
 
 7/01/25: Today consisted of an insstruction given by Wajiw over the topics of Conditionals, For Loops, Operators, and CS Concepts. In labs I got help with cloning a reposiitory from my other github account to gain access to my portfolio inside of VS Code. Next, I will be working on starting my lesson plan for the day I'm going to be out of office next week.
 
+7/02/25: Daniel walked us through making ternary and arrow functions. When given extra time, I chose to work on JavaScript, CSS, and HTML on my portfolio weebsite.
