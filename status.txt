@@ -18,3 +18,16 @@ at least javascript
 6/27/25 I am going to start working on my personal project and the html practice site so I can improve both at the same time. I really think that a program
 that would be able to summarizes and give strengths and weaknesses of. businesses would be so useful. 
 
+6/28/25
+
+6/29/25
+
+6/30/25 I learned more about html and I am curious about how javascript and html can be used together 
+
+7/01/25 I forgot to update the other two days status but Happy new month. We are going to be learning some basic javascript this is going to 
+be helpful because I am trying to learn more backend.
+
+7/02/25 I am learning about functions from daniel in javascript. This makes sense as it is pretty close to what I learned with the if statements
+however the terenery and switch functions are very different while making sense. 
+
+
