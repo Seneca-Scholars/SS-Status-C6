@@ -51,7 +51,12 @@ Today we dove into Javascript functions and syntax. Wa-jiw said Java and Javascr
 us some material in HTML, I believe, so looking forward to dive more into that. I grabbed lunch with Rena today and am excited for the escape room tomorrow.
 
 
+07/02/25
 
+Nell and Wajiw were not in the office today, so Daniel led us in practicing coding functions. Functions are methods essentially, and I already have practice with them,
+however he introduced us to arrow functions, containing turnays. This is stuff I have little to no experience with, so I was excited to learn some new stuff. We also 
+went over switch cases, which is something I love coding. Now, we are rushing to update our statuses to grab some lunch, and head out and catch the bus to the escape room.
+Kind of crazy that we are catching the bus with all 15(or so) of us.
 
 
 
