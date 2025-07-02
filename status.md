@@ -1,7 +1,11 @@
+*07-02-25\
+-learned from danile about functions and diffferent syntax and types of conditionals
+-wrote sample functions to practice with js syntax and logic
+-
+
 *07-01-25\
 -learned about javascript basics and watched wajiw demonstrate static and dynamic js code
--pulled down wajiw's changes from main\
--
+-pulled down wajiw's changes from main
 
 *06-30-25\
 -learned about the dom and the basics of html, css, and js\
