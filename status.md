@@ -15,3 +15,5 @@
 6/30/25 Rebased my branch and created a new pull request
 
 7/1/25 Learned how objects work in javascript
+
+7/2/25 Learned how to use functions in javascript
