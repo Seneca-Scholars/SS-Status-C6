@@ -1,3 +1,5 @@
+7/7/25 Started learning more about javascript by trying to conver an older java project into javascript
+
 7/2/25 Learned how to use functions in javascript
 
 7/1/25 Learned how objects work in javascript
