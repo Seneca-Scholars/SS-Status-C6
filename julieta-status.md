@@ -1,9 +1,9 @@
-##Status Log:
+## Status Log:
 
-#07/07/2025
+# 07/07/2025
 
 
-#07/2/2025
+# 07/2/2025
 Wednesday we went over with Daniel arrow function and ternary functions and how it replaces essentially the if else. We also went over ways to make our code cleaner and less clunky by reducing the amount of lines in our code and doing inline operations and argumennts or code. Then, we went on our way to the escape room!
 
 #07/01/2025
