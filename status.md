@@ -1,4 +1,4 @@
-##Arianna's Statuses!
+Arianna's Statuses!
 
 #7/2/25:
 
