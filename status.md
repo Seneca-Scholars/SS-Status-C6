@@ -1,4 +1,4 @@
-07/02/25
+!!!07/02/25
 Nell and Wajiw were not in the office today, so Daniel led us in practicing coding functions. Functions are methods essentially, and I already have practice with them,
 however he introduced us to arrow functions, containing turnays. This is stuff I have little to no experience with, so I was excited to learn some new stuff. We also 
 went over switch cases, which is something I love coding. Now, we are rushing to update our statuses to grab some lunch, and head out and catch the bus to the escape room.
