@@ -9,3 +9,5 @@ Did the assignement and such with pushing and pulling on SS-training, and we did
 We learned more about javascipt and particular dunctions, operators, how things work, ect. (7/01/25) 
 worked with daniel and he was very helpful, great lessons today so cool (7/2/25)
 went over some orgonization based things for our personal project and i also changed/fixed my staus from a txt to a md (7/7/25)
+testing if i changed my txt to md correctly 
+
