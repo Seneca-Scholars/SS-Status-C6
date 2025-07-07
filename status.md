@@ -1,3 +1,6 @@
+*7/7/2025
+Began to learn JavaScript functions such as Math.random(), Math.floor(), Math,ceil(), Math.round(), and Math.trunc(). Created a card shuffler as a practice project based on what I have learned with Milo. Pushed up changes in my develop branch and have created a pull request to merge my changes with main. Began learning "dot functions" in JavaScript such as .splice() and .substring(). Also learned .map() function with Jaime.
+
 *7/2/2025
 Continued working through Mozilla modules on JavaScript and HTML, started building a learning plan to make up hours which will consist mostly of more Mozilla lessons and videos about coding concepts. I may also continue to work on my black jack project with Milo which is helping me understand JavaScript and get requests more deeply. Daniel also went over functions in JavaScript such as .splice(), and creating a function ourselves. Specifically, arrow functions and ternaries.
 
