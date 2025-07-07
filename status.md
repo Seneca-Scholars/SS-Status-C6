@@ -1,60 +1,45 @@
-06/18/25
-
-Today, I downloaded and installed the apps needed for this program. I also get to interact with the terminal for the first time.
-
-06/20/25
-
-I somehow deleted my VS code so Milo helped me redownload and set it up. Yesterday was Juneteenth, so I spent some time with family and friends. 
-Excited to get started next week.
-
-06/23/25
-
-Getting more confortable with terminal and will review commands on my own. 
-
-06/24/25
-
-Day by day I am getting my comfortable with terminal. Everything is easier to grasp conceptually but harder to execute, but I'm learning.
-Grabbed lunch with my best friend as she is interning a few blocks away, always nice to see friends out and about. Three things I want to 
-learn are: essential commands, the different scenarios we will encounter working in terminal, and the dangers of committing and 
-pushing into the wrong place.
-
-06/25/25
-
-Today, Nell led a discussion on the experience, including our fears and the network we share in Seneca even while we are away. I grabbed lunch 
-again with Rena. Planning for a birthday cruise this weekend. As for this job, I am confident in updating my status, however when I access 
-this file from finder, my old one appears, so let's hope this doesn't continue with future projects.
-
-06/26/25
-
-Today, we worked more with git. We practiced creating branches in our collaborative training repository. With those branches of the repo, 
-we made changes on a site, added, committed, pushed, and made a PR. These are fundamental skills that I will continue to utilize.
-
-
-06/27/25
-
-Yesterday, I went home and worked on my first HTML project, a blog called Shishi in the Chi. I was just trying to fimilarize myself with the language.
-Nell had Cohort 6 taking quizzes to analyze our leadership and learning styles. The results stated I was a democratic leader and a multimodal learner.
-These results did not surprise me as I believe I am a team player who likes to meet people halfway, and I learn using many methods like visual aids, 
-conversations, and etc. My cousin's birthday dinner boat is tomorrow and I am excited to spend time with family and friends. 
-
-
-06/30/25
-
-Today, we were introduced to the basics of HTML. I can grasp the material conceptually but the different tags are things I will have to learn as I go,
-or on my own timing. Jaime taught us what rebasing was and how to rebase, I didn't get the chance to do it, although. I had a great time this weekend at my
-cousin's birthday boat dinner, getting the chance to spontaneously meet a magician. Excited to dive more into HTML and for Wednesday's escape room.
-
-
-
 07/02/25
-
 Nell and Wajiw were not in the office today, so Daniel led us in practicing coding functions. Functions are methods essentially, and I already have practice with them,
 however he introduced us to arrow functions, containing turnays. This is stuff I have little to no experience with, so I was excited to learn some new stuff. We also 
 went over switch cases, which is something I love coding. Now, we are rushing to update our statuses to grab some lunch, and head out and catch the bus to the escape room.
 Kind of crazy that we are catching the bus with all 15(or so) of us.
 
-
 07/01/25
-
 Today we dove into Javascript functions and syntax. Wa-jiw said Java and Javascript are pretty different, but so far they are pretty similar. Jaime is gonna teach
-us some material in HTML, I believe, so looking forward to dive more into that. I grabbed lunch with Rena today and am excited for the escape room tomorrow
+us some material in HTML, I believe, so looking forward to dive more into that. I grabbed lunch with Rena today and am excited for the escape room tomorrow.
+
+06/30/25
+Today, we were introduced to the basics of HTML. I can grasp the material conceptually but the different tags are things I will have to learn as I go,
+or on my own timing. Jaime taught us what rebasing was and how to rebase, I didn't get the chance to do it, although. I had a great time this weekend at my
+cousin's birthday boat dinner, getting the chance to spontaneously meet a magician. Excited to dive more into HTML and for Wednesday's escape room.
+
+06/27/25
+Yesterday, I went home and worked on my first HTML project, a blog called Shishi in the Chi. I was just trying to fimilarize myself with the language.
+Nell had Cohort 6 taking quizzes to analyze our leadership and learning styles. The results stated I was a democratic leader and a multimodal learner.
+These results did not surprise me as I believe I am a team player who likes to meet people halfway, and I learn using many methods like visual aids, 
+conversations, and etc. My cousin's birthday dinner boat is tomorrow and I am excited to spend time with family and friends. 
+
+06/26/25
+Today, we worked more with git. We practiced creating branches in our collaborative training repository. With those branches of the repo, 
+we made changes on a site, added, committed, pushed, and made a PR. These are fundamental skills that I will continue to utilize.
+
+06/25/25
+Today, Nell led a discussion on the experience, including our fears and the network we share in Seneca even while we are away. I grabbed lunch 
+again with Rena. Planning for a birthday cruise this weekend. As for this job, I am confident in updating my status, however when I access 
+this file from finder, my old one appears, so let's hope this doesn't continue with future projects.
+
+06/24/25
+Day by day I am getting my comfortable with terminal. Everything is easier to grasp conceptually but harder to execute, but I'm learning.
+
+06/23/25
+Getting more confortable with terminal and will review commands on my own. 
+Grabbed lunch with my best friend as she is interning a few blocks away, always nice to see friends out and about. Three things I want to 
+learn are: essential commands, the different scenarios we will encounter working in terminal, and the dangers of committing and 
+pushing into the wrong place.
+
+06/20/25
+I somehow deleted my VS code so Milo helped me redownload and set it up. Yesterday was Juneteenth, so I spent some time with family and friends. 
+Excited to get started next week.
+
+06/18/25
+Today, I downloaded and installed the apps needed for this program. I also get to interact with the terminal for the first time.
