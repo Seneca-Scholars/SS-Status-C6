@@ -1,4 +1,10 @@
-!!!07/02/25
+07/07/25
+Today, Wajiw worked from home, allowing us to dive in Javascript, CSS, and HTML. I chose to go into HTML because when we worked with Javascript last week,
+Java is very similar, and I would rather spend my time going into something I am less experienced in. Since my last journal entry, we went to the escape room
+amd the 4th of July weekend occurred. I went to my cousins' house out south, and some of their family from Belgium was visiting. Overall, nice weekend. Tonight,
+I am grabbing dinner with my girls, who I have not seen in weeks; excited for that.
+
+07/02/25
 Nell and Wajiw were not in the office today, so Daniel led us in practicing coding functions. Functions are methods essentially, and I already have practice with them,
 however he introduced us to arrow functions, containing turnays. This is stuff I have little to no experience with, so I was excited to learn some new stuff. We also 
 went over switch cases, which is something I love coding. Now, we are rushing to update our statuses to grab some lunch, and head out and catch the bus to the escape room.
