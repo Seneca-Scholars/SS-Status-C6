@@ -1,3 +1,5 @@
+7/08/2025: Throughout today, Wajiw went over Javascript interactions and the DOM. Nell covered upcoming pay days/periods as well as the calendar & LinkedIn Reviews/Workshops.
+
 7/07/25: This is my status update for today. I changed my status file type and updated my personal project by exploring the areas I chose in the poll. Primarily by playing around with a blog post format and JavaScript.
 
 7/02/25: Daniel walked us through making ternary and arrow functions. When given extra time, I chose to work on JavaScript, CSS, and HTML on my portfolio weebsite.
@@ -11,9 +13,10 @@
 6/25/25: Today's workday consisted in post secondary readiness and linkedin profile checks and upddates. I enjoyed today's session and I feel like I am caught up with everything. I have uploaded everything from the past days' assignments and now am working towards tteaching myself technical concepts.
 
 6/24/25: I forgot to list 3 things I want to explore within the next few weeks in yesterday's status update so I'm going to include it in today's submission. I'd like to explore the following:
+
 - Java coding language
 - Bettering File Management/Editing & Viewing
--Small game projects for game programming practice
+- Small game projects for game programming practice
 
 6/23/25:: I learned more aboutt accessing directories in vscode and making changes in files within the terminal.
 
