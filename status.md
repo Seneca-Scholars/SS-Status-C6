@@ -1,5 +1,8 @@
 # Arianna's Statuses!
 
+## 7/8/25
+Today started off similar to yesterday, in a training session-learning the concept of how to access elements in the DOM. Later we had a update conversation with Nell, and in the late afternoon I was able to add a ReadMe file, and add some style to my AP score personal pratice project 
+
 ## 7/7/25
 
 Today we started off the day in a lesson with Wajiw, learning about proper naming procedures and such. 
