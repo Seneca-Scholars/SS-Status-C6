@@ -1,18 +1,24 @@
+07/08/2025
+Today, I am going to spend some time to make another site. Since I have dove into HTML, I feel fairly confident in my knowledge in tags. 
+So at home, I will try and make another site where the user's can put input--maybe a Zodiac sign simulator. Anyway, I have been getting better
+at Python, and I'm excited to see how much I learn and grow by the end of this summer.
+
 07/07/25
-Today, Wajiw worked from home, allowing us to dive in Javascript, CSS, and HTML. I chose to go into HTML because when we worked with Javascript last week,
-Java is very similar, and I would rather spend my time going into something I am less experienced in. Since my last journal entry, we went to the escape room
-amd the 4th of July weekend occurred. I went to my cousins' house out south, and some of their family from Belgium was visiting. Overall, nice weekend. Tonight,
-I am grabbing dinner with my girls, who I have not seen in weeks; excited for that.
+Today, Wajiw worked from home, allowing us to dive in Javascript, CSS, and HTML. I chose to go into HTML because when we worked with Javascript 
+last week, Java is very similar, and I would rather spend my time going into something I am less experienced in. Since my last journal entry, 
+we went to the escape room and the 4th of July weekend occurred. I went to my cousins' house out south, and some of their family from Belgium 
+was visiting. Overall, nice weekend. Tonight, I am grabbing dinner with my girls, who I have not seen in weeks; excited for that.
 
 07/02/25
-Nell and Wajiw were not in the office today, so Daniel led us in practicing coding functions. Functions are methods essentially, and I already have practice with them,
-however he introduced us to arrow functions, containing turnays. This is stuff I have little to no experience with, so I was excited to learn some new stuff. We also 
-went over switch cases, which is something I love coding. Now, we are rushing to update our statuses to grab some lunch, and head out and catch the bus to the escape room.
-Kind of crazy that we are catching the bus with all 15(or so) of us.
+Nell and Wajiw were not in the office today, so Daniel led us in practicing coding functions. Functions are methods essentially, and I already 
+have practice with them, however he introduced us to arrow functions, containing turnays. This is stuff I have little to no experience with, 
+so I was excited to learn some new stuff. We also went over switch cases, which is something I love coding. Now, we are rushing to update our 
+statuses to grab some lunch, and head out and catch the bus to the escape room. Kind of crazy that we are catching the bus with all 15(or so) of us.
 
 07/01/25
-Today we dove into Javascript functions and syntax. Wa-jiw said Java and Javascript are pretty different, but so far they are pretty similar. Jaime is gonna teach
-us some material in HTML, I believe, so looking forward to dive more into that. I grabbed lunch with Rena today and am excited for the escape room tomorrow.
+Today we dove into Javascript functions and syntax. Wa-jiw said Java and Javascript are pretty different, but so far they are pretty similar. 
+Jaime is gonna teach us some material in HTML, I believe, so looking forward to dive more into that. I grabbed lunch with Rena today and am 
+excited for the escape room tomorrow.
 
 06/30/25
 Today, we were introduced to the basics of HTML. I can grasp the material conceptually but the different tags are things I will have to learn as I go,
