@@ -1,3 +1,6 @@
+07-08-2025
+We went over Javascript Interactions and talked about selectors and its variants. Something important I learned was how to set IDs in HTML and calling back to them in your script using selectors. Jaime went over the importance of node modules and the package.json file, as well as what scope is and how we should keep it in mind while programming. I've made a little more progress on my personal project and I'm working on making things a little more complex with appendChild and other things.
+
 07-07-2025
 We went over the importance of READMEs and the general organization of sub-folders. I started my personal project for real, as I thought we were supposed to be messing around with the nextjs website this entire time but I misunderstood. That still helped me get a general understanding and feel of html and css though. I started a roadmap of how I want to progress in order to get this project done well. I'll be working on javascript in the near future while trying to keep everything neat and organized.
 
