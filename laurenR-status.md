@@ -1,4 +1,4 @@
-7/08/2025: Throughout today, Wajiw went over Javascript interactions and the DOM. Nell covered upcoming pay days/periods as well as the calendar & LinkedIn Reviews/Workshops. I rearranged folders in my Sandbox and adjusted my README file.
+7/08/2025: Throughout today, Wajiw went over Javascript interactions and the DOM. Nell covered upcoming pay days/periods as well as the calendar & LinkedIn Reviews/Workshops. I rearranged folders in my Sandbox and adjusted my README file. Jaime and Jeff went over the importanc/purpose of a lock file plus what React is as a whole.
 
 7/07/25: This is my status update for today. I changed my status file type and updated my personal project by exploring the areas I chose in the poll. Primarily by playing around with a blog post format and JavaScript.
 
