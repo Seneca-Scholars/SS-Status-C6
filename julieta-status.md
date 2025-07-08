@@ -1,5 +1,8 @@
 ## Status Log:
 
+# 07/08/2025
+Tuesday I created my personal project which will be a website where people can save themselves time doing math in calculatinng the appropriate amount of ingredients to use in the dish for the number of people the user wants to serve. So, the project will calculate and divide each number of grams/pounds or units of a certainn inngredient by the number of people the user is serving. I also learned more about how we ca access variables and information from the DOM with the document and dot functions/ notation. Then we learned about scope as a concept and closure as a concept. Finally, I looked into dot notation and javascript events like we saw in the lesson where the program waited until the event of a button being pressed to activate a certain block of code (ie. saying "Button clicked"). 
+
 # 07/07/2025
 On Monday we went over standards for our personal project and I dived deeper into javascript fnctions and dot functions. I also resolved an issue I had with renaming a file from txt to .md because I tried to do so through the git hub website but ran into an issue where I nneeded to both pull and push at the same time. Nonetheless, I was able to forcefully push changes made to the status file. We also learned in the labs how to print not onto the console annd what .map essentially does (creating a for loop through an array). 
 
