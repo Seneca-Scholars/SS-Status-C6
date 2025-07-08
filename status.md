@@ -1,3 +1,5 @@
+*7/8/2025 During the morning from 9-10am I began learning the .getElement methods to access HTML classes, id's, and tags. I built on this further by familiarzing myself with CSS Selectors so I could eventually learn to style these elements. I also continued to work on Mozilla modules on HTML as I learned character references in HTML and began the module about webpage meta data in <head> tags.
+
 *7/7/2025
 Began to learn JavaScript functions such as Math.random(), Math.floor(), Math,ceil(), Math.round(), and Math.trunc(). Created a card shuffler as a practice project based on what I have learned with Milo. Pushed up changes in my develop branch and have created a pull request to merge my changes with main. Began learning "dot functions" in JavaScript such as .splice() and .substring(). Also learned .map() function with Jaime.
 
