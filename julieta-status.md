@@ -1,5 +1,8 @@
 ## Status Log:
 
+# 07/09/2025
+Wedesday I drafted my resume with the Harvard template and update my linkedin descriptions of my position and experiences and skills. I also took the time to document keywords that I can use to better market my experience and skills to future employers or universites. I also created a catchall document listing and describing my previous experiences and academic achievements I have gained so far. Then, I drafted a linkedin post for my new position as Seneca!
+
 # 07/08/2025
 Tuesday I created my personal project which will be a website where people can save themselves time doing math in calculatinng the appropriate amount of ingredients to use in the dish for the number of people the user wants to serve. So, the project will calculate and divide each number of grams/pounds or units of a certainn inngredient by the number of people the user is serving. I also learned more about how we ca access variables and information from the DOM with the document and dot functions/ notation. Then we learned about scope as a concept and closure as a concept. Finally, I looked into dot notation and javascript events like we saw in the lesson where the program waited until the event of a button being pressed to activate a certain block of code (ie. saying "Button clicked"). 
 
