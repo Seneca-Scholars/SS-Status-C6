@@ -1,3 +1,12 @@
+07/09/25
+Nell held a resume workshop where we got to work on improving the keywords on our resumes, or creating a rough draft for a resume if you 
+don't have one already. I do have a pretty full resume already built, but I did like the concept of spicing it up with keywords. 
+We also created a catch all resume, which is basically like a dictionary where I can always go back and add skills or experiences to
+a resume for a role, but then add different things for a different role. Resumes should highlight your skills, but the skills should
+cater to that role. Yesterday I grabbed dinner with my girls--great night, bad service. I won't elaborate but I did leave my first Google review.
+Tonight I am grabbing lunch with friends from last internship so I am hoping my dinner experience is better tonight. Still working on my second
+HTML site. 
+
 07/08/2025
 Today, I am going to spend some time to make another site. Since I have dove into HTML, I feel fairly confident in my knowledge in tags. 
 So at home, I will try and make another site where the user's can put input--maybe a Zodiac sign simulator. Anyway, I have been getting better
