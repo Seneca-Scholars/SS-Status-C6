@@ -1,9 +1,14 @@
+*07-08-25\
+-learned about js interactions and events through writing and testing them on my practice site\
+-talked about dependencies and their uses with jaime and jeff\
+-learned about scope, block scope, and closure in js with jaime
+-
+
 *07-07-25\
 -researched and learned the proper repository standards (READMEs, folders and subfolders, naming conventions, etc.)\
 -explored javascript functions and how to set up my own practice site using the trio of an html file, a css file, and a javascript file
 -explored basic css containers with flex and card structures
 -pushed up a rudimentary website displaying images and names of certain animals onto my practice repo, hoping to get it to a point where the visitor can enter an image address and a name and input their own animals on the screen
--
 
 *07-02-25\
 -learned from daniel about functions and diffferent syntax and types of conditionals\
