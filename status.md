@@ -1,8 +1,12 @@
+*07-09-25\
+-worked with Nell to update our resumes and our linkedins using a group list of action verbs and adjective keywords\
+-put some more work into my practice project by trying to create a party feature that changes the colors on the site to start flashing
+-
+
 *07-08-25\
 -learned about js interactions and events through writing and testing them on my practice site\
 -talked about dependencies and their uses with jaime and jeff\
 -learned about scope, block scope, and closure in js with jaime
--
 
 *07-07-25\
 -researched and learned the proper repository standards (READMEs, folders and subfolders, naming conventions, etc.)\
