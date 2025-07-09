@@ -1,3 +1,6 @@
+07-09-2025
+Nell went over key words for our resume. I then updated my resume and started on one that's more suited for a job instead of college applications. I also made buttons using a list for my personal project and added a bit of interaction with them as well. We're about to go on a field trip too!!!
+
 07-08-2025
 We went over Javascript Interactions and talked about selectors and its variants. Something important I learned was how to set IDs in HTML and calling back to them in your script using selectors. Jaime went over the importance of node modules and the package.json file, as well as what scope is and how we should keep it in mind while programming. I've made a little more progress on my personal project and I'm working on making things a little more complex with appendChild and other things.
 
