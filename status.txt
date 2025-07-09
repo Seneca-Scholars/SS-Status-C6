@@ -18,7 +18,7 @@ at least javascript
 6/27/25 I am going to start working on my personal project and the html practice site so I can improve both at the same time. I really think that a program
 that would be able to summarizes and give strengths and weaknesses of. businesses would be so useful. 
 
-6/28/25 Today was fun I enjoyed 
+6/28/25 Today was fun I enjoyed being able to get to know 
 
 6/29/25
 
@@ -30,4 +30,13 @@ be helpful because I am trying to learn more backend.
 7/02/25 I am learning about functions from daniel in javascript. This makes sense as it is pretty close to what I learned with the if statements
 however the terenery and switch functions are very different while making sense. 
 
+7/06/25
+
+7/07/25
+
+7/08/25 I learned more about javascript interactions and how a label tag works in html. The ability to add a button using javascript and them displaying the 
+button using html will definitely be going into my practice project.
+
+7/09/25 I learned more about the process of making a better resume and was able to meet with nell about my financial aid. We are going to the french market as a 
+final horra for daniel leaving us for almost two months. 
 
