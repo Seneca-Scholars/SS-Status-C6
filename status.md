@@ -1,5 +1,10 @@
 # Arianna's Statuses!
 
+# 7/9/25
+Today we spent time with Nell talking and working on our professional development, spefically with Linkedin, resumes, and describing our experiences in the best way posssible. 
+
+We started off as a cohort writing down key words to put in resumes and LinkedIn, so that we can stand out, and show all what we have done-in all its glory!! I then did a much needed LinkedIn cleanout, and looked over my resume of things I need to edit so it can bypass CS resume detectors.
+
 ## 7/8/25
 Today started off similar to yesterday, in a training session-learning the concept of how to access elements in the DOM. Later we had a update conversation with Nell, and in the late afternoon I was able to add a ReadMe file, and add some style to my AP score personal pratice project 
 
