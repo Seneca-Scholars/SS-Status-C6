@@ -1,4 +1,6 @@
 #7/9/2025
+With Nell we worked as a cohort to create keywords for resume building. Spent a lot of time tweaking and enchancing my resume as I began to build a catch all resume. Working on creating a LinkedIn post for my position as a Tech Scholar. Going to french market to celebrate Daniel's last kind of day.
+
 During the morning I learned about website metadata held in <head> tags. I learned about how to set the primary language of a webpage and langauge of subsections of a webpage. I learned that metadata contains name and content attributes that specify the type of metadata and the actual meta content. I learned why we use <meta charset="utf-8" /> to set the character set of a document, with utf-8 including pretty much any language from any human language. I also learned how to add custom favicons(icons) to a webpage and how to add different icons to different contents. Such as apple-touch-icons to add make the site show an icon when saved to an apple home screen.
 
 *7/8/2025 
