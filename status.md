@@ -1,3 +1,6 @@
+07-10-2025
+Today was just a lot of time to work on our personal projects. I unfortunately couldn't attend Jaime's lab because I didn't have earbuds and all of the side rooms were taken. In terms of progress, I've finished a good portion of the base of the JS I'll need to start making scenarios. I've started updated my CSS now and can already tell that it's going to be a uniquely time consuing experience.
+
 07-09-2025
 Nell went over key words for our resume. I then updated my resume and started on one that's more suited for a job instead of college applications. I also made buttons using a list for my personal project and added a bit of interaction with them as well. We're about to go on a field trip too!!!
 
