@@ -1,3 +1,6 @@
+#7/10/2025
+During the morning from 9-10, I worked through the Mozilla HTML modules on Headings and Paragraphs, Emphasis and Importance, and Lists. So far I haven't made much progress on my personal project, but I plan to enhance my webpage once, I continue to expand my knowledge of HTML. Tommorow I will be working on the Structuring documents module, which is a longer module, but it will provide me important information about using semantic structural elements.
+
 #7/9/2025
 With Nell we worked as a cohort to create keywords for resume building. Spent a lot of time tweaking and enchancing my resume as I began to build a catch all resume. Working on creating a LinkedIn post for my position as a Tech Scholar. Going to french market to celebrate Daniel's last kind of day.
 
