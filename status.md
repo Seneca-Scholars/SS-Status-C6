@@ -1,9 +1,14 @@
+## 07/10/25
+We worked independently today and I dove into more of HTML. I am in the process of creating a site that takes the user's input and 
+returns their natural element. THEN it returns the cooresponding Hogwarts house to the natural element BOOOOM. Heading out to dinenr 
+for the THIRD time this week but I got it like that, trust.
+
 ## 07/09/25
 Nell held a resume workshop where we got to work on improving the keywords on our resumes, or creating a rough draft for a resume if you 
 don't have one already. I do have a pretty full resume already built, but I did like the concept of spicing it up with keywords. 
 We also created a catch all resume, which is basically like a dictionary where I can always go back and add skills or experiences to
 a resume for a role, but then add different things for a different role. Resumes should highlight your skills, but the skills should
-cater to that role. Yesterday I grabbed dinner with my girls--great night, bad service. I won't elaborate but I did leave my first Google review.
+cater to that role. Yesterday I grabbed dinner with my girls--great night, bad service. I won't elaborate buti I did leave my first Google review.
 Tonight I am grabbing lunch with friends from last internship so I am hoping my dinner experience is better tonight. Still working on my second
 HTML site. 
 
