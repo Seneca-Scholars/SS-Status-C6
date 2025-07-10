@@ -1,6 +1,6 @@
 # Arianna's Statuses!
 
-# Out of Office 7/10-7/11
+## Out of Office 7/10-7/11
 
 # 7/9/25
 Today we spent time with Nell talking and working on our professional development, spefically with Linkedin, resumes, and describing our experiences in the best way posssible. 
