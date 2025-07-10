@@ -1,3 +1,9 @@
+*07-10-25\
+-finally finished implementing the party feature on the website by simplifying the changing styles in a toggle function\
+-added a linter .json file into my project root using ESLint\
+-started a new project making a button game, using eventlisteners for clicked buttons and a runnning countdown timer for each button to be pressed in numerical order
+-
+
 *07-09-25\
 -worked with Nell to update our resumes and our linkedins using a group list of action verbs and adjective keywords\
 -put some more work into my practice project by trying to create a party feature that changes the colors on the site to start flashing
