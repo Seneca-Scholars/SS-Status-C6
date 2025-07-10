@@ -1,6 +1,9 @@
 ## Status Log:
 
 # 07/09/2025
+Today, I took a step back from researching javascript interractions and events because I first needed a solid understanding of HTML. I took extensive notes on the elemennts used in HTML that allows us to interact with users and the DOM. I also brainstormed ideas on how I could implement HTML structural components, videos, forms, and images into my personal recipe calculator project. 
+
+# 07/09/2025
 Wedesday I drafted my resume with the Harvard template and update my linkedin descriptions of my position and experiences and skills. I also took the time to document keywords that I can use to better market my experience and skills to future employers or universites. I also created a catchall document listing and describing my previous experiences and academic achievements I have gained so far. Then, I drafted a linkedin post for my new position as Seneca!
 
 # 07/08/2025
