@@ -1,8 +1,8 @@
-# Arianna's Statuses!
+# Arianna's Statuses! 
 
 ## Out of Office 7/10-7/11
 
-# 7/9/25
+## 7/9/25
 Today we spent time with Nell talking and working on our professional development, spefically with Linkedin, resumes, and describing our experiences in the best way posssible. 
 
 We started off as a cohort writing down key words to put in resumes and LinkedIn, so that we can stand out, and show all what we have done-in all its glory!! I then did a much needed LinkedIn cleanout, and looked over my resume of things I need to edit so it can bypass CS resume detectors.
