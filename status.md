@@ -1,4 +1,6 @@
 #7/10/2025
+During the rest of the morning before lunch I completed the long Mozilla HTML module on Structuring documents and started to work through the module on Advanced text features.
+
 During the morning from 9-10, I worked through the Mozilla HTML modules on Headings and Paragraphs, Emphasis and Importance, and Lists. So far I haven't made much progress on my personal project, but I plan to enhance my webpage once, I continue to expand my knowledge of HTML. Tommorow I will be working on the Structuring documents module, which is a longer module, but it will provide me important information about using semantic structural elements.
 
 #7/9/2025
