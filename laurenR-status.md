@@ -1,3 +1,5 @@
+7/10/2025: Today was professional picture day!! That ranged from 10:25 - lunchtime. After lunch, there were labs led by Jaime for questions & answer. On my owm work time, I took the time to edit my portfolio project more. I added a dark/light mode feature and altered text & images to suit each mode.
+
 7/09/2025: Today was Nell's instruction day and we coveed LinkedIn connections & posts, resumes, and relavent experiences. 
 
 7/08/2025: Throughout today, Wajiw went over Javascript interactions and the DOM. Nell covered upcoming pay days/periods as well as the calendar & LinkedIn Reviews/Workshops. I rearranged folders in my Sandbox and adjusted my README file. Jaime and Jeff went over the importanc/purpose of a lock file plus what React is as a whole.
