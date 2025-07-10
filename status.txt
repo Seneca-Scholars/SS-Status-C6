@@ -1,7 +1,7 @@
 
 i 06/18/25 I had to get on the bus and was early today. We reviewed 
 
-6/20/25 I just ate lunch and I am tired
+6/20/25 I just ate lunch and I am tired but I am enjoying the program
 
 6/23/25 I want to learn more about javescript, end up working on backend and frontend, while being able to effectively communicate better. I am enjoying working
 with the terminal and I find it very useful. I can't imagine what we would use if git wasn't avaviable? what did Wa-jiw use for his projects back in the day.
@@ -18,7 +18,7 @@ at least javascript
 6/27/25 I am going to start working on my personal project and the html practice site so I can improve both at the same time. I really think that a program
 that would be able to summarizes and give strengths and weaknesses of. businesses would be so useful. 
 
-6/28/25 Today was fun I enjoyed being able to get to know 
+6/28/25 Today was fun I enjoyed being able to get to know
 
 6/29/25
 
@@ -28,15 +28,18 @@ that would be able to summarizes and give strengths and weaknesses of. businesse
 be helpful because I am trying to learn more backend.
 
 7/02/25 I am learning about functions from daniel in javascript. This makes sense as it is pretty close to what I learned with the if statements
-however the terenery and switch functions are very different while making sense. 
+however the terenery and switch functions are very different while making sense. We went to an ecsape room and I think my team was good at communicating
+with one another. I also am glad i got the opportunity to use my keen obseravtion skills
 
-7/06/25
+7/06/25 Started thinking about what project I want to work on to practice the skills we learned and unfortunately I was out sick, so I couldn't come in 
+person but i heard it was just on the proper coding pratices. 
 
-7/07/25
+7/07/25 I was early finally but we learned some basics on javascript andn I am so excited to finally be learning more backend languages, but I am sure this would 
+go great for the project I decided to make which is a common cookie clicker but without the extra flair. Hopefully I don't get a headache, but I am sure I can't 
+avoid how annoying this will be especially after how scared Milo looked when I told him this would be what O am doing.
 
 7/08/25 I learned more about javascript interactions and how a label tag works in html. The ability to add a button using javascript and them displaying the 
 button using html will definitely be going into my practice project.
 
 7/09/25 I learned more about the process of making a better resume and was able to meet with nell about my financial aid. We are going to the french market as a 
 final horra for daniel leaving us for almost two months. 
-
