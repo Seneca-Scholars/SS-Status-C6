@@ -1,3 +1,6 @@
+07-11-2025
+Today we added onto a keywords document that we made wednesday to have a good list of hashtags as well. I worked on editing my rough draft resume a some more to include these keywords, and I also met with Nelle to discuss financial aid. She told me about how I can save money on books by getting stuff from the library instead, and to check my classes for syllabuses to see which books I need. I also need to email her my financial aid package over the weekend, but for now it's time to go to the aquarium!
+
 07-10-2025
 Today was just a lot of time to work on our personal projects. I unfortunately couldn't attend Jaime's lab because I didn't have earbuds and all of the side rooms were taken. In terms of progress, I've finished a good portion of the base of the JS I'll need to start making scenarios. I've started updated my CSS now and can already tell that it's going to be a uniquely time consuing experience.
 
