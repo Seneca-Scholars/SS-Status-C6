@@ -1,6 +1,11 @@
 ## Status Log:
 
-# 07/09/2025
+# 07/11/2025
+This Friday, I took the time to polish my resume and implement more key action words as well as complete my final draft for my acceptance post into the program for linkedin. I also contributed some words onto the cohort document for us all to use hashtags in our future linkedin posts to gain traction and engagement as we develop our network. After completing these tasks with Nell, I continued to work on my personal project for recipe calculations (adjusting portions according to serving sizes). I plan on completing the algorithm and incorporating some components from my HTML research I did the previous days. Also, if all goes smoothly, I hope to create a better designn for the website and get into CSS so that I can present a better design to users. 
+
+Then, in the afternoon we went on a field trip to the Shedd Aquarium with Nell!
+
+# 07/10/2025
 Today, I took a step back from researching javascript interractions and events because I first needed a solid understanding of HTML. I took extensive notes on the elemennts used in HTML that allows us to interact with users and the DOM. I also brainstormed ideas on how I could implement HTML structural components, videos, forms, and images into my personal recipe calculator project. 
 
 # 07/09/2025
