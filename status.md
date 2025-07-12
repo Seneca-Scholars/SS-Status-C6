@@ -1,3 +1,11 @@
+## 07/11/25
+I pivoted fromt HTML to CSS today. The two languages go hand in hand, and so far so good. We had a pretty short work day and Nell
+took us out for Fun Friday. I got some tacos from the Daley food truck and then we went to the Shedd Aquarium. I have not been in 
+years so it was an enjoyable experience. I have my close friend, Melat's, birthday bbq to attend tomorrow so I am excited. What I 
+am not excited for is missing tomorrow's church service as it is a big holiday. Taking these morning weekend courses with Code Path
+have prohibitted me from attending church all summer, and honestly I don't know if this trade off is worth it.
+
+
 ## 07/10/25
 We worked independently today and I dove into more of HTML. I am in the process of creating a site that takes the user's input and 
 returns their natural element. THEN it returns the cooresponding Hogwarts house to the natural element BOOOOM. Heading out to dinenr 
