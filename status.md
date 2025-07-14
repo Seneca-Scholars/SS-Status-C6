@@ -1,5 +1,10 @@
 # Arianna's Statuses! 
 
+## 7/14/25
+I'm sooo happy to be back! Today we started off in a lesson learning about building a stable webpage interface through HTML and CSS, spefically we talked about inline vs inline-block, margins, divs and more! 
+
+In the afternoon, I spent time in my personal project, which I decided to change around, and make a ap resorces landing spot for people who want to improve their scores in a incoming year's test.
+
 ## Out of Office 7/10-7/11
 
 ## 7/9/25
