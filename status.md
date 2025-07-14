@@ -21,3 +21,5 @@ Three things I want to learn are
 7/1 Today we learned more about java script. One thing I learned was a for loop and how they operate. I also learned about the differnent data types in javascript. 
 
 7/2 Daniel provided a helpful lesson about different functions and loops such as for loops, while loops, arrow functions, and ternary functions. This lesson helped me better understand how these functions work and what is required in the code for them to properly run. After lunch we are going to an escape room to bond together as a cohort.
+
+7/14 Today I did some work with my personal project and I learned a bit about how to use flex. Wajiw did a lesson about css and how code is displayed on a webpage. I had a very producctive day today and I received help from other people. 
