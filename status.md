@@ -1,3 +1,6 @@
+#7/14/25
+In the morning from 9-10am, I continued to work on the Forms and Buttons module in Mozilla. I learned about <label> elements and their association with <input> elements using the for and id attributes. I also learned about the various uses of a button element outside of submissions of forms such as a reset button. Finally today I learned about radio buttons and how to program each with an individual <input> and <label> tag, but with each radio button having the same name attribute as part of their <input>, but each radio button also having a different value attribute predetermined by the developer. The submitted information in the form is then sent in name/value pairs. I haven't completed the module yet, but I plan to complete it in the afternoon or during the morning tomorrow, because it is a REALLY long module.
+
 #7/11/25
 After getting to the office I worked on commenting and editing my resume, as well as drafting a LinkedIn post for Seneca. I also continued to work on the Forms and Buttons module and have learned more about the <input> element including how it describes the data entered into it. I also learned about the type, name, id, required, and value attributes used in <input> elements.
 
