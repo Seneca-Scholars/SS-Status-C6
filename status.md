@@ -1,3 +1,6 @@
+07-14-2025
+We discussed a lot of helpful CSS topics with Wajiw today. It was especially helpful since I'm dealing with that in my own personal project right now. We went over website organization/design, and how important it is to have a design system to organize everything by. I learned the difference between div and span, and what display types were. An issue I was had in my project was a display issue actually so I'm glad I was able to get that fixed. I also sketched out exactly what I wanted my page to look like and did it in a way where everything is organized by column, so I should hopefully be able to get most of my CSS done next time I work on it now that I have a direction!
+
 07-11-2025
 Today we added onto a keywords document that we made wednesday to have a good list of hashtags as well. I worked on editing my rough draft resume a some more to include these keywords, and I also met with Nelle to discuss financial aid. She told me about how I can save money on books by getting stuff from the library instead, and to check my classes for syllabuses to see which books I need. I also need to email her my financial aid package over the weekend, but for now it's time to go to the aquarium!
 
