@@ -1,5 +1,8 @@
 ## Status Log:
 
+# 07/14/2025
+Today, I added some more design elements to my website like an image to correlate with a recipe. Also, I made the calculation function, however I may have been too ambitious because I am not sure how to make the calculation funnction more generaal instead of rewritinng it for each and every recipe I have on the website. I will need to look more into this and also the CSS units, display properties (Display annd positioning), inline vs inline-block, and margin auto centering which are topics we looked into today.I also ran into a slight bug where my website was crashing everrytime I pressed submit for forms but I ended up deletinng the form piece and made a simple callback to use the calculate function. I will look into more CSS concepts this week and brush up on js as well.  
+
 # 07/11/2025
 This Friday, I took the time to polish my resume and implement more key action words as well as complete my final draft for my acceptance post into the program for linkedin. I also contributed some words onto the cohort document for us all to use hashtags in our future linkedin posts to gain traction and engagement as we develop our network. After completing these tasks with Nell, I continued to work on my personal project for recipe calculations (adjusting portions according to serving sizes). I plan on completing the algorithm and incorporating some components from my HTML research I did the previous days. Also, if all goes smoothly, I hope to create a better designn for the website and get into CSS so that I can present a better design to users. 
 
