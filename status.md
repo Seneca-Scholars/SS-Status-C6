@@ -1,10 +1,18 @@
+##07/14/25
+Today, I am done with my Zodiac/Hogwarts site. Is it complete? Well it functions on a basic level, but it is time to pivot and 
+incorporate what I have been learning with CSS. Also, it seems like everyone else is aiming for more engaging programs, so I 
+need to lock in. Being surrounded by smart individuals is a blessing because it pushes you to aim for the stars. This weekend I 
+enjoyed attending my friend's birthday BBQ. I also forgot I had a graduation to attend that same day, so I went to the graduation
+first, saw my cousins who I had not seen in at least a year, and then the graduation. I am going to try and scrap up an idea for 
+a program today and incorporate both CSS and HTML while my sister, Simona, does my hair for the first time. Excited to bond with her,
+she does not think I am cool, but she forgets who MADE her. 
+
 ## 07/11/25
 I pivoted fromt HTML to CSS today. The two languages go hand in hand, and so far so good. We had a pretty short work day and Nell
 took us out for Fun Friday. I got some tacos from the Daley food truck and then we went to the Shedd Aquarium. I have not been in 
 years so it was an enjoyable experience. I have my close friend, Melat's, birthday bbq to attend tomorrow so I am excited. What I 
 am not excited for is missing tomorrow's church service as it is a big holiday. Taking these morning weekend courses with Code Path
 have prohibitted me from attending church all summer, and honestly I don't know if this trade off is worth it.
-
 
 ## 07/10/25
 We worked independently today and I dove into more of HTML. I am in the process of creating a site that takes the user's input and 
