@@ -1,3 +1,6 @@
+#7/15/25
+I spent all morning working on a higher or lower game using the card shuffler i made previously. This project is being done using HTML and JavaScript, and I plan to style it later with CSS.
+
 #7/14/25
 Finished off Forms and Buttons HTML module by learning about checkboxes, the checked attribute, and the disabled attribute. I then began to learn about Java Script events with the module named Introduction to Events, but found myself needing a refresher on backticks and arrow functions before I could proceed further, so I studied up on those before continuing through the module> I couldn't get as much done as I wanted to because it was taking me sometime to wrap my head around backticks and arrow functions, but now I have a pretty solid understanding of how to utilize them. I then learned about how to use the addEventListener() function, and how it takes two parameters-the string indicating the event to look for, and the function to call when the event occurs. I also learned about the types of button related events there are such as click, dblclick, mouseover, mouseout, focus, and blur. Lastly, I learned how to remove eventListeners. I will continue this module tomorrow.
 
