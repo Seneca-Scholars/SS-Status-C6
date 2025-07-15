@@ -1,5 +1,9 @@
 #7/15/25
-I spent all morning working on a higher or lower game using the card shuffler i made previously. This project is being done using HTML and JavaScript, and I plan to style it later with CSS.
+After lunch, I was able to finish the JavaScript and HTML portions of my higher or lower game. Although, I am considering adding a counter to track how many times a user guessed crrectly. In the future I plan to style my project with CSS. Within my project, I used switch cases, objects, functions, event handlers, and JavaScript functions for updating HTML tags.
+
+My group consisting of Tim, Lauren R, Ariana, and I, worked to create a table with elements that change color depending on user input. I worked on the JavaScript portion with a nested for loop that traversed a 2D array that added an event listener to each element in the table. Then, the background color of the table element would change to the color the user picked
+
+I spent the morning from 9-10am working on a higher or lower game using the card shuffler I made previously. This project is being done using HTML and JavaScript, and I plan to style it later with CSS.
 
 #7/14/25
 Finished off Forms and Buttons HTML module by learning about checkboxes, the checked attribute, and the disabled attribute. I then began to learn about Java Script events with the module named Introduction to Events, but found myself needing a refresher on backticks and arrow functions before I could proceed further, so I studied up on those before continuing through the module> I couldn't get as much done as I wanted to because it was taking me sometime to wrap my head around backticks and arrow functions, but now I have a pretty solid understanding of how to utilize them. I then learned about how to use the addEventListener() function, and how it takes two parameters-the string indicating the event to look for, and the function to call when the event occurs. I also learned about the types of button related events there are such as click, dblclick, mouseover, mouseout, focus, and blur. Lastly, I learned how to remove eventListeners. I will continue this module tomorrow.
