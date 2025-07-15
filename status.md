@@ -1,5 +1,10 @@
 # Arianna's Statuses! 
 
+## 7/15/25
+Today me and my amazing team took up the task of building a dynamic grid. Josh worked on the javascript, Lauren R. did the HTML table, Timothy did the readMe, and I worked on the styling and text of the main page.
+
+Although, I didnt get experience with making the interactive table, my team did good and worked together well, but I do on my own want to get this pratice for myself. 
+
 ## 7/14/25
 I'm sooo happy to be back! Today we started off in a lesson learning about building a stable webpage interface through HTML and CSS, spefically we talked about inline vs inline-block, margins, divs and more! 
 
