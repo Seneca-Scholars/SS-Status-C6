@@ -1,3 +1,7 @@
+7/15/25 Worked on the group project assigned by Wajiw created an HTML table using javascript
+
+7/14/25 Still working on converting my an older java project into javascript.
+
 7/10/25 Still working on converting my an older java project into javascript. Using HTML and CSS to make a website   and converting the project from java to javascript to get a better understanding of it.
 
 7/8/25 Continued working on converting my older project into javascript
