@@ -1,3 +1,10 @@
+##07/15/25
+Wajiw was not in office today so he assigned groups to work on creating a dynamic, meaning changing, table grid. Jode, Michael, 
+and I created the bare bones of the table, but we had the idea to mimic Jeopardy and create a simple Jeopardy game. It is coming 
+along, slowly but surely. This week is a busy week for me as I have a lot of school preparation to do, meetings with NSBE, BSU,
+and ensuring I get season tickets for football this fall. My sister did not do my hair last night as I had a busy evening, but
+I will wash it tonight. Wash days can either be therapeutic or exhausting.
+
 ##07/14/25
 Today, I am done with my Zodiac/Hogwarts site. Is it complete? Well it functions on a basic level, but it is time to pivot and 
 incorporate what I have been learning with CSS. Also, it seems like everyone else is aiming for more engaging programs, so I 
