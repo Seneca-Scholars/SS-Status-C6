@@ -1,5 +1,9 @@
 
 
+7/11/25 We learned more about elemnts and some css terminology. I was able to learn more about how the functions in js are being excecuted I am looking into why my button
+won't circle around my image. Luckily, Jeff was here and showed me that since my image has a transparant square frame the button is around the frame rather than the image
+itself. I also learned how the div tag and span tag differ and I am able to implement it in my proejct.
+
 7/10/25 I worked on my cookieclicking project and I am glad to say I finally made progress on my app. I am getting used to different tag placement and I believe 
 am getting the hang of using different external files. I believe that the use of both css and javascript has helped to clean up my html file. Unfortuantely, my button has stopped working I think but I check to make sure since it's transparant. 
 
@@ -25,9 +29,9 @@ be helpful because I am trying to learn more backend.
 
 6/30/25 I learned more about html and I am curious about how javascript and html can be used together 
 
-6/29/25
+6/29/25 
 
-6/28/25 Today was fun I enjoyed being able to get to know
+6/28/25 Today was fun I enjoyed being able to get to know more about html tags and how the structure of a basic html code should look
 
 6/27/25 I am going to start working on my personal project and the html practice site so I can improve both at the same time. I really think that a program
 that would be able to summarizes and give strengths and weaknesses of. businesses would be so useful. 
@@ -45,7 +49,7 @@ with the terminal and I find it very useful. I can't imagine what we would use i
 
 6/20/25 I just ate lunch and I am tired but I am enjoying the program
 
-i 06/18/25 I had to get on the bus and was early today. We reviewed 
+i 06/18/25 I had to get on the bus and was early today. We reviewed the employee handbook
 
 
 
