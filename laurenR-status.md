@@ -1,8 +1,14 @@
-7/10/2025: Today was professional picture day!! That ranged from 10:25 - lunchtime. After lunch, there were labs led by Jaime for questions & answer. On my owm work time, I took the time to edit my portfolio project more. I added a dark/light mode feature and altered text & images to suit each mode.
+7/15/2025: First day back! Today group projects were worked on. My overall role was the HTML table, inputs, and styling. 
 
-7/09/2025: Today was Nell's instruction day and we coveed LinkedIn connections & posts, resumes, and relavent experiences. 
+7/14/25: Out of Office.
 
-7/08/2025: Throughout today, Wajiw went over Javascript interactions and the DOM. Nell covered upcoming pay days/periods as well as the calendar & LinkedIn Reviews/Workshops. I rearranged folders in my Sandbox and adjusted my README file. Jaime and Jeff went over the importanc/purpose of a lock file plus what React is as a whole.
+7/11/25: Out of Office.
+
+7/10/25: Today was professional picture day!! That ranged from 10:25 - lunchtime. After lunch, there were labs led by Jaime for questions & answer. On my owm work time, I took the time to edit my portfolio project more. I added a dark/light mode feature and altered text & images to suit each mode.
+
+7/09/25: Today was Nell's instruction day and we coveed LinkedIn connections & posts, resumes, and relavent experiences. 
+
+7/08/25: Throughout today, Wajiw went over Javascript interactions and the DOM. Nell covered upcoming pay days/periods as well as the calendar & LinkedIn Reviews/Workshops. I rearranged folders in my Sandbox and adjusted my README file. Jaime and Jeff went over the importanc/purpose of a lock file plus what React is as a whole.
 
 7/07/25: This is my status update for today. I changed my status file type and updated my personal project by exploring the areas I chose in the poll. Primarily by playing around with a blog post format and JavaScript.
 
