@@ -1,3 +1,5 @@
+7/13/25 I learned about some strategies to take into college and I looked more into my college resume. I am also looking into the resume templates my school has avaliable 
+
 7/12/25 My team and I decided to make our table app into something where you can filter your search as a way to make it more interactive. Me and Sabona were put incharge of the JS side of the app to make it more interactive and include an array with the row. I was able to add an input so the user could enter letters and make it so the table would filter out by rows which one the user was looking for. 
 
 7/11/25 We learned more about elemnts and some css terminology. I was able to learn more about how the functions in js are being excecuted I am looking into why my button
