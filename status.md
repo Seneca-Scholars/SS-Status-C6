@@ -1,3 +1,6 @@
+#7/16/25
+During the morning from 9-10am, I learned about how we can remove event listeners using removeEventListener(). I also learned about other event handlers such as event handler properties like onclick, and inline event handlers contained within html attributes. However, I also found out about why one should probably avoid using these other event handlers. Lasty, I started learning about event objects and how they are automatically passed to event handlers to provide extra features and information. I also began learning about the target property of event objects and how they can be used to access the element the event occured on.
+
 #7/15/25
 After lunch, I was able to finish the JavaScript and HTML portions of my higher or lower game. Although, I am considering adding a counter to track how many times a user guessed crrectly. In the future I plan to style my project with CSS. Within my project, I used switch cases, objects, functions, event handlers, and JavaScript functions for updating HTML tags.
 
