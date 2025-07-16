@@ -1,5 +1,9 @@
 # Arianna's Statuses! 
 
+## 7/16/25
+
+Morning Time Make-Up: This morning I spent time fixing and styling my personal project. I had a issue with the output not displaying when the user enters a class, but turns out it was a simple fix with HTML. I also did some research to find some good AP sources for users to have. Then I began to style the text and format. 
+
 ## 7/15/25
 Today me and my amazing team took up the task of building a dynamic grid. Josh worked on the javascript, Lauren R. did the HTML table, Timothy did the readMe, and I worked on the styling and text of the main page.
 
