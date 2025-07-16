@@ -1,5 +1,8 @@
 ## Status Log:
 
+# 07/16/2025
+This wednesday, we worked on college readiness with Nell. As a cohort we had many open and thoughtful discussions about study tips, what has worked for us in the past and the cons of those strategies. We also talked about our general concerns about the college transition as well, involving topics like scholarships and rigor. In the afternoon, we worked on our class schedules.
+
 # 07/15/2025
 This Tuesday, I worked on the group project and developed my understanding of HTML and javascript as we created our dynamic table. Whenever we were confused on a certain objective or what function could execute a certain task, my group mates and I would ask eachother and look over eachother's code before merging and pulling so that we wouldn't have faulty lines of code that did not execute a certain task we were looking for. 
 
