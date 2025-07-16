@@ -1,5 +1,10 @@
 ## Status Log:
 
+# 07/15/2025
+This Tuesday, I worked on the group project and developed my understanding of HTML and javascript as we created our dynamic table. Whenever we were confused on a certain objective or what function could execute a certain task, my group mates and I would ask eachother and look over eachother's code before merging and pulling so that we wouldn't have faulty lines of code that did not execute a certain task we were looking for. 
+
+In the afternoon, I worked more on my personal project and learned more about the image tags and also how to position my images on the screen with span tags. Finally, I added an icon that would appear next to our website's title in the browser to both my personal project and our group table website. 
+
 # 07/14/2025
 Today, I added some more design elements to my website like an image to correlate with a recipe. Also, I made the calculation function, however I may have been too ambitious because I am not sure how to make the calculation funnction more generaal instead of rewritinng it for each and every recipe I have on the website. I will need to look more into this and also the CSS units, display properties (Display annd positioning), inline vs inline-block, and margin auto centering which are topics we looked into today.I also ran into a slight bug where my website was crashing everrytime I pressed submit for forms but I ended up deletinng the form piece and made a simple callback to use the calculate function. I will look into more CSS concepts this week and brush up on js as well.  
 
