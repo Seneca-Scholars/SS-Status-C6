@@ -1,5 +1,5 @@
 #7/16/25
-Created course preparation folder with my class schedule and a time budgeting document. I shared this folder with Nell and will work to continue planning how to best budget my time in college for classes, homework, and work for Seneca. I wasn't able to find the syllabi for my classes, but I hope I am able to find them in the futue with Nell's help.
+Created course preparation folder with my class schedule and a time budgeting document. I shared this folder with Nell and will work to continue planning how to best budget my time in college for classes, homework, and work for Seneca. I wasn't able to find the syllabi for my classes, but I hope I am able to find them in the future with Nell's help.
 
 During rest of morning worked with Sabona and Timothy to revise and comment on eachothers' resumes. As a Cohort, we then discussed transitioning to college, and worries we have for the transition.
 
