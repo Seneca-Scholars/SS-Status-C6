@@ -1,3 +1,10 @@
+##07/16/25
+Nell led the cohort in some more resume revision and college readiness workshops. We had an open conversation about habits to
+make and habits to break before college. I felt like an old person when I gave some advice on what study habits have helped me,
+I'm too young ;( Anyway, I want to pivot and make a project and get some project implemented JavaS because I have only really 
+done HTML and CSS. After work, I am going to go minigolfing with my cousins who I have not seen in a month, so I am excited to 
+WHOOP them. 
+
 ##07/15/25
 Wajiw was not in office today so he assigned groups to work on creating a dynamic, meaning changing, table grid. Jode, Michael, 
 and I created the bare bones of the table, but we had the idea to mimic Jeopardy and create a simple Jeopardy game. It is coming 
