@@ -1,3 +1,6 @@
+07-16-2025
+Today was another helpful Nell day! I really liked the topics we went over about time management for college. Didn't do too much for my personal project, though I adjusted a little bit of CSS. It still looks weird and I have to put everything in its correct position, but we're still making progress. I hope I get the classes I'm waitlisted for since that'll be good for my credits.
+
 07-15-2025
 It was kind of a rough CSS day for my personal project. I made progress, but it was pretty slow as I got stuck on multiple points. I will say that all of the slow progress is actually gonna make me pose a question inside of the GC because some of this stuff seems really simple but I just don't have the answer to it. It would help me move a lot quicker on some simple stuff if people are up to assist. The project I worked on with my team went pretty smoothly. Arianna, Josh, and Lauren all exceled at one of the tasks, and then I was just left doing the readme which felt kind of demoralizing ngl but I'm fine with keeping everyone updated and on track. From what I've heard from random chatter, I don't know if anyone is particually excited about the prospect of being a PM. I wouldn't mind taking the mantle, but I think I have a lot of general javascript CSS skills to build up before that. I'm on my way though!
 
