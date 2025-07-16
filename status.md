@@ -1,15 +1,18 @@
 *07-15-25\
+-talked with Nell about some concerns we had about starting and staying on top of college academically, socially, and professionally\
+-worked on finalizing posts on linkedin
+-
+
+*07-15-25\
 -came in early to get a jumpstart on my personal project, was able to get the issues with hiding and displaying the buttons out of the way, began working on changing the color of each invididual button when pressed and randomly placing number values across the grid\
 -started working on developing 3 levels of difficulty; easy is the base game; medium places the boxes randomly on the screen; hard does that and every other second the numbers disappear from the boxes\
 -worked on the javascript portion of the input arranging the array into the first cell of each row\
 -started writing code for the bonus part but ran into an issue with the filter actually working and updating the table live
--
 
 *07-11-25\
 -met with Nell to discuss my financial aid package; she broke down each row and helped me find ways to opt out of certain charges(books/supplies, transportation, etc.)
 -wrote our LinkedIn posts and had them verified by Nell; additionally, worked on creating a comprehensive list of expereinces to help in making a resume and strengthening our linkedin profiles
 -went to 7/11, got slushies, went to Daley Plaza, got birria tacos, went to the shedd aquarium, pet the stringray
--
 
 *07-10-25\
 -finally finished implementing the party feature on the website by simplifying the changing styles in a toggle function\
