@@ -1,4 +1,6 @@
-7/15/2025: First day back! Today group projects were worked on. My overall role was the HTML table, inputs, and styling. 
+7/16/25: Today was a college readiness session with Nell. We covered college schedules & syllabus, college worries, and more. I revised my resume as well.
+
+7/15/25: First day back! Today group projects were worked on. My overall role was the HTML table, inputs, and styling. 
 
 7/14/25: Out of Office.
 
