@@ -1,5 +1,19 @@
 # Arianna's Statuses! 
 
+## 7/17/25
+
+What the Table Project taught me...
+
+- Gameplanning before acting: a project's instructions may seem daunting when 1st reading them, but taking the time to talk things out as a team, and write out notes, steps, and goals in a doc is very helpful. 
+
+- If 1 person on the team doesnt understand what we are doing, take the time to fill them in: although it seems trivial--leaving one person out the loop, will only cause more confusion, saying things like "what dont you understand" in a respectful way, will save so much time for confusion. (talking about this vs DOING this is very diffrent)
+
+- using a develop branch: Coding in a group WILL get tricky, so having the develop branch came so helpful, when merging or worrying about if changes on branches were properly saved. The develop branch became a safe space lol 
+
+- leverging chatgbt: like Wajiw is teaching us, using chatgbt as a tool instead of a cheat is the way to go. Asking it to futher explain certain tags, or elements helps when coding my branch, or answering questions of team members who were wondering the same. 
+
+- the importance of communication before pulling and merging: currently, Lauren R. is running into a merge conflict within her branch, we knew this BECAUSE of past conversations as a team, without that, we wouldve been lost! Or even lost some of our progress 
+
 ## 7/16/25
 
 Morning Time Make-Up: This morning I spent time fixing and styling my personal project. I had a issue with the output not displaying when the user enters a class, but turns out it was a simple fix with HTML. I also did some research to find some good AP sources for users to have. Then I began to style the text and format. 
