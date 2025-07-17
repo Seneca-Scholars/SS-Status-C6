@@ -1,3 +1,13 @@
+##07/17/25
+Seneca hosted a reunion event for cohorts 1-5, so cohort 6 hopped around public spaces and worked. After today, I learned many
+things, the most important being communication. 
+- Learned the basic HTML tags, but Jode guided me in implementing them. 
+- Worked on creating rows and columns on a table
+- Utilizing buttons for the scores of the Jeopardy game 
+- Implementing selectors to quickly and efficiently
+- COMMUNICATION: I worked well with Jode, but Micheal stays in his lane. He coded a lot of JS but more than we need, so the three
+of us will work together to filter out the data and see what we need and don't need,
+
 ##07/16/25
 Nell led the cohort in some more resume revision and college readiness workshops. We had an open conversation about habits to
 make and habits to break before college. I felt like an old person when I gave some advice on what study habits have helped me,
