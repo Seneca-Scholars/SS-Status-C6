@@ -14,6 +14,11 @@ What the Table Project taught me...
 
 - the importance of communication before pulling and merging: currently, Lauren R. is running into a merge conflict within her branch, we knew this BECAUSE of past conversations as a team, without that, we wouldve been lost! Or even lost some of our progress 
 
+What I did during make-up time: 
+ - do a break down scudule of my fall 2025 GSU
+ - did my "what today taught me" status
+ - watched the yt video "The EXTREMELY helpful guide to merge conflicts" and took some notes
+
 ## 7/16/25
 
 Morning Time Make-Up: This morning I spent time fixing and styling my personal project. I had a issue with the output not displaying when the user enters a class, but turns out it was a simple fix with HTML. I also did some research to find some good AP sources for users to have. Then I began to style the text and format. 
