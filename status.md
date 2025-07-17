@@ -1,3 +1,17 @@
+#7/17/25
+During the day, I worked on the JavaScript functionality of JLTA's project.
+What I've learned from this project:
+-How to ask a client a question in a proffesional manner
+-How to resolve conflicts as a team
+-How to create HTML elements in JavaScript
+-How to prevent an event from doing what it does by default with preventDefault()
+-How to append child elements to parent elements
+-How to create input elements and types for input elements
+-How to refresh the table and clear out old ones .innerHTML
+-How to communicate updates to clients
+
+During the morning from 9-9:30am I started to learn about event bubbling, and how if a parent element has an event handler, an action done to a child element can run the parent's event handler.
+
 #7/16/25
 Created course preparation folder with my class schedule and a time budgeting document. I shared this folder with Nell and will work to continue planning how to best budget my time in college for classes, homework, and work for Seneca. I wasn't able to find the syllabi for my classes, but I hope I am able to find them in the future with Nell's help.
 
