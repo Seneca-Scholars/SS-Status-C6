@@ -9,6 +9,8 @@ What I've learned from this project:
 -How to create input elements and types for input elements
 -How to refresh the table and clear out old ones .innerHTML
 -How to communicate updates to clients
+-How to only receive positive integers as inputs for HTML elements using min="1" and step="1"
+
 
 During the morning from 9-9:30am I started to learn about event bubbling, and how if a parent element has an event handler, an action done to a child element can run the parent's event handler.
 
