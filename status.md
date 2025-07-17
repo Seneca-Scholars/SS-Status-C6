@@ -26,7 +26,7 @@ Three things I want to learn are
 
 7/15 I made a lot of progress on my personal project. I started working on my javascript to make my website more dynamic. I have also done a lot of CSS to make my page look clean. 
 
-7/16 Nell talked with us about our resumes and Sinit helped me to fine tune my resume so that it had better organization and wording. 
+7/16 Nell talked with us about our resumes and Sinit helped me to fine tune my resume so that it had better organization and wording. We also spent some time talking about colleges and what reservations, questions, and concerns we had. I talked about how I was still interested in scholarships and I was wondering what the timeline was on applying to them because I had the notion that the window had passed. However, Nell helped to calm my nerves and told me that the window was not over in actuality. 
 
 7/17 Today we continued to work on our table project. I learned a lot of new computer science jargon and terms. I also better understand how to apply different principles of javascript and css. 
 - I learned what zebra striping is and how to do that with a table. 
