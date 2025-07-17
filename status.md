@@ -1,3 +1,11 @@
+07-17-2025
+Some of the stuff I've learned while doing this project:
+- What the general workflow can feel like while on a team
+- How to keep track of pushes and PR's and rebases and merging etc. etc.
+- Basic HTML table management
+- Basics on keeping a team organized and productive
+- A few Markdown skills
+
 07-16-2025
 Today was another helpful Nell day! I really liked the topics we went over about time management for college. Didn't do too much for my personal project, though I adjusted a little bit of CSS. It still looks weird and I have to put everything in its correct position, but we're still making progress. I hope I get the classes I'm waitlisted for since that'll be good for my credits.
 
