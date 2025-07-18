@@ -1,3 +1,6 @@
+07-18-2025
+I mostly worked on my resume today, though for the extra hour I clocked in I was able to finish my general CSS structure for my personal project. I learned about display: grid, and used that to organize everything into columns. After that was resume work, and then we went out to chinatown and to get tacos!
+
 07-17-2025
 Some of the stuff I've learned while doing this project:
 - What the general workflow can feel like while on a team
