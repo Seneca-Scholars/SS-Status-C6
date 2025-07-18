@@ -1,4 +1,7 @@
-#7/17/25
+#7/18/25
+During the morning from 9-10am, I finished the JavaScript MDN module on event bubbling. First I learned about how event bubbling and event capture are in essence opposites, and that stopPropagation() can stop event bubbling from happening. I also learned about how event bubbling is useful for event delegation, and how target and currentTarget can be used during event bubbling to access the element on which the event occured, and the element to which the event handler has been attached.
+
+7/17/25
 During the day, I worked on the JavaScript functionality of JLTA's project.
 What I've learned from this project:
 -How to ask a client a question in a proffesional manner
