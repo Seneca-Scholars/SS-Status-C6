@@ -1,3 +1,5 @@
+7/17/25: Today me and cohort 6 went out to locations outside of the office to work on our dynamic table projects with the teams. We visited a coffee shop, pizza place, and library. Troughout today my team worked on the dynamics of our table and creaated a new ability to add rows and columns with a javascript function and inputs. Along with that, we worked on the websies overall apperance in css and html.
+
 7/16/25: Today was a college readiness session with Nell. We covered college schedules & syllabus, college worries, and more. I revised my resume as well.
 
 7/15/25: First day back! Today group projects were worked on. My overall role was the HTML table, inputs, and styling. 
