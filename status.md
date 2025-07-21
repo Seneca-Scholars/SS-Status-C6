@@ -34,3 +34,8 @@ Three things I want to learn are
 - I learned that a responsive layout is when the layout of a page can change to adapt to screens of different devices.
 - Jaime helped me better understand arrays and objects and how they interact. 
 - I learned how to better communicate with my team and make sure everyone has a unique task so we are efficiently making progress on the project. 
+
+7/21 My group and I presented our table to Wajiw and our cohort. We discussed the CSS that I did because I wanted to find a way to rearrange the coloring of the zebra stripes to go from alternating columns to alternating rows. 
+I figured out how to change the arrangment by using the tbody tag then specifying it by using the tr tag. 
+After lunch I continued to work on more CSS concepts and added an active element to the table so that when you click on a cell from the table it blinks. 
+Julieta and I also worked on deciding how to make the delete row button but we did not finish yet. 
