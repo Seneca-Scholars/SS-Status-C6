@@ -1,3 +1,8 @@
+*07-21-25\
+-started the day by listeneing to the different projects that other groups had designed and learned a few things that apply to my groups project, presented a function from my group and learned about some changes we should make to make data more accessible\
+-spent the rest of the day catching up with my group and implementing a filter feature on the website
+-
+
 *07-15-25\
 -talked with Nell about some concerns we had about starting and staying on top of college academically, socially, and professionally\
 -worked on finalizing posts on linkedin
