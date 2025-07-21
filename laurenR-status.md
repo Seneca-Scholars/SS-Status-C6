@@ -1,3 +1,5 @@
+7/21/25: Today I worked on completing my learniing plan for the 2 days I missed. In the beginning of the day, me and my team presented our table project to Wajiw and the rest of Cohort 6.
+
 7/17/25: Today me and cohort 6 went out to locations outside of the office to work on our dynamic table projects with the teams. We visited a coffee shop, pizza place, and library. Troughout today my team worked on the dynamics of our table and creaated a new ability to add rows and columns with a javascript function and inputs. Along with that, we worked on the websies overall apperance in css and html.
 
 7/16/25: Today was a college readiness session with Nell. We covered college schedules & syllabus, college worries, and more. I revised my resume as well.
@@ -18,7 +20,7 @@
 
 7/02/25: Daniel walked us through making ternary and arrow functions. When given extra time, I chose to work on JavaScript, CSS, and HTML on my portfolio weebsite.
 
-7/01/25: Today consisted of an insstruction given by Wajiw over the topics of Conditionals, For Loops, Operators, and CS Concepts. In labs I got help with cloning a reposiitory from my other github account to gain access to my portfolio inside of VS Code. Next, I will be working on starting my lesson plan for the day I'm going to be out of office next week.
+7/01/25: Today consisted of an instruction given by Wajiw over the topics of Conditionals, For Loops, Operators, and CS Concepts. In labs I got help with cloning a reposiitory from my other github account to gain access to my portfolio inside of VS Code. Next, I will be working on starting my lesson plan for the day I'm going to be out of office next week.
 
 6/30/25: Today we covered our intro session of DOM, HTML, CSS, and JavaScript wih Wajiw. During labs, Jaime walked us through having conflicts with pull requests and rebasing. I have also joined paths. I felt like I gained a base level understanding. The visuals were very helpful and I like the idea of a timeline. I would like to execute this soon by making and fixing conflicts with my peers. When I get home, I'll try to watch a video about rebasing for a deeper understanding.
 
