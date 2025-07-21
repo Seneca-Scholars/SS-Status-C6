@@ -1,3 +1,6 @@
+07-21-2025
+Today was a pretty good day coming from the weekend. I feel like I made a lot of good progress in my personal project, as Jaime helped me in labs. I wanted to figure out a cleaner way of implementing individual scenarios on my website, and I knew I could do it by updating a variable and creating if statements for every single state I could update to, but I felt like that was really innefficient. Jaime showed me how 2d arrays worked and I'm pretty sure I can implement that instead to makes things way more consise. Our team project is still going well too. We solved our merge conflict for our CSS and got our README merged too, so we're all caught up. Once I figure out how to fully utilize 2d arrays, I should be able to finish up my JS for my personal project really quick!
+
 07-18-2025
 I mostly worked on my resume today, though for the extra hour I clocked in I was able to finish my general CSS structure for my personal project. I learned about display: grid, and used that to organize everything into columns. After that was resume work, and then we went out to chinatown and to get tacos!
 
