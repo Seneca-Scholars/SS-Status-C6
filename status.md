@@ -1,4 +1,6 @@
 #7/21/25
+In the afternoon I began CSS basics. I started today with little to no CSS knowledge, so I pretty much had to start from scratch. Today I learned about the CSS selectors for targetting elements, classes, id's, and all elements with *. I finished off today learning about combinator selectors in CSS such as li p{}, li + p{}, li > p, and li ~ p{}. Tomorrow I will begin learning about styling based on state (Ex: a:hover {}).
+
 I spent the morning from 9-10am learning about JavaScript string methods by taking notes on the String Methods module from the JavaScript MDN web docs. I learned how to use .length, .includes(), .startsWith(), .endsWith(), .indexOf(), .splice(), .toLowerCase(), .toUpperCase(), .replace(), and .replaceAll()
 
 #7/18/25
