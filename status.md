@@ -1,3 +1,6 @@
+#7/21/25
+I spent the morning from 9-10am learning about JavaScript string methods by taking notes on the String Methods module from the JavaScript MDN web docs. I learned how to use .length, .includes(), .startsWith(), .endsWith(), .indexOf(), .splice(), .toLowerCase(), .toUpperCase(), .replace(), and .replaceAll()
+
 #7/18/25
 Filled out LinkedIn Rollout(2025) google form for Ethan and Tomya.
 
