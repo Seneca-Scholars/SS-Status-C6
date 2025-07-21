@@ -1,3 +1,10 @@
+##07/21/25
+This weekend, I went to Wisconsin Dells with my childhood friends. I did not realize how long it has been since I went on a 
+water slide or roller coaster. We had a great time. Today, we presented our group projects to the rest of the cohort. Michael
+is doing the javascript and Jode and I are doing the HTML and CSS. However, I want to hop onto the javascript also just so I 
+understand whats going too. I started working on some W3 lessons for Javascript, so I will keep on working on that. Maybe I will
+start another project, I'm thinking of making a calculator. 
+
 ##07/17/25
 Seneca hosted a reunion event for cohorts 1-5, so cohort 6 hopped around public spaces and worked. After today, I learned many
 things, the most important being communication. 
