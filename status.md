@@ -1,5 +1,9 @@
 # Arianna's Statuses! 
 
+## 7/22/25 
+
+This lovely Tuesday started off in a meeting with wajiw learning about things like API's, promises etc. It does make alot of sense but praticiing iti more will make it more "REAL". later on i filled out the roles intrest form and im feeling good avout it!
+
 ## 7/21/25 
 
 Todayyy we started off in a meeting with Wajiw reviewing our team projects which I think went pretty well, after lunch I took time to implement all the changes, he suggested and talked to my team about them. Overall good day! Now I'm starting to think about what team role will suit me best on the BIG project 
