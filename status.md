@@ -1,3 +1,9 @@
+*07-22-25\
+-we were introduced to APIs, we learned the very basic structure of promises and how they can be chained together\
+-jaime taught us a bit morre about how to set up a fetch function and how to make those requests to the server/API\
+-worked a litte more on my personal chessboard project to practice some css and javascript
+-
+
 *07-21-25\
 -started the day by listeneing to the different projects that other groups had designed and learned a few things that apply to my groups project, presented a function from my group and learned about some changes we should make to make data more accessible\
 -spent the rest of the day catching up with my group and implementing a filter feature on the website
