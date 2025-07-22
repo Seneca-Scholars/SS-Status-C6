@@ -1,3 +1,6 @@
+#7/22/25
+In the morning from 9-10am, I spent a lot of time filling out C6 projects teams and channels interest form. Today I learned about styling based on state, basic functions in CSS such as calc(), @rules such as @media, shorthand properties like padding and margin, and commenting in CSS with /* and */. This was based on the Getting Started with CSS module in the MDN web docs, so none of these topics went very in depth, but gave a simple overview of some CSS basics.
+
 #7/21/25
 In the afternoon I began CSS basics. I started today with little to no CSS knowledge, so I pretty much had to start from scratch. Today I learned about the CSS selectors for targetting elements, classes, id's, and all elements with *. I finished off today learning about combinator selectors in CSS such as li p{}, li + p{}, li > p, and li ~ p{}. Tomorrow I will begin learning about styling based on state (Ex: a:hover {}).
 
