@@ -1,3 +1,10 @@
+##07/22/25
+Today was a busy work day. Wajiw walked us through APIs and all that jazz. I understand a lot of it fundamentally, but hopefully
+we go through it together and practice implementing individually--can only learn so much watching Wajiw screen share. Jaime then 
+walked us through some more of that. Honestly, the human mind can only retain so much without practice, so in conclusion, I really
+only gathered like 2/3 of today's lesson. I'm staying two hours later today to make up my missed time, so I want to create another
+personal project practicing JS.
+
 ##07/21/25
 This weekend, I went to Wisconsin Dells with my childhood friends. I did not realize how long it has been since I went on a 
 water slide or roller coaster. We had a great time. Today, we presented our group projects to the rest of the cohort. Michael
