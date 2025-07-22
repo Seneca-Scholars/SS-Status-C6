@@ -38,4 +38,6 @@ Three things I want to learn are
 7/21 My group and I presented our table to Wajiw and our cohort. We discussed the CSS that I did because I wanted to find a way to rearrange the coloring of the zebra stripes to go from alternating columns to alternating rows. 
 I figured out how to change the arrangment by using the tbody tag then specifying it by using the tr tag. 
 After lunch I continued to work on more CSS concepts and added an active element to the table so that when you click on a cell from the table it blinks. 
-Julieta and I also worked on deciding how to make the delete row button but we did not finish yet. 
+Julieta and I also worked on deciding how to make the delete row button but we did not finish yet.  
+
+7/22 During our morning meeting Wajiw talked to us about API's and how to fetch data from them. He showed us an example of this using a Harry Potter API and showed us how to use the fetch comman and promises to populate the data on our page. After lunch Jaime went into further detail about this during our labs. He gave the comparison of how an API is similar to a server. I also spent some time before work editing my table. I created a second delete row button so that users can choose to delete the top row of the table or the bottom row. 
