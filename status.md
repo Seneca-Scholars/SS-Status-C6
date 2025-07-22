@@ -1,4 +1,8 @@
 #7/22/25
+In the afternoon we had a long lab wit Jaime that went over the fetch requests get, post, put, and delete. We continued to go over get requests with postman and express. Express is a web framework for Node.js that makes building servers and APIs easy. And Postman is a way we can test endpoints such as /bruh is Jaime's example.
+
+During the morning with Wajiw I took notes on API integration, what an API is, REST which is the API standard we will be using, the uses of Promises, and Promises Chaining. I plan to continue developing my understanding of APIs and Promises by eventually using an API in my personal project and by using .then() and .catch() methods. As well parsing data with .json().
+
 In the morning from 9-10am, I spent a lot of time filling out C6 projects teams and channels interest form. Today I learned about styling based on state, basic functions in CSS such as calc(), @rules such as @media, shorthand properties like padding and margin, and commenting in CSS with /* and */. This was based on the Getting Started with CSS module in the MDN web docs, so none of these topics went very in depth, but gave a simple overview of some CSS basics.
 
 #7/21/25
