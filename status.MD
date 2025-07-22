@@ -1,3 +1,5 @@
+7/21/25 I was able to update the js file with my teammates now I have used a place holder for the filter.
+
 7/14/25 I learned alot from this team exercise:
          - I learned to communicate better so we are all using the same main code
          - I was able to learn more about eventlistners and how to implement them 
