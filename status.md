@@ -1,8 +1,14 @@
 # Arianna's Statuses! 
 
+## 7/23/25
+
+This wacky wenesdsay, team JLTA took on head 1st an API!! spefically a pokemon search engine api, (hopefully soon we can add ) OMGGG LOL. Josh and Timothy took on the backend, they made really great progress and added some really cool stuff, put they are currently going through issues with fetching. 
+
+I focused on the frontend and design, cleaning stuff up, making stuff look pretty and also did some research on how to make my webpages more dynamic sdespite the device Im viewing on. 
+
 ## 7/22/25 
 
-This lovely Tuesday started off in a meeting with wajiw learning about things like API's, promises etc. It does make alot of sense but praticiing iti more will make it more "REAL". later on i filled out the roles intrest form and im feeling good avout it!
+This lovely Tuesday started off in a meeting with wajiw learning about things like API's, promises etc. It does make alot of sense but praticiing iti more will make it more "REAL". later on i filled out the roles intrest form and im feeling good about it!
 
 ## 7/21/25 
 
