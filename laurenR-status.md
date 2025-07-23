@@ -1,3 +1,7 @@
+7/23/25: Today Nell was out of office. My team worked on developing a new project using a Pokemon API. My task was styling the webpage. I left office early for a doctor's appointment.
+
+7/22/25: Today, we dove into APIs and were shown a lesson on fetch, promises, & more.
+
 7/21/25: Today I worked on completing my learniing plan for the 2 days I missed. In the beginning of the day, me and my team presented our table project to Wajiw and the rest of Cohort 6.
 
 7/17/25: Today me and cohort 6 went out to locations outside of the office to work on our dynamic table projects with the teams. We visited a coffee shop, pizza place, and library. Troughout today my team worked on the dynamics of our table and creaated a new ability to add rows and columns with a javascript function and inputs. Along with that, we worked on the websies overall apperance in css and html.
