@@ -1,3 +1,11 @@
+##07/23/25
+I started making my calculator today! I am almost done, just need to fix my calculate function, which is the important one. I am
+getting comfortable with JavaScript, so maybe I will pivot back to the Jeopardy game and fix that--maybe not. There is an Ethiopian
+circus this weekend that I am hoping to go to with my family this weekend, but my parents are being stubborn because we're Eritrean,
+like let the war go, it was 30 plus years ago. Also, this Saturday there is an Eritreans in Tech event that I am hoping to make since
+I missed their first two ones. 
+
+
 ##07/22/25
 Today was a busy work day. Wajiw walked us through APIs and all that jazz. I understand a lot of it fundamentally, but hopefully
 we go through it together and practice implementing individually--can only learn so much watching Wajiw screen share. Jaime then 
