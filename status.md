@@ -1,3 +1,8 @@
+*07-23-25\
+-I spent a lot of time workin on my personal chessbaord project; i started to map out how i plan to write all the movement and organization functions for the pieces; i'm going to make a chesspiece class and for each piece i add ot the board, I'll track its possible moves, current position, etc.
+-also worked out some issues with rebasing and faulty code we had in our main branch during labs with jaime
+-
+
 *07-22-25\
 -we were introduced to APIs, we learned the very basic structure of promises and how they can be chained together\
 -jaime taught us a bit morre about how to set up a fetch function and how to make those requests to the server/API\
