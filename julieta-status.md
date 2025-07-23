@@ -1,5 +1,14 @@
 ## Status Log:
 
+# 07/23/2025
+Today I worked on resolving a merge conflict with my team mates because we had pushed up faulty code and wanted to override it with corrected and valid code. I also worked on exploring CSS and theming with CSS custom properties to alter the text font and color of our page. We also worked on adding an api that can tell the user a fun fact about the last animal in the table. Finally, I worked on my resume and followed a new template from my university's career advancement page. Later today I plan on soldifyng my foundational knowledge in javascript and css so that I can come prepared for tomorrows introduction to react. 
+
+# 07/21/2025
+This Monday, we worked on solving our merge conflicts and getting our add row function to work alongside our filter function. We also got proper zebra striping to work by adding tbody infront of the n'th child section. Then, we started working on getting our delete button to work but ran into issues, we attempted to create an array and make certain cells empty strings instead. I also helped my teammates solve their merge conflicts and reviewed their pull requests and I mostly worked on pair coding.
+
+# 07/17/2025
+This Thursday, we worked on our group projects again creating a interactive/dynamic table. Some things I learned today were: *Difference between textcontent and innerhtml, *Purpose of overflow-x:auto, *How to apply overflow-x:auto in CSS, *How to use nth-child for zebra striping, *How zebra striping and other features like alt text for images can help improve accessibility for all kinds of website visitors, *How to communicate with a client and with teammates on slack so that we can be on the same page with eachother.
+
 # 07/16/2025
 This wednesday, we worked on college readiness with Nell. As a cohort we had many open and thoughtful discussions about study tips, what has worked for us in the past and the cons of those strategies. We also talked about our general concerns about the college transition as well, involving topics like scholarships and rigor. In the afternoon, we worked on our class schedules.
 
