@@ -1,3 +1,8 @@
+##07/24/25
+We spent the morning briefly going over APIs and whatnot again, but Jaime helped me some more so I think I get it. I feel like they
+are similar to try and catch statements, so it all blurs together. I am going to continue with some JS at home today and cover some 
+HTML over the weekend because Khan Academy glazed over a lot of important concepts. I am also done with the calculator, for now.
+
 ##07/23/25
 I started making my calculator today! I am almost done, just need to fix my calculate function, which is the important one. I am
 getting comfortable with JavaScript, so maybe I will pivot back to the Jeopardy game and fix that--maybe not. There is an Ethiopian
