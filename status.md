@@ -1,4 +1,6 @@
 #7/24/25
+Spent rest of morning studying promises with Wajiw and working one on one with Geoff. He was teaching me about promises.all and how there are three states promises can be in (resolved, rejected, pending). I spent the rest of the afternoon learning Flexbox with Jaime. I plan to continue studying flex and CSS tomorrow.
+
 Spent most of the morning from 9-10am talking with Arianna and Lauren to figure out how they want to style our Pokemon website. Spent the other portion from 9-10am beginning the CSS Box Model module in the CSS MDN web docs. This module is super long and confusing for me because I'm not super familiar wit CSS, but so far I have began to learn the differences between the outer display types of block and inline, and some of the tags that have default outer display types.
 
 #7/23/25
