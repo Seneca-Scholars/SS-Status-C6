@@ -1,3 +1,10 @@
+*07-24-25\
+-started off with a lesson on promises and the basic logic/structure behind them\
+-implemented a new photo finding feature on the site that makes a request to a stock photo API and returns the image\
+-started building a random nba player generator that chooses a random nba player from an nba player api and returns information about them\
+-started using google's youtube api to pull up the first youtube video of the chosen player's highlights
+-
+
 *07-23-25\
 -I spent a lot of time workin on my personal chessbaord project; i started to map out how i plan to write all the movement and organization functions for the pieces; i'm going to make a chesspiece class and for each piece i add ot the board, I'll track its possible moves, current position, etc.
 -also worked out some issues with rebasing and faulty code we had in our main branch during labs with jaime
