@@ -1,3 +1,9 @@
+#7/24/25
+Spent most of the morning from 9-10am talking with Arianna and Lauren to figure out how they want to style our Pokemon website. Spent the other portion from 9-10am beginning the CSS Box Model module in the CSS MDN web docs. This module is super long and confusing for me because I'm not super familiar wit CSS, but so far I have began to learn the differences between the outer display types of block and inline, and some of the tags that have default outer display types.
+
+#7/23/25
+Spent all day from 9am-3pm working on Pokemon Battle Game using pokemon-api. The user is now able to look up a pokemon and select a pokemon with randomized moves. Those moves are then saved to an array as objects with attributes such as power and accuracy. In order to do this we had to use two fetch requests, one being nested in the other to first get the pokemon and then get the pokemon's moves. This project has been really, REALLY difficult, but I am learning with Timothy and Arianna at my sides, and together we are using AI to help us through this project.
+
 #7/22/25
 In the afternoon we had a long lab wit Jaime that went over the fetch requests get, post, put, and delete. We continued to go over get requests with postman and express. Express is a web framework for Node.js that makes building servers and APIs easy. And Postman is a way we can test endpoints such as /bruh is Jaime's example.
 
