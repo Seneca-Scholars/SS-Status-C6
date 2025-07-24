@@ -1,5 +1,8 @@
 # Arianna's Statuses! 
 
+## 7/24/25
+This Thursday we started off with a super mini lesson with Wajiw about fetching and CSS styling/formatting. After that with Lauren we worked on the frontend design of the Pokemon API project, right now Im stuggling with formatting the snorlax gif in the exact position I want it too, but I hope the more I learn flexbox, Ill be able to manipulate elements better.
+
 ## 7/23/25
 
 This wacky wenesdsay, team JLTA took on head 1st an API!! spefically a pokemon search engine api, (hopefully soon we can add ) OMGGG LOL. Josh and Timothy took on the backend, they made really great progress and added some really cool stuff, put they are currently going through issues with fetching. 
