@@ -1,3 +1,6 @@
+#7/25/25
+Spent morning revising my resume with Nell's comments, collaborating on a C6 t-shirt design, and planning today's fun activity as a cohort.
+
 #7/24/25
 Spent rest of morning studying promises with Wajiw and working one on one with Geoff. He was teaching me about promises.all and how there are three states promises can be in (resolved, rejected, pending). I spent the rest of the afternoon learning Flexbox with Jaime. I plan to continue studying flex and CSS tomorrow.
 
