@@ -1,3 +1,8 @@
+##07/28/25
+Today, we talked about our possible project ideas. A couple of my ideas could go somewhere, like a site to see things to do in Chicago
+or a site to show construction in Chicago and the routes they impact. I spent last night going through some more JS because I am such a
+scholar (pun intended). I also finished the Tshirt design today and I am pretty proud of it, should I go into design? Hmm
+
 ##07/24/25
 We spent the morning briefly going over APIs and whatnot again, but Jaime helped me some more so I think I get it. I feel like they
 are similar to try and catch statements, so it all blurs together. I am going to continue with some JS at home today and cover some 
