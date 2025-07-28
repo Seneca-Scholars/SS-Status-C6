@@ -1,3 +1,9 @@
+*07-28-25\
+-brainstormed and shared our project ideas with wajiw\
+-created an organization document and researched different apis to find the data i would need for the park project\
+-learned about backticks, importing/exporting and modules
+-
+
 *07-24-25\
 -started off with a lesson on promises and the basic logic/structure behind them\
 -implemented a new photo finding feature on the site that makes a request to a stock photo API and returns the image\
