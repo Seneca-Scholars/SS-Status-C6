@@ -43,3 +43,6 @@ Julieta and I also worked on deciding how to make the delete row button but we d
 7/22 During our morning meeting Wajiw talked to us about API's and how to fetch data from them. He showed us an example of this using a Harry Potter API and showed us how to use the fetch comman and promises to populate the data on our page. After lunch Jaime went into further detail about this during our labs. He gave the comparison of how an API is similar to a server. I also spent some time before work editing my table. I created a second delete row button so that users can choose to delete the top row of the table or the bottom row. 
 
 7/23 I added an API element to my project today to implement some things I learned from Wajiw and Jaime yesterday. I found an animal API that had data of fun facts about several different animals. Then I made it so that when users input an animal name into the input box the program fetches the data to output a fun fact about that animal. 
+
+
+7/28 Today we did a lot of brainstorming about potential project ideas for our cohort project that we will start in the fall. Julieta and I decided that we want to create our presentation on a website that helps Chicagoans find scholarships and internship oppurtunities. A website like this will be very helpful and resourceful for students looking for higher education resources. 
