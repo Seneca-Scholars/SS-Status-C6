@@ -1,4 +1,6 @@
 #7/28/25
+The rest of the morning and after labs with Jaime I did research into how we could make a road map with real time and future construction data. I'm thinking that we could call it "InTheLoop". Get it? Also, in labs we went over template literals (backticks), and JavaScript Modules. We also worked to finalize the t-shirt design.
+
 Spent the morning from 9-10am learning about the standard and alternative CSS box models. I also learned about content, padding, border, and margin, and how margin is not included in the size of an individual box. I also continued to work with the other cohort members to style our cohort t-shirt.
 #7/25/25
 Spent morning revising my resume with Nell's comments, collaborating on a C6 t-shirt design, and planning today's fun activity as a cohort. I also posted that I started a job at Seneca on Linkedin.
