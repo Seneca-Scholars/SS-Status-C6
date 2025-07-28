@@ -1,3 +1,5 @@
+7/28/25: Today the cohort went over our project ideas and I sent a response to Nell about my interest in the Social Media team.
+
 7/23/25: Today Nell was out of office. My team worked on developing a new project using a Pokemon API. My task was styling the webpage. I left office early for a doctor's appointment.
 
 7/22/25: Today, we dove into APIs and were shown a lesson on fetch, promises, & more.
