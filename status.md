@@ -1,21 +1,21 @@
-##07/29/25
+## 07/29/25
 Today, Wajiw walked us through React. We touched on a couple of things, including useState and useEffect. Tomorrow, Jaime will walk 
 us through more of it, though, because I am still a little confused about it's purpose. We are beginning to pitch ideas for our cohort
 project. My group's "In the Loop" site is a good idea but will be tedious to program, so I doubt it will be approved. I also ordered
 a tote bag last weekend, and it should arrive this weekend--in my big girl era. Tonight, I may dive into some more JS, just to make sure 
 I know what I'm doing and being productive.
 
-##07/28/25
+## 07/28/25
 Today, we talked about our possible project ideas. A couple of my ideas could go somewhere, like a site to see things to do in Chicago
 or a site to show construction in Chicago and the routes they impact. I spent last night going through some more JS because I am such a
 scholar (pun intended). I also finished the Tshirt design today and I am pretty proud of it, should I go into design? Hmm
 
-##07/24/25
+## 07/24/25
 We spent the morning briefly going over APIs and whatnot again, but Jaime helped me some more so I think I get it. I feel like they
 are similar to try and catch statements, so it all blurs together. I am going to continue with some JS at home today and cover some 
 HTML over the weekend because Khan Academy glazed over a lot of important concepts. I am also done with the calculator, for now.
 
-##07/23/25
+## 07/23/25
 I started making my calculator today! I am almost done, just need to fix my calculate function, which is the important one. I am
 getting comfortable with JavaScript, so maybe I will pivot back to the Jeopardy game and fix that--maybe not. There is an Ethiopian
 circus this weekend that I am hoping to go to with my family this weekend, but my parents are being stubborn because we're Eritrean,
@@ -23,21 +23,21 @@ like let the war go, it was 30 plus years ago. Also, this Saturday there is an E
 I missed their first two ones. 
 
 
-##07/22/25
+## 07/22/25
 Today was a busy work day. Wajiw walked us through APIs and all that jazz. I understand a lot of it fundamentally, but hopefully
 we go through it together and practice implementing individually--can only learn so much watching Wajiw screen share. Jaime then 
 walked us through some more of that. Honestly, the human mind can only retain so much without practice, so in conclusion, I really
 only gathered like 2/3 of today's lesson. I'm staying two hours later today to make up my missed time, so I want to create another
 personal project practicing JS.
 
-##07/21/25
+## 07/21/25
 This weekend, I went to Wisconsin Dells with my childhood friends. I did not realize how long it has been since I went on a 
 water slide or roller coaster. We had a great time. Today, we presented our group projects to the rest of the cohort. Michael
 is doing the javascript and Jode and I are doing the HTML and CSS. However, I want to hop onto the javascript also just so I 
 understand whats going too. I started working on some W3 lessons for Javascript, so I will keep on working on that. Maybe I will
 start another project, I'm thinking of making a calculator. 
 
-##07/17/25
+## 07/17/25
 Seneca hosted a reunion event for cohorts 1-5, so cohort 6 hopped around public spaces and worked. After today, I learned many
 things, the most important being communication. 
 - Learned the basic HTML tags, but Jode guided me in implementing them. 
@@ -47,21 +47,21 @@ things, the most important being communication.
 - COMMUNICATION: I worked well with Jode, but Micheal stays in his lane. He coded a lot of JS but more than we need, so the three
 of us will work together to filter out the data and see what we need and don't need,
 
-##07/16/25
+## 07/16/25
 Nell led the cohort in some more resume revision and college readiness workshops. We had an open conversation about habits to
 make and habits to break before college. I felt like an old person when I gave some advice on what study habits have helped me,
 I'm too young ;( Anyway, I want to pivot and make a project and get some project implemented JavaS because I have only really 
 done HTML and CSS. After work, I am going to go minigolfing with my cousins who I have not seen in a month, so I am excited to 
 WHOOP them. 
 
-##07/15/25
+## 07/15/25
 Wajiw was not in office today so he assigned groups to work on creating a dynamic, meaning changing, table grid. Jode, Michael, 
 and I created the bare bones of the table, but we had the idea to mimic Jeopardy and create a simple Jeopardy game. It is coming 
 along, slowly but surely. This week is a busy week for me as I have a lot of school preparation to do, meetings with NSBE, BSU,
 and ensuring I get season tickets for football this fall. My sister did not do my hair last night as I had a busy evening, but
 I will wash it tonight. Wash days can either be therapeutic or exhausting.
 
-##07/14/25
+## 07/14/25
 Today, I am done with my Zodiac/Hogwarts site. Is it complete? Well it functions on a basic level, but it is time to pivot and 
 incorporate what I have been learning with CSS. Also, it seems like everyone else is aiming for more engaging programs, so I 
 need to lock in. Being surrounded by smart individuals is a blessing because it pushes you to aim for the stars. This weekend I 
