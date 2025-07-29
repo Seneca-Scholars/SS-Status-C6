@@ -1,3 +1,5 @@
+7/29/25: Today I went to wingstop. Wajiw went over React principles and the virtual DOM. In labs, Jaime explained use state, set count, and more.
+
 7/28/25: Today the cohort went over our project ideas and I sent a response to Nell about my interest in the Social Media team.
 
 7/23/25: Today Nell was out of office. My team worked on developing a new project using a Pokemon API. My task was styling the webpage. I left office early for a doctor's appointment.
