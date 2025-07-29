@@ -1,3 +1,6 @@
+#7/29/25
+During the morning from 9-10am I learned about inline elements and inline-block elements. I also started to learn about CSS positioning using the Position module in the CSS MDN web docs. So far I've learned about static, relative, and absolute positioning. As well aas how top, bottom, left, and right, almost push elements in the opposite direction.
+
 #7/28/25
 The rest of the morning and after labs with Jaime I did research into how we could make a road map with real time and future construction data. I'm thinking that we could call it "InTheLoop". Get it? Also, in labs we went over template literals (backticks), and JavaScript Modules. We also worked to finalize the t-shirt design.
 
