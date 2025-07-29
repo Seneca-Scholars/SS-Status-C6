@@ -1,3 +1,6 @@
+07-29-2025
+PROGRESS FOR THE PERSONAL PROJECT HAS NEVER BEEN BETTER!!! After a good amountof code flow adjustments, I finished the connection to the pokeAPI. I got the images to load and update from the same variable I use to update the buttons. I've said it like 6 times before, but I actually think the hard part is over and the groundwork is fully laid out. All that's left is personalizing everything! For my seneca project, I still don't have a good idea...I'll keep on brainstorming though.
+
 07-28-2025
 Today could've gone a little better, but I think it was good considering my long hiatus from programming. I have little to no clue what I want to do for my presentation, so I might not make one if I can't think of anything. My personal project was kind of rough today as I had to deal with the structure of my code. There were a lot of code flow errors and some new things I had to learn which made for a good amount of general confusion. Today marked the first time I pasted my code into chatGPT which I is getting back on the right track thankfully.
 
