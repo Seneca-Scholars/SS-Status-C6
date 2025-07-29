@@ -1,5 +1,9 @@
 # Arianna's Statuses! 
 
+## 7/28/25
+
+Today was the big day! We started off the day in a meeting with Wajiw, talking about our brainstorms for the cohort project. After hearing alot of great ideas, Sinit, Josh and I started making some brainstorm notes on the idea of a real time road condition app, better than Wayez, or other road maps out there. We started taking notes, and had some good conversations but the later afternoon was spent working on the Chohort t-shirt design
+
 ## 7/24/25
 This Thursday we started off with a super mini lesson with Wajiw about fetching and CSS styling/formatting. After that with Lauren we worked on the frontend design of the Pokemon API project, right now Im stuggling with formatting the snorlax gif in the exact position I want it too, but I hope the more I learn flexbox, Ill be able to manipulate elements better.
 
