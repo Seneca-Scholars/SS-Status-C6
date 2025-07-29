@@ -1,4 +1,6 @@
 #7/29/25
+During the rest of the day I began learning React with Wa-jiw, mostly focusing on useState(). I continued learning about useState() and useEffect() with Jaime, and spent the rest of the day continuing to research the InTheLoop app we want to make. Now, we are trying to envision an app that puts all the information a commuter would need in one place. I'm talking potholes, red light cameras, police officers, Metra, CTA, traffic delays, current and future construction, congestion because of events in the area, areas where there are many crashes and lot of pedestrians. Our app, has the focus of safety and useability in mind. This app is supposed to be a one stop shop for all commuters in and around Chicago, and there are many APIs that can be helpful.
+
 During the morning from 9-10am I learned about inline elements and inline-block elements. I also started to learn about CSS positioning using the Position module in the CSS MDN web docs. So far I've learned about static, relative, and absolute positioning. As well aas how top, bottom, left, and right, almost push elements in the opposite direction.
 
 #7/28/25
