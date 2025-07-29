@@ -1,3 +1,8 @@
+*07-29-25\
+-learned about React from wajiw, went over the basic structure of js and jsx and how to integrate markup code in js code\
+-in labs we went more in depth about the useState and useEffect function, and how they can be used in vite
+-
+
 *07-28-25\
 -brainstormed and shared our project ideas with wajiw\
 -created an organization document and researched different apis to find the data i would need for the park project\
