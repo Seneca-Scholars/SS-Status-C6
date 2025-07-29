@@ -1,3 +1,10 @@
+##07/29/25
+Today, Wajiw walked us through React. We touched on a couple of things, including useState and useEffect. Tomorrow, Jaime will walk 
+us through more of it, though, because I am still a little confused about it's purpose. We are beginning to pitch ideas for our cohort
+project. My group's "In the Loop" site is a good idea but will be tedious to program, so I doubt it will be approved. I also ordered
+a tote bag last weekend, and it should arrive this weekend--in my big girl era. Tonight, I may dive into some more JS, just to make sure 
+I know what I'm doing and being productive.
+
 ##07/28/25
 Today, we talked about our possible project ideas. A couple of my ideas could go somewhere, like a site to see things to do in Chicago
 or a site to show construction in Chicago and the routes they impact. I spent last night going through some more JS because I am such a
