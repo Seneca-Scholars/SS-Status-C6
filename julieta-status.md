@@ -1,5 +1,8 @@
 ## Status Log:
 
+# 07/29/2025
+Today I worked on the project proposal for our team project that centers on getting unnderpriviliged youths access to quality scholarship recommendations with our database. Earlier, we worked with Wajiw on react and the fundamentals then we solidified this knowledge with Jaime in labs who taught us more about the purpose of useState and useEffect along with some examples of using this and explainations on why its important. We also went over the how we need tools like babel so that our web browsers can process jsx/react files and sites. We also learned what a virtual dom was and what jsx was as well as js modules. 
+
 # 07/23/2025
 Today I worked on resolving a merge conflict with my team mates because we had pushed up faulty code and wanted to override it with corrected and valid code. I also worked on exploring CSS and theming with CSS custom properties to alter the text font and color of our page. We also worked on adding an api that can tell the user a fun fact about the last animal in the table. Finally, I worked on my resume and followed a new template from my university's career advancement page. Later today I plan on soldifyng my foundational knowledge in javascript and css so that I can come prepared for tomorrows introduction to react. 
 
