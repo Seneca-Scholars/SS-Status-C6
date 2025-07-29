@@ -1,5 +1,9 @@
 # Arianna's Statuses! 
 
+## 7/29/25
+
+Todayyyy we started to learn about REACT, to be honest I'm not fully getting it but I do get the principle of the application, but Im going to watch some youtube videos tonight and see how Im feeeling. Also we made some progress wit hthe C6 project presentation and Josh was able to find some really good API's and we was able to talk about more developments 
+
 ## 7/28/25
 
 Today was the big day! We started off the day in a meeting with Wajiw, talking about our brainstorms for the cohort project. After hearing alot of great ideas, Sinit, Josh and I started making some brainstorm notes on the idea of a real time road condition app, better than Wayez, or other road maps out there. We started taking notes, and had some good conversations but the later afternoon was spent working on the Chohort t-shirt design
