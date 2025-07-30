@@ -1,3 +1,8 @@
+*07-30-25\
+-finished up our first draft edits of our resumes, pushed up some more linkedin seneca intro posts\
+-worked on our presentation, designed the slides, brainstormed features, collaborated with group members
+-
+
 *07-29-25\
 -learned about React from wajiw, went over the basic structure of js and jsx and how to integrate markup code in js code\
 -in labs we went more in depth about the useState and useEffect function, and how they can be used in vite
