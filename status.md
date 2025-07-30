@@ -1,3 +1,8 @@
+## 07/30/25
+Arianna, Joshua, and I have been working on our presentation for our commuting assistant app. We have a pretty good idea, and I like
+where our project presentation is going. I am a bit nervous about our project being picked although, because of how tedious this may 
+be to actually implement. But, we have a strong team and months to work on it. Inshallah all goes smoothlyy
+
 ## 07/29/25
 Today, Wajiw walked us through React. We touched on a couple of things, including useState and useEffect. Tomorrow, Jaime will walk 
 us through more of it, though, because I am still a little confused about it's purpose. We are beginning to pitch ideas for our cohort
