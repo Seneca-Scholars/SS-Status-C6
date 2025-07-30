@@ -1,3 +1,6 @@
+#7/30/25
+Spent day working on InTheLoop slide show. This took a lot more work than expected because we expected to make an app similar to Waze or Google Maps and pivoted to an app that focuses on real time and future information that can effect someone's usual commute. This will require users to input their route(s) into our app and we will notify them of events/changes that may effect their route.
+
 #7/29/25
 During the rest of the day I began learning React with Wa-jiw, mostly focusing on useState(). I continued learning about useState() and useEffect() with Jaime, and spent the rest of the day continuing to research the InTheLoop app we want to make. Now, we are trying to envision an app that puts all the information a commuter would need in one place. I'm talking potholes, red light cameras, police officers, Metra, CTA, traffic delays, current and future construction, congestion because of events in the area, areas where there are many crashes and lot of pedestrians. Our app, has the focus of safety and useability in mind. This app is supposed to be a one stop shop for all commuters in and around Chicago, and there are many APIs that can be helpful.
 
