@@ -1,3 +1,6 @@
+07-30-2025
+Gonna make this quick because I need to leave right around 3. Personal project progress was good again, I made the text update depending on your action and the scenario. I joined Lauren and Julieta's group for the Seneca project and we've gotten our slides mostly finished. It's looking pretty good and I think our presentation will go well!
+
 07-29-2025
 PROGRESS FOR THE PERSONAL PROJECT HAS NEVER BEEN BETTER!!! After a good amountof code flow adjustments, I finished the connection to the pokeAPI. I got the images to load and update from the same variable I use to update the buttons. I've said it like 6 times before, but I actually think the hard part is over and the groundwork is fully laid out. All that's left is personalizing everything! For my seneca project, I still don't have a good idea...I'll keep on brainstorming though.
 
