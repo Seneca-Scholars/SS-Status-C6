@@ -1,3 +1,19 @@
+7/30/25 Today me and Sabona combined our projects and we are working on a project that would allow users to see events in the area and find things to do in the area. While being able to see how dangerous those areas are. I am trying to make a timeline for the project top see how long this could take
+I think this project won't be too difficult to implement, but I will needd to plan with my group to see how the projects will look as we work on the project. I am expecting us to be able to finish by the end of the year and have the project fully running. 
+
+7/29/25 I learned an introduction to using react and some key concepts like how to use jsx with react. I also learned about how to use the usestate which allows you to see the function and it's output in one line 
+I am looking forward to learnn more about the react and being able to mess more with it. 
+
+7/28/25 I told wa-jiw about my idea to make an app that would allow users to see the danger levels of different areas 
+
+7/25/25 
+
+7/24/25 I practiced with the fish API to make up for today since I was absent I saw that they were praciting with the pokemon API so I wanted to practice with an API I found online and add it to my project.
+
+7/23/25
+
+7/22/25 I worked with my group to debug our code and was able to make our information an array so we don't have to put our initial information on html
+
 7/21/25 I was able to update the js file with my teammates now I have used a place holder for the filter.
 
 7/14/25 I learned alot from this team exercise:
@@ -41,7 +57,7 @@ be helpful because I am trying to learn more backend.
 
 6/30/25 I learned more about html and I am curious about how javascript and html can be used together 
 
-6/29/25 
+6/29/25  
 
 6/28/25 Today was fun I enjoyed being able to get to know more about html tags and how the structure of a basic html code should look
 
