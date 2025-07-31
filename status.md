@@ -1,3 +1,8 @@
+*07-31-25\
+-finished up the presentation\
+-gave my presentation, answered some questions
+-
+
 *07-30-25\
 -finished up our first draft edits of our resumes, pushed up some more linkedin seneca intro posts\
 -worked on our presentation, designed the slides, brainstormed features, collaborated with group members
