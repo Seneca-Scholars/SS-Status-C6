@@ -1,3 +1,5 @@
+7/31/25 I presented my project today with my teammates and had it and saw my roles which was an interesting choice 
+
 7/30/25 Today me and Sabona combined our projects and we are working on a project that would allow users to see events in the area and find things to do in the area. While being able to see how dangerous those areas are. I am trying to make a timeline for the project top see how long this could take
 I think this project won't be too difficult to implement, but I will needd to plan with my group to see how the projects will look as we work on the project. I am expecting us to be able to finish by the end of the year and have the project fully running. 
 
