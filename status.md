@@ -1,3 +1,6 @@
+07-31-2025
+Today was stressful because of the presentation, especially because I joined my team late and wasn't there during the beginning of our project idea. I thinkit went well though so that's good! I also got one of the roles I want and even got picked to be a PM which is a pleasant surprise! I didn't do much for my personal project but I got some important brainstorming done on how to proceed.
+
 07-30-2025
 Gonna make this quick because I need to leave right around 3. Personal project progress was good again, I made the text update depending on your action and the scenario. I joined Lauren and Julieta's group for the Seneca project and we've gotten our slides mostly finished. It's looking pretty good and I think our presentation will go well!
 
