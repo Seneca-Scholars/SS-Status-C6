@@ -1,3 +1,6 @@
+#7/31/25
+Made changes to slide show, talked to Nell for feedback on slide show, drew potential UI for app on the whiteboard, gave presentation, asked questions about others presentations, answered questions about my groups presentation. Received roles as a Frontend member and Backend Project Manager and I am very thankful :).
+
 #7/30/25
 Spent day working on InTheLoop slide show. This took a lot more work than expected because we expected to make an app similar to Waze or Google Maps and pivoted to an app that focuses on real time and future information that can effect someone's usual commute. This will require users to input their route(s) into our app and we will notify them of events/changes that may effect their route.
 
