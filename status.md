@@ -1,3 +1,11 @@
+## 07/31/25
+Groups presented their pitches, and I think we did well today. One day in the future, this site/app/idea could be really beneficial
+to Chicago commuters. However, actually building this as my FIRST project may be tough, but we'll see what happens. Nell and Wajiw 
+gave out the assignments for the teams today, and I am backend and frontend. I am content with this because backend is something I 
+have plenty of experience with, and frontend gives me the chance to dabble in design. No fun Friday tomorrow, but I get to see my
+friend who spent the past two months in Ethiopia tomorrow. I also get to see my friends this Saturday at a picnic. Can't believe 
+we have 2 more weeks after tomorrow. 
+
 ## 07/30/25
 Arianna, Joshua, and I have been working on our presentation for our commuting assistant app. We have a pretty good idea, and I like
 where our project presentation is going. I am a bit nervous about our project being picked although, because of how tedious this may 
