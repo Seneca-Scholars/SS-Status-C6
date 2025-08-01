@@ -1,3 +1,6 @@
+8-01-2025
+It was a relaxing friday this week. Our group was the first to talk with Wajiw about our idea, and after taking some good notes on our brainstorming my day kind of ended right there. We also listened to a presentation from UtmostU and it was nice to learn about some resources we have by being here. Our whole team meeting went well and I think we had a nice general conversation about what's upcoming.
+
 07-31-2025
 Today was stressful because of the presentation, especially because I joined my team late and wasn't there during the beginning of our project idea. I thinkit went well though so that's good! I also got one of the roles I want and even got picked to be a PM which is a pleasant surprise! I didn't do much for my personal project but I got some important brainstorming done on how to proceed.
 
