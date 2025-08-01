@@ -1,4 +1,8 @@
 #8/1/25
+Hosted full Cohort meeting with Timothy focusing on Frontend, Backend, and Design, chalenges we forsee, and how we will maintain good communication and work ethic while away at school.
+
+Talked and answered questions with Wajiw about InTheLoop about how we can make an MVP within the time limit if we focus on construction and event information that effects a user's logged route.
+
 Had meeting with UtmostU and learned all about their programm, and the ways that they help college students with carreer workshops, coaching, and other forms of support.
 
 From 9-11am I began learning React with the React.dev docs. Completed the module called Your First Component where I learned the difference between default and regular exports, and that UIs are created with React components. React components are JavaScript functions with markup. You can nest components inside of eachother creating parent and child components and use JSX withing return statements to return the markup. You can use components to render other components but a component should not define another component. Think of components as JavaScript functions.
