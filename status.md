@@ -1,3 +1,6 @@
+#8/1/25
+Began learning React with the React.dev docs. Completed the module called Your First Component where I learned the difference between default and regular exports, and that UIs are created with React components. React components are JavaScript functions with markup. You can nest components inside of eachother creating parent and child components and use JSX withing return statements to return the markup. You can use components to render other components but a component should not define another component. Think of components as JavaScript functions.
+
 #7/31/25
 Made changes to slide show, talked to Nell for feedback on slide show, drew potential UI for app on the whiteboard, gave presentation, asked questions about others presentations, answered questions about my groups presentation. Received roles as a Frontend member and Backend Project Manager and I am very thankful :).
 
