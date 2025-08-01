@@ -1,3 +1,9 @@
+## 08/01/25 
+Today is the first day of August. This internship, and this summer overall, flew. Wajiw met with each group and their pitches and
+essentially grilled us about the flow and structures of our projects. He made some good points that helps refine our ideas. Days 
+have been slower besides that although, so I have been trying to keep busy with my W3 JavaScript lessons. Apparently Chance the 
+Rapper is having a listening party tomorrow, maybe I'll get to go.
+
 ## 07/31/25
 Groups presented their pitches, and I think we did well today. One day in the future, this site/app/idea could be really beneficial
 to Chicago commuters. However, actually building this as my FIRST project may be tough, but we'll see what happens. Nell and Wajiw 
