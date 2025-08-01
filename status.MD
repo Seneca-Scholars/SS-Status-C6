@@ -1,4 +1,6 @@
-7/31/25 I presented my project today with my teammates and had it and saw my roles which was an interesting choice 
+8/01/25 Me and my teammates on the project Around U talked with Wa-jiw about what we would be the best next steps for the project. I was able to have a collective meeting with my team and I feel like we have a good team for those year.
+
+7/31/25 I presented my project today with my teammates and had it and saw my roles which was an interesting choice. I wasn't expecting a role in design but I will see how this goes as we go into the school year 
 
 7/30/25 Today me and Sabona combined our projects and we are working on a project that would allow users to see events in the area and find things to do in the area. While being able to see how dangerous those areas are. I am trying to make a timeline for the project top see how long this could take
 I think this project won't be too difficult to implement, but I will needd to plan with my group to see how the projects will look as we work on the project. I am expecting us to be able to finish by the end of the year and have the project fully running. 
