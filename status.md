@@ -1,3 +1,9 @@
+*08-01-25\
+-had discussion with wajiw about our project and identified areas of improvement for our idea\
+-utmostU gave their presentation to us and we signed up to be part of the program\
+-met with our development teams and got familiar/planned our methods of communication
+-
+
 *07-31-25\
 -finished up the presentation\
 -gave my presentation, answered some questions
