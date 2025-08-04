@@ -1,4 +1,8 @@
 *8/4/25
+Later with Jaime we continued to review useState() and conditional rendering. We then learned about setTimeout() and React Fragments (<> and </>), because components can only return a single root element. I continued to learn about React Fragmnets with the Writing Markup with JSX module in the React.dev docs. Most of this doc was review of what we learned with wajiw, such as what JSX is-A syntax extension for JavaScript that lets you write HTML-like markup inside a JavaScript file. I also learned about the rules of writing JSX, like the single root element like I said before, and why yoi should use camelCase on most things. 
+
+With Wajiw we reviewed a lot of the stuff we learned last week like Conditional Rendering and useState(). We then started learning about props which are attributes of components and how Errors are objects.
+
 From 9-10am I worked through the React Module on importing and exporting named and default components in React. I learned how to export/import multiple components from the same file, what a root component is, and what a root component file is.
 
 #8/1/25
