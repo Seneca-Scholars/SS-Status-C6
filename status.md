@@ -58,3 +58,5 @@ Julieta and I also worked on deciding how to make the delete row button but we d
 7/31 We presented our group project scholar scout. Im very proud of all the work we put in and also our presentation to our cohort. We also learned our roles for teams today and I am frontend and design. YAYYY!!!
 
 8/1 Today we talked to Wajiw to flesh our different questions and features of our project. We also had a meeting with UtmostU and they talked about all the resources that are available to us which was really cool to learn. 
+
+8/4 We went over more react concepts today. We talked more about promises and how the callback is a function that is run. We also talked about dot notation to render specific data. In labs with Jaime we talked a bit about next js. We talked about importing default items vs importing specific named items. I also talked with Ethan today about Figma and watched a video of a Figma introduction. 
