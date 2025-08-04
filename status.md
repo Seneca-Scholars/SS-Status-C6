@@ -1,3 +1,6 @@
+8-04-2025
+I was so not locked in today...React is giving me a lot of trouble. I just have to learn the syntax hands on, but whenever I try to mess around with it there's so much new syntax I have to learn that I can barely even start. With some more time I should get the hang of it but for now I'm struggling a bit. Didn't mess with my personal project at all today and I probably won't until I feel comfortable with React. I've tried implementing many things into my project with varying success but I'm not even going to attempt porting react in that'll probably just break everything.
+ 
 8-01-2025
 It was a relaxing friday this week. Our group was the first to talk with Wajiw about our idea, and after taking some good notes on our brainstorming my day kind of ended right there. We also listened to a presentation from UtmostU and it was nice to learn about some resources we have by being here. Our whole team meeting went well and I think we had a nice general conversation about what's upcoming.
 
