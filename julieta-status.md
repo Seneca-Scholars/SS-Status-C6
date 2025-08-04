@@ -1,5 +1,17 @@
 ## Status Log:
 
+# 08/5/2025
+Today we worked on react with Wajiw. We went through condtonal rendering to swap components, props to set defaults, and implementing a promise as well as accessing propertiies of objects (in object oriented programming) such as the country in a sys property of a weather object. Then with Jaime during labs we went over more react and we will focus on Next.js later tomorrow. He explained how react was like the crab meat and next.js was the shell of the crab... but I found a better comparison was that react is the lego brick and next js is the instruction book and toolbox. We also learned that sometimes developers prefer react fragments so that css properties wont be applied to the components. Also, we went over settinng defaults and the usage of curly brackets. 
+
+# 08/1/2025
+
+
+# 07/31/2025
+
+
+# 07/30/2025
+
+
 # 07/29/2025
 Today I worked on the project proposal for our team project that centers on getting unnderpriviliged youths access to quality scholarship recommendations with our database. Earlier, we worked with Wajiw on react and the fundamentals then we solidified this knowledge with Jaime in labs who taught us more about the purpose of useState and useEffect along with some examples of using this and explainations on why its important. We also went over the how we need tools like babel so that our web browsers can process jsx/react files and sites. We also learned what a virtual dom was and what jsx was as well as js modules. 
 
