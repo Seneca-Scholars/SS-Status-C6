@@ -1,3 +1,9 @@
+## 08/04/25
+Wajiw walked us through some more of React. He touched on fetch, try, and catch blocks, callbacks, and promises. Jaime also touched
+on some more useState. In general, we covered the concepts of functions chained together, and the practice of tracing call stacks.
+This weekend, I had an eventful Saturday. I went to two barbecues, running into friends I have not seen in forever, and I went to
+Chance's listening party and am excited for his album. 
+
 ## 08/01/25 
 Today is the first day of August. This internship, and this summer overall, flew. Wajiw met with each group and their pitches and
 essentially grilled us about the flow and structures of our projects. He made some good points that helps refine our ideas. Days 
