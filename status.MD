@@ -1,3 +1,6 @@
+8/04/25 I learned more about react and how to implement different pages with a button. I was able to learn more about conditional rendering and how to use it on react. I was also able to learn about react fragments and the use cases for that and how it doesn't have any css element attached to it. I also learned more about a new html tag called strong 
+that would allow the me to bold a string of characters without having to use CSS.
+
 8/01/25 Me and my teammates on the project Around U talked with Wa-jiw about what we would be the best next steps for the project. I was able to have a collective meeting with my team and I feel like we have a good team for those year.
 
 7/31/25 I presented my project today with my teammates and had it and saw my roles which was an interesting choice. I wasn't expecting a role in design but I will see how this goes as we go into the school year 
