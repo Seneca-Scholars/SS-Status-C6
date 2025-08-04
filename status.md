@@ -1,3 +1,6 @@
+*8/4/25
+From 9-10am I worked through the React Module on importing and exporting named and default components in React. I learned how to export/import multiple components from the same file, what a root component is, and what a root component file is.
+
 #8/1/25
 Hosted full Cohort meeting with Timothy focusing on Frontend, Backend, and Design, chalenges we forsee, and how we will maintain good communication and work ethic while away at school.
 
