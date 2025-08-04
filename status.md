@@ -1,5 +1,8 @@
 # Arianna's Statuses! 
 
+## 8/4/25
+Todayyyyy started off in a meeting with Wajiw devlving more into the fundamentals of React, this lesson did help me understand inheritance and callbacks better than I did before. What I feel like would level me up, is watching more youtube videos about React, and also take some notes, I'm doing that when I get home today. 
+
 ## 7/29/25
 
 Todayyyy we started to learn about REACT, to be honest I'm not fully getting it but I do get the principle of the application, but Im going to watch some youtube videos tonight and see how Im feeeling. Also we made some progress wit hthe C6 project presentation and Josh was able to find some really good API's and we was able to talk about more developments 
