@@ -1,3 +1,6 @@
+8-05-2025
+Today was pretty decent. I messed with React for my extra hour in the morning and I still am figuring out how to set up components with useStates but it's starting to click a little more. Other than that we learned about NextJS a little more and floundered around trying to put Wajiw's React code into it. I know how to configure NextJS too.
+
 8-04-2025
 I was so not locked in today...React is giving me a lot of trouble. I just have to learn the syntax hands on, but whenever I try to mess around with it there's so much new syntax I have to learn that I can barely even start. With some more time I should get the hang of it but for now I'm struggling a bit. Didn't mess with my personal project at all today and I probably won't until I feel comfortable with React. I've tried implementing many things into my project with varying success but I'm not even going to attempt porting react in that'll probably just break everything.
  
