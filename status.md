@@ -1,3 +1,9 @@
+*08-04-25\
+-learned more about react from wajiw\
+-jaime made us more familiar with react and the syntax and use states\
+-also timeouts
+-
+
 *08-01-25\
 -had discussion with wajiw about our project and identified areas of improvement for our idea\
 -utmostU gave their presentation to us and we signed up to be part of the program\
