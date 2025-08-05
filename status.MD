@@ -1,3 +1,5 @@
+08/05/25 I was late today since I had to give my second presentation for DPI and I came in during lunch. I was able to find out what project we will be doing this year and I am looking forward to the working with my team. In labs, Daniel went over typescript and we learned about how to typescript has all pages named page.tsx.
+
 8/04/25 I learned more about react and how to implement different pages with a button. I was able to learn more about conditional rendering and how to use it on react. I was also able to learn about react fragments and the use cases for that and how it doesn't have any css element attached to it. I also learned more about a new html tag called strong 
 that would allow the me to bold a string of characters without having to use CSS.
 
