@@ -1,3 +1,6 @@
+*8/5/25
+Spent the morning from 9-10am taking notes on the React.dev doc called JavaScript in JSX with curly braces, where I learned how { and } are used to pass JavaScript in JSX. We can only use curly braces two ways insde JSX: as text directly inside a JSX tag or as attributes immediately following the = sign. I also learned how we can use double curly braces to pass objects in JSX. We also use double curly braces for inline CSS styles, because if we need an inline CSS style, we pass an object to the style attribute. Finally, inline style properties are written in camelCase in JSX.
+
 *8/4/25
 Later with Jaime we continued to review useState() and conditional rendering. We then learned about setTimeout() and React Fragments (<> and </>), because components can only return a single root element. I continued to learn about React Fragmnets with the Writing Markup with JSX module in the React.dev docs. Most of this doc was review of what we learned with wajiw, such as what JSX is-A syntax extension for JavaScript that lets you write HTML-like markup inside a JavaScript file. I also learned about the rules of writing JSX, like the single root element like I said before, and why yoi should use camelCase on most things. 
 
