@@ -1,6 +1,9 @@
 ## Status Log:
 
-# 08/5/2025
+# 08/05/2025
+Today we worked more on Next JS and creating an application. We looked into react UI, router, server side rendering, and module builders. We also looked into what NPX does, Typescript, ESLint, Tailwind. During Labs, we went over fixing bugs in our react app, such as making mistakes like renaming the page.tsx file and setting defaults with state. We also ran through condensing our html files into tsx. 
+
+# 08/4/2025
 Today we worked on react with Wajiw. We went through condtonal rendering to swap components, props to set defaults, and implementing a promise as well as accessing propertiies of objects (in object oriented programming) such as the country in a sys property of a weather object. Then with Jaime during labs we went over more react and we will focus on Next.js later tomorrow. He explained how react was like the crab meat and next.js was the shell of the crab... but I found a better comparison was that react is the lego brick and next js is the instruction book and toolbox. We also learned that sometimes developers prefer react fragments so that css properties wont be applied to the components. Also, we went over settinng defaults and the usage of curly brackets. 
 
 # 08/1/2025
