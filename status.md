@@ -1,4 +1,6 @@
 *8/5/25
+Began learning Next with Wajiw and Daniel. I learned that in Next.js we need to create a new directory for each additional webpage in our project with each directory having a page.tsx file. We can then route to these new directories to access other pages.
+
 Spent the morning from 9-10am taking notes on the React.dev doc called JavaScript in JSX with curly braces, where I learned how { and } are used to pass JavaScript in JSX. We can only use curly braces two ways insde JSX: as text directly inside a JSX tag or as attributes immediately following the = sign. I also learned how we can use double curly braces to pass objects in JSX. We also use double curly braces for inline CSS styles, because if we need an inline CSS style, we pass an object to the style attribute. Finally, inline style properties are written in camelCase in JSX.
 
 *8/4/25
