@@ -1,3 +1,8 @@
+*08-05-25\ 
+-learned how to and did create my own nextjs project\
+-worked in labs with daniel to learn more about the code that cursor wrote
+-
+
 *08-04-25\
 -learned more about react from wajiw\
 -jaime made us more familiar with react and the syntax and use states\
