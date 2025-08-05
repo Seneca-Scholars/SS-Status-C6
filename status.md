@@ -1,3 +1,11 @@
+## 08/05/25
+Nell and Wajiw announced the C6 project-Scholar Scout! I love this idea, considering I did help come up with it. Luckily, I had great
+counselors and access to resources in high school, but not all Chicagoans have that luxury, so I am excited to see where this goes.
+We worked with some more REACT stuff, and Daniel is walking us through tracing and importing/exporting files. Today is my friend Rena's
+second to last day in the office and I forgot to grab lunch with her...so we will see each other tomorrow, even though it's Josh's last
+day and we may actually leave the office. Anyway, this summer has flown, learned a lot and lived a lot (so poetic). But, I am excited 
+to dive into the project.
+
 ## 08/04/25
 Wajiw walked us through some more of React. He touched on fetch, try, and catch blocks, callbacks, and promises. Jaime also touched
 on some more useState. In general, we covered the concepts of functions chained together, and the practice of tracing call stacks.
