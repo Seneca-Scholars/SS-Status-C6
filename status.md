@@ -1,3 +1,13 @@
+*8/6/25
+Today was my last day working for Seneca this summer. It was really hard saying goodbye to my coworkers and bosses, at this point they feel more like friends than anything else. It was also diffciult walking through the office for what felt like the last time. Saying good bye to the ping pong table was especially hard lol. On a serious note, it's difficult knowing such a huge change to my life is imminent. My feeling towards college are scattered. On one hand, I'm excited for the next chapter of my life, but on the other hand it's the realization that I'm leaving everyone and everything I know behind. But, if Seneca has taught me anything, it's that I shoudl sieze the moment and take advatage of every opportunity. So, I will try my best to do just that. To Wajiw and Nell, thank you guys for pushing me to be the best version of myself. See you guys soon!
+Today was my last day working at Seneca this summer. It was really hard saying goodbye to my coworkers and bosses — at this point, they feel more like friends than anything else. It was also difficult walking through the office for what felt like the last time. Saying goodbye to the ping pong table was especially hard (lol).
+
+On a serious note, it’s difficult knowing such a huge change in my life is imminent. My feelings toward college are scattered. On one hand, I’m excited for the next chapter of my life, but on the other, I’m realizing that I’m leaving behind everyone and everything I know.
+
+But if Seneca has taught me anything, it’s to seize the moment and take advantage of every opportunity. So, I’ll try my best to do just that.
+
+To Wajiw and Nell — thank you for pushing me to be the best version of myself. See you soon!
+
 *8/5/25
 Began learning Next with Wajiw and Daniel. I learned that in Next.js we need to create a new directory for each additional webpage in our project with each directory having a page.tsx file. We can then route to these new directories to access other pages.
 
