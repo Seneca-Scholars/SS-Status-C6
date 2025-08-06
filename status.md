@@ -1,3 +1,6 @@
+8-06-2025
+WHIRLYBALL WAS SUPER FUN!!! Before Whirlyball, Jeff showed me a site called CodeSandbox to help me experiment with React, as it makes it easy to use it without having to use Babel or install NextJS. Still figuring the syntax out, and I got some things working now. Now I'm trying to do something similar with Pokeapi that I did earlier but using React. I wanted to do something similar to what I've done in the past to ease myself in, but still do something new. Of course, then we went to Whirlyball and it was soooooo much fun! Everyone had a good time, and I think this was a great send off for Josh!
+
 8-05-2025
 Today was pretty decent. I messed with React for my extra hour in the morning and I still am figuring out how to set up components with useStates but it's starting to click a little more. Other than that we learned about NextJS a little more and floundered around trying to put Wajiw's React code into it. I know how to configure NextJS too.
 
