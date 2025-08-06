@@ -1,5 +1,8 @@
 # Arianna's Statuses! 
 
+## 8/5/25
+(my very basic sum up) Todayyyy we delved more into react, and started to build off of a weather app! right now I have fully embeded it into my local tsx file (i had to convert and properly install yarn)         
+
 ## 8/4/25
 Todayyyyy started off in a meeting with Wajiw devlving more into the fundamentals of React, this lesson did help me understand inheritance and callbacks better than I did before. What I feel like would level me up, is watching more youtube videos about React, and also take some notes, I'm doing that when I get home today. 
 
