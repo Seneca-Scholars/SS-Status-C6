@@ -1,3 +1,10 @@
+## 08/06/25
+Josh's last day was today. The cohort went to Whirlyball, and had a great time. I did pretty good if I do say so myself, and I did
+score a goal so BOOM. Two members of C4 joined us, Aria and Tonya, while the others went to a Cubs game for intern appreciation day
+(which was last week). The last days are dawning upon me, so I want to continue to enjoy these last two weeks in office, but still being
+productive with my time--to be honest, I won't touch another piece of code for at least 2 weeks after, so let me lock in for a bit. Rena's
+last day in office was also today, but I couldn't see her. So we will hopefully get to spend time Friday. Excited to start on the project.`
+
 ## 08/05/25
 Nell and Wajiw announced the C6 project-Scholar Scout! I love this idea, considering I did help come up with it. Luckily, I had great
 counselors and access to resources in high school, but not all Chicagoans have that luxury, so I am excited to see where this goes.
