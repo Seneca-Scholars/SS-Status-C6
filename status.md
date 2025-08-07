@@ -1,5 +1,11 @@
 # Arianna's Statuses! 
 
+## 8/6/25
+
+Todayyy I was able to build more and polish my weather app. Right now I'm not really understanding typescript, STYLING IN THERE SEEMS SO HARD FOR NO REASON, navigating it all is overwelming (i'm overexaggerating) but I'm going to watch videos about next.js and react more so I can better understand the praticial use of them both.
+
+Other than that, some action items for myself is to embeed and convert to react--my personal project into the next.js website!
+
 ## 8/5/25
 (my very basic sum up) Todayyyy we delved more into react, and started to build off of a weather app! right now I have fully embeded it into my local tsx file (i had to convert and properly install yarn)         
 
