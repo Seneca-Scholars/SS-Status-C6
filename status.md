@@ -1,3 +1,9 @@
+## 08/07/25
+Today, we walked through more React, but moreso focused on hierarchies. I get it, so that's nice. I am going to work on some more at
+home today since I am on the frontend development team and we will spend time with React this project. We also dabbled with Tailwind 
+and honestly I do not care for it, I really think the style attribute in HTML does that, but that's programming--a million ways to do 
+the same thing.
+
 ## 08/06/25
 Josh's last day was today. The cohort went to Whirlyball, and had a great time. I did pretty good if I do say so myself, and I did
 score a goal so BOOM. Two members of C4 joined us, Aria and Tonya, while the others went to a Cubs game for intern appreciation day
