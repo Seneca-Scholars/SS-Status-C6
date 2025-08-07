@@ -1,3 +1,9 @@
+*08-07-25\
+-read through routing portion of next.js documentation
+-became more familiar with tailwind css formatting to desing header of my personal site
+-accessed api for nba players for personal site (but hit the request limit pretty quickly so I might be forced to find a new one)
+-
+
 *08-05-25\ 
 -learned how to and did create my own nextjs project\
 -worked in labs with daniel to learn more about the code that cursor wrote
