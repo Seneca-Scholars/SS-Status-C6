@@ -1,3 +1,6 @@
+8-07-2025
+I finished adding in the weather page inside of my nextJS site, and I added a page of my own. Afterwards I started learning about tailwindCSS, which I didn't like at first but after getting an extension that actually explains some of the syntax, I'm starting to like it. A bit of a shorter status today because I think taking notes on all of that CSS for like an hour and a half made my head feel fuzzy.
+
 8-06-2025
 WHIRLYBALL WAS SUPER FUN!!! Before Whirlyball, Jeff showed me a site called CodeSandbox to help me experiment with React, as it makes it easy to use it without having to use Babel or install NextJS. Still figuring the syntax out, and I got some things working now. Now I'm trying to do something similar with Pokeapi that I did earlier but using React. I wanted to do something similar to what I've done in the past to ease myself in, but still do something new. Of course, then we went to Whirlyball and it was soooooo much fun! Everyone had a good time, and I think this was a great send off for Josh!
 
