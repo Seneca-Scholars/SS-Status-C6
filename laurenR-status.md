@@ -1,3 +1,15 @@
+8/06/25: Today was Josh's official last day with the cohort before going off to College. 
+
+8/05/25: In today's session, Wajiw and Daniel gave lessons on Next.js introducing us to the process of making a new page and learning the syntax/rules of TypeScript.
+
+8/04/25: In labs with Jaime we reviewed the use of state and conditional rendering. With Wajiw, we dove into props & errors. 
+
+8/01/25: Today we held team meetings about potential schedules, orginization, and overall goals.
+
+7/31/25: Received team roles and presented AroundU app idea.
+
+7/30/25: Worked out ideas for AroundU and talked with team about slideshow edits.
+
 7/29/25: Today I went to wingstop. Wajiw went over React principles and the virtual DOM. In labs, Jaime explained use state, set count, and more.
 
 7/28/25: Today the cohort went over our project ideas and I sent a response to Nell about my interest in the Social Media team.
