@@ -62,3 +62,7 @@ Julieta and I also worked on deciding how to make the delete row button but we d
 8/4 We went over more react concepts today. We talked more about promises and how the callback is a function that is run. We also talked about dot notation to render specific data. In labs with Jaime we talked a bit about next js. We talked about importing default items vs importing specific named items. I also talked with Ethan today about Figma and watched a video of a Figma introduction. 
 
 8/5 Today we went over NextJS. I learned that next js is a framework that helps to build projects. We went over components and how to add them into different pages. I practiced this concept by importing a weather page.tsx into my main page.tsx that way I could access the weather page by clicking a button. 
+
+8/6 FUN WEDNESDAY we went to whirleyball and played about five rounds. It was very fun and a great team bonding experience. Today was Josh last day so we also celebrated that and we bid him farewell and good luck in school.
+
+8/7 Today Wajiw went over how to navigate from one page to another page using the Link tag in next js. We then practiced this by making our personal projects into next js projects and I made a button that navigated from my specific recipes pages back to home using the Link tag. We also went more into the root file of a next js project and the hierarchy of the files. I learned that layout.tsx is the root and when it calls its children it is pulling code from page.tsx into the file. 
