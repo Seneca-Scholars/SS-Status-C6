@@ -1,5 +1,11 @@
 ## Status Log:
 
+# 08/07/2025
+Thursday we learned with Wajiw more about routes in next js. I learned the objective of layout.tsx which is to essentially be the root file to provide structure to the webpage and be the base of how the project will start. Layout also supercedes page.tsx and page.tsx will automtically be a child of layout. Also, it acts like index.html and is how we can have html that persists across different routes. I also learned more about properly creating a new page in a react app by making a folder (/weather for example) and creating a page.tsx under it as a child which would be the new page. 
+
+# 08/06/2025
+Today I worked early to make up hours and also stayed late taking notes on CSS concepts so that I can better prepare for being part of the design team. It might be easier to begin learning this and then build my skills with figma. Then, I worked on trying to practice the concepts I learned, like element targetting or selectors and the different types, in the playground in the mdn web docs.
+
 # 08/05/2025
 Today we worked more on Next JS and creating an application. We looked into react UI, router, server side rendering, and module builders. We also looked into what NPX does, Typescript, ESLint, Tailwind. During Labs, we went over fixing bugs in our react app, such as making mistakes like renaming the page.tsx file and setting defaults with state. We also ran through condensing our html files into tsx. 
 
