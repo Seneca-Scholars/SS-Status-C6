@@ -1,3 +1,8 @@
+## 08/08/25
+Seneca visitied LogicGate today, a software company that works with other companies in maintaining their governance and risk management.
+Surprisingly, I ran into a friend at the office--Mary. She goes to my church and attends WashU for CS, small world. I enjoyed visiting,
+and am excited to see where my future takes me.
+
 ## 08/07/25
 Today, we walked through more React, but moreso focused on hierarchies. I get it, so that's nice. I am going to work on some more at
 home today since I am on the frontend development team and we will spend time with React this project. We also dabbled with Tailwind 
