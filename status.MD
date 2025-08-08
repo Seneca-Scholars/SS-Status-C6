@@ -1,3 +1,11 @@
+08/08/25 Today was a fun day, however I did miss today's field trip to Logicgate, but while I was alone in the office I was able to do more research into react and continued to work on my personal project. I was looking into the servers and structes when adding pages or exporting information from a page.tsx file to put on the main page.ts file and the many way I can make my code more Dynamic. I was learning that the prop children can be assigned to a layout.tsx or page.tsx. 
+
+08/07/25 I learned a lot today about how next.js really works and I really think the fact we can only have one page.tsx for the actually page in each folder was an interesting choice by the creater and making it sure they all have to be name page.tsx is inconvinent but easy to remember. We also went of the basic structure and hierarchy of a Next.js folder and how in a layout.tsx file
+the next layout.tsx file take priority as we go into nested folders and if there is no layout.tsx it just goes straight to page.tsx. Next.Js is also more of an extension to React and gives us more actions than the regular React would. I am going to continue my fish API prototype using Next.js and hopefull I won't have a problem with CORS this time.
+ 
+08/06/25 Today was Josh's last day and we are all sad to see him go. I hope he has a great time at Georgia Tech. We went to play Whirlyball and I can say for a fact my coordination and control with a bumber cart is a talent I did not know I had all in all 
+I had a fun and productive day today. We were learning more about react in lab an went over some React components avaliable for us to use.
+ 
 08/05/25 I was late today since I had to give my second presentation for DPI and I came in during lunch. I was able to find out what project we will be doing this year and I am looking forward to the working with my team. In labs, Daniel went over typescript and we learned about how to typescript has all pages named page.tsx.
 
 8/04/25 I learned more about react and how to implement different pages with a button. I was able to learn more about conditional rendering and how to use it on react. I was also able to learn about react fragments and the use cases for that and how it doesn't have any css element attached to it. I also learned more about a new html tag called strong 
