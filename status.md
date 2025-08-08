@@ -1,3 +1,11 @@
+*08-08-25\
+-visited and listened to presentation from LogicGate\
+-played lego building communication game and got 4th place\
+-ate great mediterranean food and networked with some of the interns at the company\
+-came back to the office and added more to my personal project\
+-finished the header (for now), searched for new api that allowed more requests, tried to set up youtube video api with google
+-
+
 *08-07-25\
 -read through routing portion of next.js documentation
 -became more familiar with tailwind css formatting to desing header of my personal site
