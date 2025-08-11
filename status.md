@@ -1,3 +1,7 @@
+## 08/11/25
+Today, Nell walked us through some of the scholarships we will have access to as Seneca scholars. Tonight, my friends and I are having
+a potluck, for our final week together. I start packing this week, and planning my school year schedule with the C6 project.
+
 ## 08/08/25
 Seneca visitied LogicGate today, a software company that works with other companies in maintaining their governance and risk management.
 Surprisingly, I ran into a friend at the office--Mary. She goes to my church and attends WashU for CS, small world. I enjoyed visiting,
