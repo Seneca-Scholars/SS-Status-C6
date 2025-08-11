@@ -1,3 +1,6 @@
+08-11-2025
+It was a relaxing Nell day today. She gave us a needs assessment we have to do by wednesday evening I believe, and that's going pretty well. Didn't do any coding today in labs, but Jaime talk to us about his college experience which was nice.
+
 8-07-2025
 I finished adding in the weather page inside of my nextJS site, and I added a page of my own. Afterwards I started learning about tailwindCSS, which I didn't like at first but after getting an extension that actually explains some of the syntax, I'm starting to like it. A bit of a shorter status today because I think taking notes on all of that CSS for like an hour and a half made my head feel fuzzy.
 
