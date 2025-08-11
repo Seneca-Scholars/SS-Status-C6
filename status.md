@@ -55,14 +55,23 @@ Julieta and I also worked on deciding how to make the delete row button but we d
 
 7/30 Julieta, Timothy, and I joined forces to work more on our project presentation. We created a timeline for the project and broke it up into different phases for the three teams, using chatgpt. Then we spent some time tweaking it and adding it to the slides. Tonight we are going to do a bit more work finalizing the project so that tomowrow morning it can be completely done and ready for review. 
 
-7/31 We presented our group project scholar scout. Im very proud of all the work we put in and also our presentation to our cohort. We also learned our roles for teams today and I am frontend and design. YAYYY!!!
+# 7/31 
+We presented our group project scholar scout. Im very proud of all the work we put in and also our presentation to our cohort. We also learned our roles for teams today and I am frontend and design. YAYYY!!!
 
-8/1 Today we talked to Wajiw to flesh our different questions and features of our project. We also had a meeting with UtmostU and they talked about all the resources that are available to us which was really cool to learn. 
+# 8/1 
+Today we talked to Wajiw to flesh our different questions and features of our project. We also had a meeting with UtmostU and they talked about all the resources that are available to us which was really cool to learn. 
 
-8/4 We went over more react concepts today. We talked more about promises and how the callback is a function that is run. We also talked about dot notation to render specific data. In labs with Jaime we talked a bit about next js. We talked about importing default items vs importing specific named items. I also talked with Ethan today about Figma and watched a video of a Figma introduction. 
+# 8/4 
+We went over more react concepts today. We talked more about promises and how the callback is a function that is run. We also talked about dot notation to render specific data. In labs with Jaime we talked a bit about next js. We talked about importing default items vs importing specific named items. I also talked with Ethan today about Figma and watched a video of a Figma introduction. 
 
-8/5 Today we went over NextJS. I learned that next js is a framework that helps to build projects. We went over components and how to add them into different pages. I practiced this concept by importing a weather page.tsx into my main page.tsx that way I could access the weather page by clicking a button. 
+# 8/5 
+Today we went over NextJS. I learned that next js is a framework that helps to build projects. We went over components and how to add them into different pages. I practiced this concept by importing a weather page.tsx into my main page.tsx that way I could access the weather page by clicking a button. 
 
-8/6 FUN WEDNESDAY we went to whirleyball and played about five rounds. It was very fun and a great team bonding experience. Today was Josh last day so we also celebrated that and we bid him farewell and good luck in school.
+# 8/6 
+FUN WEDNESDAY we went to whirleyball and played about five rounds. It was very fun and a great team bonding experience. Today was Josh last day so we also celebrated that and we bid him farewell and good luck in school.
 
-8/7 Today Wajiw went over how to navigate from one page to another page using the Link tag in next js. We then practiced this by making our personal projects into next js projects and I made a button that navigated from my specific recipes pages back to home using the Link tag. We also went more into the root file of a next js project and the hierarchy of the files. I learned that layout.tsx is the root and when it calls its children it is pulling code from page.tsx into the file. 
+# 8/7 
+Today Wajiw went over how to navigate from one page to another page using the Link tag in next js. We then practiced this by making our personal projects into next js projects and I made a button that navigated from my specific recipes pages back to home using the Link tag. We also went more into the root file of a next js project and the hierarchy of the files. I learned that layout.tsx is the root and when it calls its children it is pulling code from page.tsx into the file. 
+
+# 8/8 
+Today was a logic gate field trip. I learned a little bit about their company and how they manage risks for other companies including a lot of larger well known companies and brands. Then we played some communication related games which was really fun and related very closely to how working closely together with a team of people can be like. 
