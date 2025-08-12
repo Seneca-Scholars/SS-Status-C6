@@ -1,5 +1,10 @@
 # Arianna's Statuses Summer '25 !  
 
+## 8/12/25
+
+Todayys focus was brainstorming and discussing all things "ScholarScout" we started off more formally in a meeting with Wajiw where myself and timothy took detailed notes about things dissused. then later in a meeting with the frontend/design team we did research by finding other competing schlarships websites and jotting downs things we dont like and like about their websites to better develop ours. 
+
+
 ## 8/11/25
 
 Today was a "Nell Day" we started off in a meeting with her doing a really nice and funny checkin, and then reviewing the needs-assessment and expectations. i really like how she is doing this and i believe it will be helpful and will give me a voice in being open and honest. later me and lauren r hopped on a SM intern call reviewing the C6 t-shirt, making final edits and calls.    
