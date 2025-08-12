@@ -1,3 +1,6 @@
+08-12-2025
+We started brainstorming for our main project, Scholar Scout, today. There's a lot of details that need to be ironed out, and a lot of things that will have to be learned in order to get this working. It's going to be a lot of work managing this while adjusting to college, but I should be able to handle it. I just hope our schedules will coincide enough to make planning out meetings be easy. For my extra hours today, in the morning I worked on filling out a basic overview on a lot of programming terms, as not only will it be a good reminder just in case, but writing everything out should help me understand all of them. For the second extra hour I worked on react on my nextjs page, and I'm going to have to learn some typescript for an error I encountered.
+
 08-11-2025
 It was a relaxing Nell day today. She gave us a needs assessment we have to do by wednesday evening I believe, and that's going pretty well. Didn't do any coding today in labs, but Jaime talk to us about his college experience which was nice.
 
