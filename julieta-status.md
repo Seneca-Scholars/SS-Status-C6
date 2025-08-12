@@ -1,5 +1,11 @@
 ## Status Log:
 
+# 08/12/2025
+Tuesday, I worked on the brainstorming of design features to add to our scholar scout project. I proposed we use contrasting color scheme such as blue and orange so that we can have a more eye catching website. We also got some research done as we explored sites we may want to take inspiration from either in terms of design or in features/layout. So far, we also added a distinguishing feature where we can have people ask questions about applying to a certain scholarship on a community bulletin which was originnally proposed to advertise donors' scholarships. Then in the afternoon we also joined a meeting with our backend team and discussed possible websites to scrape from and possible APIs to use as well as combining some scholarships from our own universities websites. 
+
+# 08/11/2025
+Monday I worked on my learnning plan and started with React by reading articles such as on Mozilla as well as starting my own react app to simulate tic tac toe. I took extensive notes on the layout of react annd its synntax as well as its behaviour. In the afternoon I worked on the extensive needs assessment document for professiional and personal development.
+
 # 08/07/2025
 Thursday we learned with Wajiw more about routes in next js. I learned the objective of layout.tsx which is to essentially be the root file to provide structure to the webpage and be the base of how the project will start. Layout also supercedes page.tsx and page.tsx will automtically be a child of layout. Also, it acts like index.html and is how we can have html that persists across different routes. I also learned more about properly creating a new page in a react app by making a folder (/weather for example) and creating a page.tsx under it as a child which would be the new page. 
 
