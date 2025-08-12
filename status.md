@@ -1,3 +1,9 @@
+## 08/12/25
+Wajiw and the teams met and tried to lay out some of our visions for Scholar Scout. With the user, we considered what data would be 
+collected from each scholarship, like its deadline and the audience it focuses on, and etc. We met with one of our teams, like backend, 
+and researched possible APIs we would utilize. I also am realizing how many more things I need to purchase for my first apartment, so
+let's hop everything goes smoothly. 
+
 ## 08/11/25
 Today, Nell walked us through some of the scholarships we will have access to as Seneca scholars. Tonight, my friends and I are having
 a potluck, for our final week together. I start packing this week, and planning my school year schedule with the C6 project.
