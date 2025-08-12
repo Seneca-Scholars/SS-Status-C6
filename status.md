@@ -1,3 +1,9 @@
+*08-12-25\
+-brainstormed with wajiw and carla to help identify what our MVP could be\
+-met with frontend/design team to share some competitors and how we ike the layout of what they've done and certain aspects that we want to take for our website\
+-met with backend to find scraepers and apis to help us understand and start the process of building our api
+-
+
 *08-08-25\
 -visited and listened to presentation from LogicGate\
 -played lego building communication game and got 4th place\
