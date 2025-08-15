@@ -1,3 +1,10 @@
+## 08/15/25
+Today is my last day at Seneca, or for this phase of the internship at least. Yesterday, Jeff worked with the backend team and laid
+out the fundamentals in creating an API and using REACT to build, request, and access it. We have an idea of what steps we need to take,
+but we have a while to go. Wajiw also has laid out the learning plan we will implement in parallel to our project. I am nervouse to see
+how this will work considering I have a lot more classes this semester and am working 2 jobs outside of Seneca; I  will just have to sacrifice 
+my social life this year honestly (AHHHH). 
+
 ## 08/12/25
 Wajiw and the teams met and tried to lay out some of our visions for Scholar Scout. With the user, we considered what data would be 
 collected from each scholarship, like its deadline and the audience it focuses on, and etc. We met with one of our teams, like backend, 
