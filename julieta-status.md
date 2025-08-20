@@ -1,5 +1,14 @@
 ## Status Log:
 
+# 08/15/2025
+Friday I took notes on React and the role that the main/jsx file plays in the app. I also learned about the createRoot function and how it defines the oot node of our application. 
+
+# 08/14/25
+Thursday, I worked more on the API component of our project. I learned the fundamental concepts of API design and REST (Represenational state transfer) and I realized how we can modify and "CRUD" elements in our library. I learned also more about the coding/creating process where if we ask ourselves one big question (how to create x program), we can break it down into smaller pieces to get through. Thus, we must ask ourselves in our project all it is that we wish to serve our users with, from visual aspects to functions we must run behind the scenes. We also touched on curl which sends requests to things, sort of like get, and it is essentially an app that has network binders, allowing apps to make requests on network. We also covered user agents, things that make requests. 
+
+# 08/13/2025
+Wednesday, we worked on project requirements with individuals from previous cohorts. We went over our notes as teams on content we brainstormed as well as resources we researched that may be useful for design and API creation/scraping. We also talked about how to collaborate, propose ideas as well as decide on those ideas as a cohort. For design team, it was made aware to us that we need to consider typography and color scheme and components to allow for accessibility. 
+
 # 08/12/2025
 Tuesday, I worked on the brainstorming of design features to add to our scholar scout project. I proposed we use contrasting color scheme such as blue and orange so that we can have a more eye catching website. We also got some research done as we explored sites we may want to take inspiration from either in terms of design or in features/layout. So far, we also added a distinguishing feature where we can have people ask questions about applying to a certain scholarship on a community bulletin which was originnally proposed to advertise donors' scholarships. Then in the afternoon we also joined a meeting with our backend team and discussed possible websites to scrape from and possible APIs to use as well as combining some scholarships from our own universities websites. 
 
