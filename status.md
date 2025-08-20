@@ -1,3 +1,11 @@
+## 08/20/25
+Today is my fourth day in my college apartment. The adjustment has been rough considering I have been the first to move in, and do not
+have anything. My roommates and I split the costs of the electronics and tools, but they have most of them. I have 2 utensils, no WiFi 
+because I bought the wrong router, no cleaning supplies (they did not do a good job), no bowls, no cups, and now have to cook myself.
+I am not enjoying this. Anyway, training for one of my two campus jobs began this week, so that has been keeping me busy. I also 
+did some work today understand REST and what makes an API RESTful, and went through the HTTP methods
+reading. Hoping these next few weeks go smoother. 
+
 ## 08/15/25
 Today is my last day at Seneca, or for this phase of the internship at least. Yesterday, Jeff worked with the backend team and laid
 out the fundamentals in creating an API and using REACT to build, request, and access it. We have an idea of what steps we need to take,
