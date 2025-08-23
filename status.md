@@ -75,3 +75,7 @@ Today Wajiw went over how to navigate from one page to another page using the Li
 
 # 8/8 
 Today was a logic gate field trip. I learned a little bit about their company and how they manage risks for other companies including a lot of larger well known companies and brands. Then we played some communication related games which was really fun and related very closely to how working closely together with a team of people can be like. 
+
+# 8/23 
+Today I spent my hour doing some learning and activities on typescript. I watched a youtube video about what typescript is and how it is used and specific features of it. Then I followed along in my own vs code so that I understood what was happeening. One main takeaway I got from the video was that you can make a variable have the type any however this is generrally bad practice so it should be avoided unless there is a specific reason to do so. I also learned that if you make a variable and initialize it then you dont need to have type annotation for the variable. So for example if you have an age variable and you define it as being 20, typescript will recognize that the type is number. I thought this was interesting because I thought typescript was strict and would not allow this. 
+
