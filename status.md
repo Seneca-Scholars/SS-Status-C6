@@ -1,3 +1,11 @@
+## 08/23/25
+I am now realizing I am doing a poor job of updating my statuses, let's hop no one spots these time gaps. I finished going through the
+links Angel sent on REACT, REST, and NEXTJS. I am getting the fundamentals of creating an app, but still have a while to go. I also went back
+into some JS today and touched on the topic of sets and maps. I always hear this concept but never knew what it was, until today. I want
+to work on some typescript tomorrow and maybe watch a YouTube tutorial on some more material I would need for backend development. I also
+now have WiFI in my apartment AND we were able to do some cleaning so this place is starting to feel a bit more homey, but Chi will always
+be home. 
+
 ## 08/20/25
 Today is my fourth day in my college apartment. The adjustment has been rough considering I have been the first to move in, and do not
 have anything. My roommates and I split the costs of the electronics and tools, but they have most of them. I have 2 utensils, no WiFi 
