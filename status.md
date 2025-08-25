@@ -76,6 +76,15 @@ Today Wajiw went over how to navigate from one page to another page using the Li
 # 8/8 
 Today was a logic gate field trip. I learned a little bit about their company and how they manage risks for other companies including a lot of larger well known companies and brands. Then we played some communication related games which was really fun and related very closely to how working closely together with a team of people can be like. 
 
+# 8/19 
+Today Jaime hosted a short 30 minute lab. He taught a little bit about typescript and then we were able to ask him some questions afterwards. He talked about how typescript is more strict than javascript. He also talked about the pros and cons of using each language. He discussed how javascript is more beneficial for smaller projects, while typescript is more efficient for larger projects. 
+
+# 8/20 
+Kadin hosted labs today and gave us a runthrough of typescript and did a live demo of coding using typescript. This demo helped me better understand what Jaime taught yesterday because I was able to see it in real time. He showed us how typescript will error lines that have wrong or unclear types. 
+
+ # 8/22 
+ Today I spent an hour doing work with Figma. I watched a tutorial that I was able to follow along with. I then went onto Figma and used some features fromm the video to implement onto my own Figma window. I also started looking at scholarship websites and taking some ideas from them to implement into my rough draft homepage for Scholar Scout. I sent my Figma edits to the design team to recieve some feedback and hear their thoughts. 
+
 # 8/23 
 Today I spent my hour doing some learning and activities on typescript. I watched a youtube video about what typescript is and how it is used and specific features of it. Then I followed along in my own vs code so that I understood what was happeening. One main takeaway I got from the video was that you can make a variable have the type any however this is generrally bad practice so it should be avoided unless there is a specific reason to do so. I also learned that if you make a variable and initialize it then you dont need to have type annotation for the variable. So for example if you have an age variable and you define it as being 20, typescript will recognize that the type is number. I thought this was interesting because I thought typescript was strict and would not allow this. 
 
