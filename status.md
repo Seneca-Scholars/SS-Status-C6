@@ -1,3 +1,8 @@
+*08-26-25\
+-updated availability times for labs meetings\
+-read through next documentation on fetchign and updating data
+-
+
 *08-12-25\
 -brainstormed with wajiw and carla to help identify what our MVP could be\
 -met with frontend/design team to share some competitors and how we ike the layout of what they've done and certain aspects that we want to take for our website\
