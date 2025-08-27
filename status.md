@@ -1,3 +1,7 @@
+*08-27-25\
+-completed security training via Adaptive
+-
+
 *08-26-25\
 -updated availability times for labs meetings\
 -read through next documentation on fetchign and updating data\
