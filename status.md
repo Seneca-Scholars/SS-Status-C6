@@ -1,3 +1,8 @@
+## 08/26/25
+The frontend development team met today for the first time. It was nice seeing the team again, hope to see the others soon too. I am
+glad to be given some sort of direction in terms of more learning I should do, so I will keep at it. Probably should also hit up Wajiw.
+
+
 ## 08/23/25
 I am now realizing I am doing a poor job of updating my statuses, let's hop no one spots these time gaps. I finished going through the
 links Angel sent on REACT, REST, and NEXTJS. I am getting the fundamentals of creating an app, but still have a while to go. I also went back
