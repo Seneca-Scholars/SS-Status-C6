@@ -1,6 +1,7 @@
 *08-26-25\
 -updated availability times for labs meetings\
--read through next documentation on fetchign and updating data
+-read through next documentation on fetchign and updating data\
+-met with the frontend team to reacp progress made since leaving for school and make plans about tasks to carry out
 -
 
 *08-12-25\
