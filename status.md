@@ -1,3 +1,16 @@
+# Fall '25 Statuses! 
+
+## 9/4/25
+it feels so good to be back here! LOL. Today was fully dedicated to all things google calender, it took some time... but I'm glad its DONE. 
+
+Breakdown: 
+- 35 min meeting @ 4pm with Lauren R. having a check in about figurng out how she wants to break down her work schedule. 
+
+- 3pm-6:30 - Putting in work schedules into Google Calender, fixing exisiting issues with how the class schedules were entered (wrong timing etc.) 
+
+- Watched a short 30 min video on Figma
+
+
 # Arianna's Statuses Summer '25 !  
 
 ## 8/12/25
