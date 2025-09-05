@@ -8,7 +8,16 @@ Breakdown:
 
 - 3pm-6:30 - Putting in work schedules into Google Calender, fixing exisiting issues with how the class schedules were entered (wrong timing etc.) 
 
-- Watched a short 30 min video on Figma
+
+## Week Of 8/16-8/31
+
+- 8/22 and 8/25 Nell Touchpoints
+- 8/22 Meeting with Timothy working together with Google Calender
+- 8/25 Google calender work and checking in on C6 getting schudule. 
+- 8/26 Frontend Team meeting and Figma video watching for design. 
+- Mozilla docs reading React.js 1.3-1.7
+- 8/28 Cybersecurity training modudles (start) 
+- 8/29 - Labs, SM team meeting, finsshed cybersecurity training modules. 
 
 
 # Arianna's Statuses Summer '25 !  
