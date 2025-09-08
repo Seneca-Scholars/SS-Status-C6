@@ -97,3 +97,25 @@ I spent an hour in labs with Jaime as he explained the difference between server
 # 8/27 
 Today there were no labs because Jaime had classes. Instead, I spent my hour working on some more Figma work since Arianna discussed how the design team should be trying to better understand Figma during our meeting yesterday. I watched a tutorial that said the best way to get better at Figma is practice it. The course guide said that one great way of practiccing Figma skills is to take a website that has a good UI and try to replicate it from scratch. I did this with the Kaleidoscope scholarship web page. It was helpful and it made me more aware of spacing and how much it can change the UX of a page. 
 
+
+
+# 9/2
+Today I joined labs with Jaime. He talked to us about the difference between app routing and page routing. I learned that with app routing you can only go to a folder that has a router.tsx file in it. On the other hand, page routing routes to a file based on what folder it is in, but the name of the file is not strict. So if I was in a subfolder named calendar and a file called lauren.tsx to get to that file I would do /calendar/lauren. 
+Next I practiced my typescript knowledge by making a small project to get more comfortable with typescript. I also practiced linking one page to another by making subfolders under src/app. This was a small way for me to practice what Jaime talked about in labs today. 
+
+# 9/3
+Today I spent my time watching a video about CSS and taking notes. I watched a video that gave a demonstration of how each element in CSS affects pieces of a project differently. This video heavily touched on margins, borders, and padding which are some of the basic foundational pieces of CSS. Then I worked on manipulating the layout of my personal project using the margins and other components. 
+
+# 9/4 
+Labs with Kadin went well today! He showed us how to create a next-js project and talked about all the criteria it asks about as you try to create the project. He also talked about backend GET requests.
+
+# 9/5 
+I did some practice with typescript some more with the to do list project. 
+I practiced using “useState” to manipulate the to do items and change them when a user inputs a new item.
+
+# 9/6
+Today I watched a Figma video and learned how to do some new stuff for my Figma draft pages. I learned how to link a page to another page using the prototype page so that when I clicked the login button on my home page it goes to the log in page that I created. 
+
+# 9/8
+Today I watched a Next-JS youtube video and took some notes on it. It talked about a lot of things that Jaime had covered in previous labs like client side vs server side components. 
+Later today Jaime hosted labs and he talked about CRUD. Create, Read, Update, and Delete. We also talked about routes and how they get a user to a specific page. 
