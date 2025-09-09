@@ -1,12 +1,26 @@
 # Fall '25 Statuses! 
 
+## 9/6/25
+- 1 hour - Labs 
+- 1 hour 30 mins - Uploading Julieta's and Jode work schudule into google calender. 1on1 chat with Jode about navigating her work schudule, and Google calender
+
+## 9/5/25
+
+- 30 mins uploading Jode school s, and Lauren F. work scudule into Google calender.
+
+- 1 hour - Uploading my ideas for Latinx Campaign, Instagram Ideas, and colletive goals for Social Media. Also I conducted research on similar content for Latinx campaign 
+
+- SM team meeting 45 mins 
+- Nell touchpoint 30 mins
+
+
 ## 9/4/25
-it feels so good to be back here! LOL. Today was fully dedicated to all things google calender, it took some time... but I'm glad its DONE. 
+Today was fully dedicated to all things google calender, it took some time... but I'm glad its DONE. 
 
 Breakdown: 
 - 35 min meeting @ 4pm with Lauren R. having a check in about figurng out how she wants to break down her work schedule. 
 
-- 3pm-6:30 - Putting in work schedules into Google Calender, fixing exisiting issues with how the class schedules were entered (wrong timing etc.) 
+- 3pm-6:30 - Putting in work schedules into Google Calender, fixing exisiting issues with how the class schedules were entered (wrong timing etc.), researching inspiration for the Latinx campaign 
 
 
 ## Week Of 8/16-8/31
@@ -15,9 +29,10 @@ Breakdown:
 - 8/22 Meeting with Timothy working together with Google Calender
 - 8/25 Google calender work and checking in on C6 getting schudule. 
 - 8/26 Frontend Team meeting and Figma video watching for design. 
+- Finished on Meeting_Tracker_ALL google sheet Liz sent out
 - Mozilla docs reading React.js 1.3-1.7
-- 8/28 Cybersecurity training modudles (start) 
-- 8/29 - Labs, SM team meeting, finsshed cybersecurity training modules. 
+- 8/28 Cybersecurity training modudles (started)
+- 8/29 - Labs, SM team meeting, Meeting with Timothy for calender, finished cybersecurity training modules. 
 
 
 # Arianna's Statuses Summer '25 !  
