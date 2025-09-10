@@ -1,12 +1,16 @@
-# Fall '25 Statuses! 
+# Fall '25 Statuses!
 
-## 9/6/25
+## 9/9/25 - 2.50 hours 
+- 1 hour call @3pm with Lauren R. mapping out questions for the Latinx campaign, for SM team 
+- College Meeting w/Nell + C6: 1.5  
+
+## 9/8/25 - 2.50
 - 1 hour - Labs 
-- 1 hour 30 mins - Uploading Julieta's and Jode work schudule into google calender. 1on1 chat with Jode about navigating her work schudule, and Google calender
+- 1 hour 30 mins - Uploading Julieta's/Jode work and/or school schedule into google calender. 1on1 chat with Jode about navigating her work schedule, and Google calender
 
 ## 9/5/25
 
-- 30 mins uploading Jode school s, and Lauren F. work scudule into Google calender.
+- 30 mins uploading Jode school s, and Lauren F. work schedule into Google calender.
 
 - 1 hour - Uploading my ideas for Latinx Campaign, Instagram Ideas, and colletive goals for Social Media. Also I conducted research on similar content for Latinx campaign 
 
