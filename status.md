@@ -1,3 +1,10 @@
+## 09/11/25
+
+HAPPY ORTHODOX NEW YEAR! So I have fallen out of my groove of things, and forgot to update my status..so here is one cumulative status.
+On Tuesday, I watched a 1 hour lecture video on the foundations in TS. TS is very similar to Java in the sense that you must establish
+the data types of every primitive or object. After, I attended Nell's 1.5 hour workshop. 
+On Thursday, I attended Jaime's lab. He touched on CRUD methods again but pivoted to learning SQL since we will be using that.
+
 ## 08/26/25
 The frontend development team met today for the first time. It was nice seeing the team again, hope to see the others soon too. I am
 glad to be given some sort of direction in terms of more learning I should do, so I will keep at it. Probably should also hit up Wajiw.
