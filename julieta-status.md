@@ -1,5 +1,23 @@
 ## Status Log:
 
+# 09/11/2025
+Today, I built a test backend that acted like a student portal with objects of users, messages, events, and posts. I utlized app routing and practiced with Postman software to operate the GET and POST functions. Then I attended the labs session where I asked clariying questions about where we could see the database being updated, rather than blindly trusting external programs like Postman to let us know that the database was updated. We then went over creating a database table in a database file in Vs Code where we can see the data being modified or added to. However, all this was done using SQLite and we were informed that we may have to use Prisma. Though I wanted to start working with Prisma, its important for me to continue learning and solidifying my foudational skills with Typescript that I can continue building on as I learn Prisma. Therefore, the rest of the day I watched introductory videos explaining typescript and its syntax. The vdeo covered the typescript types, such as enum, the any type and how it works when defining variables, the purpose of the typescript compiler (tsc), the importance of exact arguments, objects, modifiers, and optional properties. In the video, I also learned about type aliases, unions and interrsections, type narrowing, nullable types, and the unknown and never type. I was learning in the office from 9:30am to 4:00pm today.
+
+# 09/09/2025
+Today, I attended a 1 hour labs session and we went over SQL, the common sytax for it and how it is simiilar to plain english, we also talked about the scenarios it is used in, such as communicating with the database. Then inn the evening, I attended a 1.5 hour mandatory College Prep Session with Nell and some of my peers and we went over the expectations of us, new rules such as documenting what we worked on iin our hours in a new groupchat, and we went over what counts as clockable time. 
+
+# 09/08/2025
+Today I attended a 1 hour labs session and we learned about the ways that Next.js does routing (app versus page based routing), and how we can use crud methods in express. 
+
+# 08/28/2025
+Thursday, I continued to watch the Javascript course to gain a soliid understanding of the fundamdental web development languages. I learned more about arrays and loops, wiith specific functons that apply to them, and also more advanvced functonns such as set tmeout. Durinng the labs sesson, we went moer over typescript interfaces and types with more sandbox next.js practice. 
+
+# 08/26/2025
+Tuesday I first finished my security awareness training assignment. Then I resumed self-teaching and exploring javascript with the same 22 hourlong video and also expanded on concepts in the video with chatgpt when needed if I didn't quite understand something. I took notes on object shortcuts such as shorthand property, destructing, and shorthand method, as well as important details like autoboxing, which doesn't work with null/undefined as well as the fact that objects are actually references, which pointed me to further clarifying copy by reference vs copy by value. Then, I learned more about the DOM, document object model, and its methods and properties.   
+
+# 08/25/2025
+Monday, I attended labs from 1-2pm. We learned about typescript, how to use it, and how it has important differences from js.
+
 # 08/15/2025
 Friday I took notes on React and the role that the main/jsx file plays in the app. I also learned about the createRoot function and how it defines the oot node of our application. 
 
