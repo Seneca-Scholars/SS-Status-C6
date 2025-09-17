@@ -1,5 +1,8 @@
-## 09/11/25
+## 09/17/25
+Today morning, I met with Nell for our monthly check in for an hour. Additionally, I spent the past half hour watching the introductory
+SQL video Jaime suggested and learned about the structure and appliance of SQL with queries. IN total, I worked for 1.5 hours.
 
+## 09/11/25
 HAPPY ORTHODOX NEW YEAR! So I have fallen out of my groove of things, and forgot to update my status..so here is one cumulative status.
 On Tuesday, I watched a 1 hour lecture video on the foundations in TS. TS is very similar to Java in the sense that you must establish
 the data types of every primitive or object. After, I attended Nell's 1.5 hour workshop. 
