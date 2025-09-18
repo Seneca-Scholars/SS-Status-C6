@@ -1,5 +1,15 @@
 # Fall '25 Statuses!
 
+## 9/17/25 
+- UtMostU "College Financing Best Practices" Meeting.
+- Reviwing Jamime's feedback on Labs Questions and researching SQL and its purpose/possible use in the backend. 
+
+## 9/15/25 - 1.5 hours
+- Check in with Nell. 
+
+## 9/10/25
+- 1 hour watching figma youtube video "web devlopmenmt mapping in Figma" and practicing on my own guided
+
 ## 9/9/25 - 2.50 hours 
 - 1 hour call @3pm with Lauren R. mapping out questions for the Latinx campaign, for SM team 
 - College Meeting w/Nell + C6: 1.5  
