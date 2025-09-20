@@ -1,3 +1,7 @@
+## 09/19/25
+Today evening, I spent 30 minutes annotating my syllabi, as Nell requested. So for the week of September 14th to the 20th, I worked a total
+of 2 hours.
+
 ## 09/17/25
 Today morning, I met with Nell for our monthly check in for an hour. Additionally, I spent the past half hour watching the introductory
 SQL video Jaime suggested and learned about the structure and appliance of SQL with queries. IN total, I worked for 1.5 hours.
@@ -48,6 +52,9 @@ a potluck, for our final week together. I start packing this week, and planning 
 
 ## 08/08/25
 Seneca visitied LogicGate today, a software company that works with other companies in maintaining their governance and risk management.
+Surprisingly, I ran into a friend at the office--Mary. She goes to my church and attends WashU for CS, small world. I enjoyed visiting,
+and am excited to see where my future takes me.
+
 Surprisingly, I ran into a friend at the office--Mary. She goes to my church and attends WashU for CS, small world. I enjoyed visiting,
 and am excited to see where my future takes me.
 
@@ -244,6 +251,3 @@ pushing into the wrong place.
 ## 06/20/25
 I somehow deleted my VS code so Milo helped me redownload and set it up. Yesterday was Juneteenth, so I spent some time with family and friends. 
 Excited to get started next week.
-
-## 06/18/25
-Today, I downloaded and installed the apps needed for this program. I also get to interact with the terminal for the first time.
