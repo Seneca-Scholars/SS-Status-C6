@@ -1,3 +1,10 @@
+## 09/24/25
+Aria held a one hour lab today that was for homework and open Q&A about internships and recruitment. 
+
+## 09/23/25
+Jaime held a one hour lab today discussing more express and route concepts. He blended frontend and backend concepts by showing us how calling
+CRUD methods is a channel between frontend and backend.
+
 ## 09/19/25
 Today evening, I spent 30 minutes annotating my syllabi, as Nell requested. So for the week of September 14th to the 20th, I worked a total
 of 2 hours.
