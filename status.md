@@ -1,8 +1,28 @@
 # Fall '25 Statuses!
 
-## 9/17/25 
+## 9/29/25
+- Watched Figma tutorial showcasing how to build wesbite wireframes that best communicate from designer to developer 
+
+- Figma pratice with components
+
+## 9/24/25 - 1 hour 
+- Labs with Aria 
+
+## 9/23/25 - 2 hours 
+- Design lab with Ethan 
+- Continuing pratice with Figma 
+
+## 9/19/25 - 4 hours 
+- Labs (1 hour)
+- Meeting with Nell (1 hour)
+- SM Meeting + researching Canva templates for current campigns and graphics + brainstorming the setup for Seneca instagram page (2 hour) 
+
+## 9/17/25 - 1.5
 - UtMostU "College Financing Best Practices" Meeting.
 - Reviwing Jamime's feedback on Labs Questions and researching SQL and its purpose/possible use in the backend. 
+
+## 9/16/25 - 1 hour
+- Figma pratice
 
 ## 9/15/25 - 1.5 hours
 - Check in with Nell. 
