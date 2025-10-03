@@ -1,3 +1,9 @@
+## 10/01/25
+TODAY WAS THE C6 KICKOFF MEETING! I am excited to get back working with Seneca, although it has been nice getting to focus on readjusting 
+to campus life. I am nervous on how to get started, like actually start building components for the site. But, I know I am not alone in this,
+so hoping the learning process is parallel to the working. I am also nervous to see how juggling my other responsibilities will be, but if need be,
+I know my priorities and will cut things out if I have to. Anyway, I clocked 2 hours at the kickoff meeting.
+
 ## 09/24/25
 Aria held a one hour lab today that was for homework and open Q&A about internships and recruitment. 
 
