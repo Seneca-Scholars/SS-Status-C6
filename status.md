@@ -1,3 +1,6 @@
+## 10/08/25
+Nell and I had our bi-weekly check in for 30 minutes.
+
 ## 10/01/25
 TODAY WAS THE C6 KICKOFF MEETING! I am excited to get back working with Seneca, although it has been nice getting to focus on readjusting 
 to campus life. I am nervous on how to get started, like actually start building components for the site. But, I know I am not alone in this,
