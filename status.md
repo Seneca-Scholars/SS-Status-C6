@@ -1,3 +1,9 @@
+## 11/03/25
+This was be a major status update, considering I have not pushed a status in a month. With backend, we have worked on making a sample spreadsheet
+of scholarships in Chicago that Scholar Scout would store, and I have been practicing SQL. Backend is moving slower just because we are in a spot 
+where we wait to be told what to code. On frontend, we have been doing some of the HTML for the starting page, and today I worked on one of the 
+navigation bars with Jode and Lauren. 
+
 ## 10/08/25
 Nell and I had our bi-weekly check in for 30 minutes.
 
